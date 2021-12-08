@@ -1,0 +1,10 @@
+//const Base = "http://localhost:9002"
+const Base = "https://100boot.cn"
+export const LocalDetails = `${Base}/weather`
+export const LocalInfo = `${Base}/weather/localInfo`
+export const Recently = `${Base}/weather/recently`
+export const TianQiApi = `${Base}/weather/tianqiapi`
+export const WeatherImg  = `${Base}/daishu/images`
+export const ReverseGeocoder  = `${Base}/weather/location/geocoderByLocation`
+export const AddressGeocoder  = `${Base}/weather/location/geocoderByAddress`
+export const SuggestionGeocoder  = `${Base}/weather/location/geocoderBySuggestion`

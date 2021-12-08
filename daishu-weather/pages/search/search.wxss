@@ -1,0 +1,80 @@
+.search-input {
+  padding: 10px;
+  display: flex;
+}
+
+.search-input .input-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 10px;
+  font-size: 14px;
+  flex: 1;
+}
+.search-input .icon-search {
+  margin-right: 10px;
+}
+.search-input .icon-del {
+  color: #e9e9e9;
+}
+.search-input .input {
+  flex: 1;
+}
+
+.search-input .cancel{
+  font-size: 14px;
+  border: 0;
+}
+
+.result .item {
+  font-size: 12px;
+  padding: 10px;
+}
+
+.history .clear {
+  font-size: 14px;
+}
+
+.default .title { 
+  display: block;
+  padding: 10px;
+  font-size: 14px;
+}
+
+.hot,
+.history {
+  width:calc(100% - 20px);
+  margin: auto;
+}
+.hot .item.dw {
+  background: rgb(36, 141, 226);
+  border-radius: 5px;
+  color: #fff;
+}
+
+.hot .item,
+.history .item {
+  float: left;
+  font-size: 14px;
+  width:calc((100% - 30px) / 3);
+  margin-right: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+  line-height: 30px;
+}
+
+.hot .item:nth-child(3n),
+.hot .history:nth-child(3n) {
+  margin-right: 10px;
+}
+
+.history .icon-del {
+  padding: 10px;
+}
+
+.clear-h {
+  color: rgb(211, 210, 210);
+  display: block;
+  font-size: 14px;
+  text-align: center;
+}

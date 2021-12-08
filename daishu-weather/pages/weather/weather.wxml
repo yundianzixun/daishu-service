@@ -1,0 +1,103 @@
+<view class="page container">
+  <view wx:if="!loading">
+    <view class="head">
+      <rich-text class="address" nodes="{{address}}" bindtap="onTapAddress"></rich-text>
+      <rich-text class="tips" nodes="{{airtipsHtml}}"></rich-text>
+      <view class="today">
+        <rich-text class="temp" nodes="{{tempHtml}}"></rich-text>
+        <view class="alarm" wx:if="{{alarmLength}}">
+          <view class="alarm-item {{ item.color }} {{ currentAlarm === index ? 'active' : '' }}" wx:for="{{alarm}}" wx:key="{{index}}">{{item.w5}}预警</view>
+        </view>
+        <view class="des">
+          <text class="text">{{ weatherDes }}</text>
+          <text class="line">|</text>
+          <rich-text class="score" nodes="{{scoreHtml}}" ></rich-text>
+        </view>
+        <view class="details">
+          <rich-text class="wind" nodes="{{windHtml}}" ></rich-text>
+          <rich-text class="water" nodes="{{waterHtml}}" ></rich-text>
+          <rich-text class="pa" nodes="{{paHtml}}" ></rich-text>
+        </view>
+      </view>
+    </view>
+    <view class="info">
+      <rich-text class="day" nodes="{{dayHtml}}" ></rich-text>
+      <text class="line"></text>
+      <rich-text class="tomorrow" nodes="{{tomorrowHtml}}" ></rich-text>
+    </view>
+    <view class="tit">
+      <text class="name">24小时预报</text>
+      <rich-text class="sun" nodes="{{sunHtml}}" ></rich-text>
+    </view>
+    <scroll-view
+      class="echart-wrap"
+      scroll-with-animation
+      scroll-x>
+      <view class="echart">
+        <ec-canvas
+          id="chart-dom"
+          canvas-id="chart-dom"
+          ec="{{ ec }}">
+        </ec-canvas>
+      </view>
+    </scroll-view>
+    <view class="tit">
+      <text class="name">7天预报</text>
+    </view>
+    <scroll-view
+      class="days-wrap"
+      scroll-with-animation
+      scroll-x>
+      <view
+        class="days"
+        style="width: {{ daysWidth }}"
+      >
+        <view 
+        class="days-item {{item.isToday ? 'today-bg' : ''}}"
+        style="width: {{item.width}}"
+        wx:key="index"
+        wx:for="{{day7}}">
+          <view class="top-wrap">
+            <view class="top">
+              <view wx:if="{{!item.isToday}}" class="week">{{ item.week }}</view>
+              <view wx:else class="week">
+                <text class="we-today">今</text>
+              </view>
+              <view class="date">{{ item.date }}</view>
+              <view class="wea"> {{ item.wea[0] }}</view>
+              <image class="img" src="{{ item.src[0] }}"></image>
+              <view class="win">{{ item.win[0] }}</view>
+            </view>
+          </view>
+          <view class="temp-echart-bg"></view>
+          <view class="bottom-wrap">
+            <view class="bottom">
+              <image class="img" src="{{ item.src[0] }}"></image>
+              <view class="wea"> {{ item.wea[1] }}</view>
+              <view class="win">{{ item.win[1] }}</view>
+              <view class="speed">{{ item.speed }}</view>
+              <view wx:if="{{item.score}}" class="score"><text class="circle {{item.score === '优' ? 'green' : 'yellow'}}"></text>{{ item.score }}</view>
+            </view>
+          </view>
+        </view> 
+        <view class="temp-echart">
+          <ec-canvas
+            id="temp-echart"
+            canvas-id="temp-echart"
+            ec="{{ ec }}">
+          </ec-canvas>
+        </view>
+      </view>
+    </scroll-view>
+    <view class="tit" bindtap="toogleIndexState">
+      <text class="name">生活指数</text>
+    </view>
+    <view class="index-wrap clear">
+      <view class="index" wx:for="{{index3d}}" wx:if="{{ index < indexLength }}" wx:key="index" style="{{item.style}}">
+        <image class="img" src="{{item.src}}" />
+        <text class="name">{{item.name}}</text>
+        <text class="value">{{item.value}}</text>
+      </view>
+    </view>  
+  </view>
+</view>

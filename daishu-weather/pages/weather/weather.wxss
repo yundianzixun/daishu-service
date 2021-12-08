@@ -1,0 +1,411 @@
+/* pages/weather/weather.wxss */
+.head {
+  background: linear-gradient(to bottom, #99CAE8 0%,#ffffff 100%);
+  /*background: linear-gradient(to bottom, #a1c8ffc2 0%,#ffffff 100%); */
+}
+.yellow {
+  /*background: #ecc455;*/
+  background: #E2C54E;
+}
+
+.orange {
+  /*background: #ec9e55;*/
+  background: #ec9e55;
+}
+
+.green {
+  /*background: rgb(107, 196, 107);*/
+  background: #4AB086;
+}
+
+.blue {
+  background: rgb(106, 177, 224);
+}
+
+.red {
+  /*background: rgb(238, 130, 130);*/
+  background: red;
+}
+.purple{
+  background: purple;
+}
+
+.maroon{
+  background: maroon;
+}
+
+.address {
+  display: block;
+  padding-top: 50rpx;
+  margin-bottom: 25rpx;
+  font-size: 16px;
+  text-align: center;
+}
+
+.address .address_text {
+  font-weight: bold
+}
+
+.address .icon-arrow {
+  font-size: 12px;
+}
+.tips {
+  position: relative;
+  padding:0 20px 0 40px;
+  max-width: 50%;
+  display: block;
+  margin: 0 auto 40rpx;
+  background-color:#0000002a;
+  border-radius: 3px;
+  height: 30px;
+  line-height: 30px;
+}
+.tips .icon-notice {
+  position: absolute;
+  top: 1px;
+  left: 15px;
+  font-size: 20px;
+  color: #fff;
+}
+.tips .text{
+  display: inline-block;
+  width: 100%;
+  color: #fff;
+  overflow:hidden;
+  text-overflow:ellipsis;
+  white-space:nowrap;
+  font-size: 12px;
+}
+
+.today {
+  margin-bottom: 20px;
+}
+
+.today .temp {
+  font-weight: 100;
+  font-size: 100px;
+  text-align: center;
+}
+
+.today .temp .text {
+  position: relative;
+}
+
+.today .temp .top {
+  position: absolute;
+  right: -50rpx;
+  top: 0;
+  font-style: normal
+}
+
+.des {
+  margin-bottom: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.des .text {
+  font-size: 18px;
+}
+
+.des .line {
+  display: block;
+  text-align: center;
+  width: 60rpx;
+  height: 20px;
+  font-size:15px;
+}
+
+.des .score .icon-leaf {
+  position: absolute;
+  top: 2px;
+  left: 5px;
+  font-size: 18px;
+}
+.des .score .con {
+  padding:2px 8px 2px 25px;
+  position: relative;
+  font-size: 14px;
+  color: #fff;
+  border-radius: 3px;
+}
+
+.details {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+  color: #777575
+}
+
+.details .iconfont {
+  margin-right: 3px;
+  font-size: 18px;
+  vertical-align: top;
+}
+
+.details .water {
+  margin: 0 20px;
+}
+.details .iconfont,
+.details .text {
+  vertical-align: middle
+}
+
+.info {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #f3f8ffc2;
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+
+.info .day,
+.info .tomorrow {
+  flex: 1;
+  padding: 10px;
+}
+
+.info .day .icon,
+.info .tomorrow .icon {
+  margin-left: 2px;
+  font-size: 12px;
+  border-radius: 3px;
+  padding: 0 10px;
+  color: #fff;
+  font-style: normal;
+}
+
+.info .day .text,
+.info .day .text2,
+.info .tomorrow .text,
+.info .tomorrow .text2 {
+  display: flex;
+  align-items: space-between;
+  justify-content: space-between;
+  margin-bottom: 5px;
+}
+
+.info .line {
+  display: block;
+  text-align: center;
+  width: 1px;
+  height: 40px;
+  background: #d3d3d34f;
+}
+
+.tit {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 5px;
+  border-bottom: 1px solid #f0f0f0;
+}
+.tit .name {
+  flex: 1;
+  font-size: 14px;
+  font-weight: bold;
+}
+.tit .sun {
+  color: #c0c0c0
+}
+.tit .sun .icon{
+  font-size: 14px;
+}
+.tit .sun .icon-sunset {
+  margin-left: 10px;
+}
+.tit .sun .text {
+  font-size: 12px;
+}
+
+.echart-wrap {
+  width: 100%;
+  margin-bottom: 40rpx;
+}
+
+.echart-wrap .echart {
+  width: 800px;
+  height: 160px
+}
+
+.days-wrap {
+  width: 100%;
+  margin-bottom: 40rpx;
+}
+
+.days {
+  position: relative;
+  display: flex;
+}
+
+.days .days-item {
+  float: left;
+  width: 20%;
+  text-align: center;
+  padding: 15px 0;
+  font-size: 14px;
+}
+
+.days .today-bg {
+  background: #fdfdfd;
+}
+
+.days .week {
+  margin-bottom: 5px;
+}
+
+.days .we-today {
+  color: #fff;
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  line-height:20px;
+  border-radius: 50%;
+  background-color: rgb(106, 177, 224);
+}
+
+.days .date {
+  margin-bottom: 5px;
+  color: #0000002a;
+  font-size: 12px;
+}
+
+.days .wea {
+  white-space: nowrap;
+  margin-bottom: 5px;
+}
+
+.days .win,
+.days .speed {
+  white-space: nowrap;
+  font-size: 12px;
+  color: #0000002a;
+}
+.days .speed {
+  margin-bottom: 5px;
+}
+
+.days .score {
+  white-space: nowrap;
+  font-size: 12px;
+  color: #333;
+}
+.days .score .circle {
+  vertical-align: middle;
+  display: inline-block;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  margin-right: 3px;
+}
+
+.days .img {
+  width: 20px;
+  height: 20px;
+  margin: auto;
+}
+
+.today-bg .date,
+.today-bg .win,
+.today-bg .speed  {
+  color: #333;
+}
+
+.temp-echart-bg {
+  width: 100%;
+  height: 170px;
+}
+
+.days .temp-echart{
+  position: absolute;
+  width: 100%;
+  height: 150px;
+  top: 125px;
+  left: 0;
+  right: 0;
+}
+
+.index-wrap .index{
+  float: left;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-right: 1px solid #f0f0f09f;
+  border-bottom: 1px solid #f0f0f09f;
+  margin-bottom: 20px;
+}
+.index-wrap .index:nth-child(4n) {
+  border-right: 0;
+}
+
+.index-wrap .index .name {
+  display: block;
+  font-size: 13px;
+  width: 100%;
+  text-align: center;
+  color: #333;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space:nowrap;
+}
+
+.index-wrap .index .value {
+  display: block;
+  font-size: 12px;
+  color: #0000002a;
+}
+
+.index-wrap .index .img {
+  width: 25px;
+  height: 25px;
+  margin-bottom: 5px;
+}
+
+.indexState {
+  margin-right: 15px;
+  font-size: 12px;
+  color: #0000007a;
+}
+
+.alarm {
+  position: relative;
+  display: block;
+  margin: auto;
+  height: 30px;
+  width: 100px;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.alarm .alarm-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  height: 30px;
+  width: 100px;
+  line-height: 30px;
+  border-radius: 20px;
+  font-size: 13px;
+  color: #fff;
+  opacity: 0;
+  transition: all 2s ease;
+}
+.alarm .alarm-item.active {
+  opacity: 1;
+}
+
+.we-icon {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+}
+
+.day {
+  background-size: 30px 30px;
+}

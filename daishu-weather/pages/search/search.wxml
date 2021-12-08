@@ -1,0 +1,43 @@
+<view class="page container">
+  <view class="search-input">
+    <view class="input-wrap">
+      <view class="iconfont icon-search"></view>
+      <input
+        class="input"
+        adjust-position="false"
+        placeholder="请输入城市名,快速查询天气信息"
+        placeholder-class="input-p"
+        bindinput="inputHandle"
+        bindconfirm="inputHandle"
+        value="{{value}}"
+      />
+      <view class="iconfont icon-del" bindtap="clearHandle"></view>
+      </view>
+    <button
+      class="cancel"
+      bindtap="cancelHandle"
+      size="mini" plain>取消</button>
+  </view>
+  <view class="result" wx:if="{{isSearch}}">
+    <view class="item" wx:key="{{item.id}}" data-lat="{{item.location.lat}}" data-lng="{{item.location.lng}}" wx:for="{{result}}" bindtap="selectItem">
+      {{item.title}},
+      {{item.city}},
+      {{item.province}}
+    </view>
+  </view>
+  <view class="default" wx:else>
+    <text class="title">猜你想找</text>
+    <view class="hot clear">
+      <view class="item dw" bindtap="dwHandle">定位</view>
+      <view class="item" wx:key="{{index}}" data-value="{{item}}" wx:for="{{hotCity}}" bindtap="hotHandle">{{item}}         </view>
+    </view>
+    <text class="title">历史记录</text>
+    <view class="history clear">
+      <view class="item" wx:key="{{index}}" wx:for="{{history}}" data-value="{{item}}" bindtap="hotHandle">
+        {{item}}
+        <text class="iconfont icon-del" catchtap="delHandle" data-value="{{item}}" ></text>
+      </view>
+    </view>
+    <text class="clear-h" wx:if="{{ history.length }}"  bindtap="clearHistory">清空历史</text>
+  </view>
+</view>

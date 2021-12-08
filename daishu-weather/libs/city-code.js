@@ -1,0 +1,12725 @@
+export default [{
+  "id": "CN101010100",
+  "cityEn": "beijing",
+  "cityZh": "\u5317\u4eac"
+}, {
+  "id": "CN101010200",
+  "cityEn": "haidian",
+  "cityZh": "\u6d77\u6dc0"
+}, {
+  "id": "CN101010300",
+  "cityEn": "chaoyang",
+  "cityZh": "\u671d\u9633"
+}, {
+  "id": "CN101010400",
+  "cityEn": "shunyi",
+  "cityZh": "\u987a\u4e49"
+}, {
+  "id": "CN101010500",
+  "cityEn": "huairou",
+  "cityZh": "\u6000\u67d4"
+}, {
+  "id": "CN101010600",
+  "cityEn": "tongzhou",
+  "cityZh": "\u901a\u5dde"
+}, {
+  "id": "CN101010700",
+  "cityEn": "changping",
+  "cityZh": "\u660c\u5e73"
+}, {
+  "id": "CN101010800",
+  "cityEn": "yanqing",
+  "cityZh": "\u5ef6\u5e86"
+}, {
+  "id": "CN101010900",
+  "cityEn": "fengtai",
+  "cityZh": "\u4e30\u53f0"
+}, {
+  "id": "CN101011000",
+  "cityEn": "shijingshan",
+  "cityZh": "\u77f3\u666f\u5c71"
+}, {
+  "id": "CN101011100",
+  "cityEn": "daxing",
+  "cityZh": "\u5927\u5174"
+}, {
+  "id": "CN101011200",
+  "cityEn": "fangshan",
+  "cityZh": "\u623f\u5c71"
+}, {
+  "id": "CN101011300",
+  "cityEn": "miyun",
+  "cityZh": "\u5bc6\u4e91"
+}, {
+  "id": "CN101011400",
+  "cityEn": "mentougou",
+  "cityZh": "\u95e8\u5934\u6c9f"
+}, {
+  "id": "CN101011500",
+  "cityEn": "pinggu",
+  "cityZh": "\u5e73\u8c37"
+}, {
+  "id": "CN101011600",
+  "cityEn": "dongcheng",
+  "cityZh": "\u4e1c\u57ce"
+}, {
+  "id": "CN101011700",
+  "cityEn": "xicheng",
+  "cityZh": "\u897f\u57ce"
+}, {
+  "id": "CN101020100",
+  "cityEn": "shanghai",
+  "cityZh": "\u4e0a\u6d77"
+}, {
+  "id": "CN101020200",
+  "cityEn": "minhang",
+  "cityZh": "\u95f5\u884c"
+}, {
+  "id": "CN101020300",
+  "cityEn": "baoshan",
+  "cityZh": "\u5b9d\u5c71"
+}, {
+  "id": "CN101020400",
+  "cityEn": "huangpu",
+  "cityZh": "\u9ec4\u6d66"
+}, {
+  "id": "CN101020500",
+  "cityEn": "jiading",
+  "cityZh": "\u5609\u5b9a"
+}, {
+  "id": "CN101020600",
+  "cityEn": "pudongxinqu",
+  "cityZh": "\u6d66\u4e1c\u65b0\u533a"
+}, {
+  "id": "CN101020700",
+  "cityEn": "jinshan",
+  "cityZh": "\u91d1\u5c71"
+}, {
+  "id": "CN101020800",
+  "cityEn": "qingpu",
+  "cityZh": "\u9752\u6d66"
+}, {
+  "id": "CN101020900",
+  "cityEn": "songjiang",
+  "cityZh": "\u677e\u6c5f"
+}, {
+  "id": "CN101021000",
+  "cityEn": "fengxian",
+  "cityZh": "\u5949\u8d24"
+}, {
+  "id": "CN101021100",
+  "cityEn": "chongming",
+  "cityZh": "\u5d07\u660e"
+}, {
+  "id": "CN101021200",
+  "cityEn": "xuhui",
+  "cityZh": "\u5f90\u6c47"
+}, {
+  "id": "CN101021300",
+  "cityEn": "changning",
+  "cityZh": "\u957f\u5b81"
+}, {
+  "id": "CN101021400",
+  "cityEn": "jingan",
+  "cityZh": "\u9759\u5b89"
+}, {
+  "id": "CN101021500",
+  "cityEn": "putuo",
+  "cityZh": "\u666e\u9640"
+}, {
+  "id": "CN101021600",
+  "cityEn": "hongkou",
+  "cityZh": "\u8679\u53e3"
+}, {
+  "id": "CN101021700",
+  "cityEn": "yangpu",
+  "cityZh": "\u6768\u6d66"
+}, {
+  "id": "CN101030100",
+  "cityEn": "tianjin",
+  "cityZh": "\u5929\u6d25"
+}, {
+  "id": "CN101030200",
+  "cityEn": "wuqing",
+  "cityZh": "\u6b66\u6e05"
+}, {
+  "id": "CN101030300",
+  "cityEn": "baodi",
+  "cityZh": "\u5b9d\u577b"
+}, {
+  "id": "CN101030400",
+  "cityEn": "dongli",
+  "cityZh": "\u4e1c\u4e3d"
+}, {
+  "id": "CN101030500",
+  "cityEn": "xiqing",
+  "cityZh": "\u897f\u9752"
+}, {
+  "id": "CN101030600",
+  "cityEn": "beichen",
+  "cityZh": "\u5317\u8fb0"
+}, {
+  "id": "CN101030700",
+  "cityEn": "ninghe",
+  "cityZh": "\u5b81\u6cb3"
+}, {
+  "id": "CN101030800",
+  "cityEn": "heping",
+  "cityZh": "\u548c\u5e73"
+}, {
+  "id": "CN101030900",
+  "cityEn": "jinghai",
+  "cityZh": "\u9759\u6d77"
+}, {
+  "id": "CN101031000",
+  "cityEn": "jinnan",
+  "cityZh": "\u6d25\u5357"
+}, {
+  "id": "CN101031100",
+  "cityEn": "binhaixinqu",
+  "cityZh": "\u6ee8\u6d77\u65b0\u533a"
+}, {
+  "id": "CN101031200",
+  "cityEn": "hedong",
+  "cityZh": "\u6cb3\u4e1c"
+}, {
+  "id": "CN101031300",
+  "cityEn": "hexi",
+  "cityZh": "\u6cb3\u897f"
+}, {
+  "id": "CN101031400",
+  "cityEn": "jizhou",
+  "cityZh": "\u84df\u5dde"
+}, {
+  "id": "CN101031500",
+  "cityEn": "nankai",
+  "cityZh": "\u5357\u5f00"
+}, {
+  "id": "CN101031600",
+  "cityEn": "hebei",
+  "cityZh": "\u6cb3\u5317"
+}, {
+  "id": "CN101031700",
+  "cityEn": "hongqiao",
+  "cityZh": "\u7ea2\u6865"
+}, {
+  "id": "CN101040100",
+  "cityEn": "chongqing",
+  "cityZh": "\u91cd\u5e86"
+}, {
+  "id": "CN101040200",
+  "cityEn": "yongchuan",
+  "cityZh": "\u6c38\u5ddd"
+}, {
+  "id": "CN101040300",
+  "cityEn": "hechuan",
+  "cityZh": "\u5408\u5ddd"
+}, {
+  "id": "CN101040400",
+  "cityEn": "nanchuan",
+  "cityZh": "\u5357\u5ddd"
+}, {
+  "id": "CN101040500",
+  "cityEn": "jiangjin",
+  "cityZh": "\u6c5f\u6d25"
+}, {
+  "id": "CN101040700",
+  "cityEn": "yubei",
+  "cityZh": "\u6e1d\u5317"
+}, {
+  "id": "CN101040800",
+  "cityEn": "beibei",
+  "cityZh": "\u5317\u789a"
+}, {
+  "id": "CN101040900",
+  "cityEn": "banan",
+  "cityZh": "\u5df4\u5357"
+}, {
+  "id": "CN101041000",
+  "cityEn": "changshou",
+  "cityZh": "\u957f\u5bff"
+}, {
+  "id": "CN101041100",
+  "cityEn": "qianjiang",
+  "cityZh": "\u9ed4\u6c5f"
+}, {
+  "id": "CN101041200",
+  "cityEn": "yuzhong",
+  "cityZh": "\u6e1d\u4e2d"
+}, {
+  "id": "CN101041300",
+  "cityEn": "wanzhou",
+  "cityZh": "\u4e07\u5dde"
+}, {
+  "id": "CN101041400",
+  "cityEn": "fuling",
+  "cityZh": "\u6daa\u9675"
+}, {
+  "id": "CN101041500",
+  "cityEn": "kaixian",
+  "cityZh": "\u5f00\u53bf"
+}, {
+  "id": "CN101041600",
+  "cityEn": "chengkou",
+  "cityZh": "\u57ce\u53e3"
+}, {
+  "id": "CN101041700",
+  "cityEn": "yunyang",
+  "cityZh": "\u4e91\u9633"
+}, {
+  "id": "CN101041800",
+  "cityEn": "wuxi",
+  "cityZh": "\u5deb\u6eaa"
+}, {
+  "id": "CN101041900",
+  "cityEn": "fengjie",
+  "cityZh": "\u5949\u8282"
+}, {
+  "id": "CN101042000",
+  "cityEn": "wushan",
+  "cityZh": "\u5deb\u5c71"
+}, {
+  "id": "CN101042100",
+  "cityEn": "tongnan",
+  "cityZh": "\u6f7c\u5357"
+}, {
+  "id": "CN101042200",
+  "cityEn": "dianjiang",
+  "cityZh": "\u57ab\u6c5f"
+}, {
+  "id": "CN101042300",
+  "cityEn": "liangping",
+  "cityZh": "\u6881\u5e73"
+}, {
+  "id": "CN101042400",
+  "cityEn": "zhongxian",
+  "cityZh": "\u5fe0\u53bf"
+}, {
+  "id": "CN101042500",
+  "cityEn": "shizhu",
+  "cityZh": "\u77f3\u67f1"
+}, {
+  "id": "CN101042600",
+  "cityEn": "dazu",
+  "cityZh": "\u5927\u8db3"
+}, {
+  "id": "CN101042700",
+  "cityEn": "rongchang",
+  "cityZh": "\u8363\u660c"
+}, {
+  "id": "CN101042800",
+  "cityEn": "tongliang",
+  "cityZh": "\u94dc\u6881"
+}, {
+  "id": "CN101042900",
+  "cityEn": "bishan",
+  "cityZh": "\u74a7\u5c71"
+}, {
+  "id": "CN101043000",
+  "cityEn": "fengdu",
+  "cityZh": "\u4e30\u90fd"
+}, {
+  "id": "CN101043100",
+  "cityEn": "wulong",
+  "cityZh": "\u6b66\u9686"
+}, {
+  "id": "CN101043200",
+  "cityEn": "pengshui",
+  "cityZh": "\u5f6d\u6c34"
+}, {
+  "id": "CN101043300",
+  "cityEn": "qijiang",
+  "cityZh": "\u7da6\u6c5f"
+}, {
+  "id": "CN101043400",
+  "cityEn": "youyang",
+  "cityZh": "\u9149\u9633"
+}, {
+  "id": "CN101043500",
+  "cityEn": "dadukou",
+  "cityZh": "\u5927\u6e21\u53e3"
+}, {
+  "id": "CN101043600",
+  "cityEn": "xiushan",
+  "cityZh": "\u79c0\u5c71"
+}, {
+  "id": "CN101043700",
+  "cityEn": "jiangbei",
+  "cityZh": "\u6c5f\u5317"
+}, {
+  "id": "CN101043800",
+  "cityEn": "shapingba",
+  "cityZh": "\u6c99\u576a\u575d"
+}, {
+  "id": "CN101043900",
+  "cityEn": "jiulongpo",
+  "cityZh": "\u4e5d\u9f99\u5761"
+}, {
+  "id": "CN101044000",
+  "cityEn": "nanan",
+  "cityZh": "\u5357\u5cb8"
+}, {
+  "id": "CN101044100",
+  "cityEn": "kaizhou",
+  "cityZh": "\u5f00\u5dde"
+}, {
+  "id": "CN101050101",
+  "cityEn": "haerbin",
+  "cityZh": "\u54c8\u5c14\u6ee8"
+}, {
+  "id": "CN101050102",
+  "cityEn": "shuangcheng",
+  "cityZh": "\u53cc\u57ce"
+}, {
+  "id": "CN101050103",
+  "cityEn": "hulan",
+  "cityZh": "\u547c\u5170"
+}, {
+  "id": "CN101050104",
+  "cityEn": "acheng",
+  "cityZh": "\u963f\u57ce"
+}, {
+  "id": "CN101050105",
+  "cityEn": "binxian",
+  "cityZh": "\u5bbe\u53bf"
+}, {
+  "id": "CN101050106",
+  "cityEn": "yilan",
+  "cityZh": "\u4f9d\u5170"
+}, {
+  "id": "CN101050107",
+  "cityEn": "bayan",
+  "cityZh": "\u5df4\u5f66"
+}, {
+  "id": "CN101050108",
+  "cityEn": "tonghe",
+  "cityZh": "\u901a\u6cb3"
+}, {
+  "id": "CN101050109",
+  "cityEn": "fangzheng",
+  "cityZh": "\u65b9\u6b63"
+}, {
+  "id": "CN101050110",
+  "cityEn": "yanshou",
+  "cityZh": "\u5ef6\u5bff"
+}, {
+  "id": "CN101050111",
+  "cityEn": "shangzhi",
+  "cityZh": "\u5c1a\u5fd7"
+}, {
+  "id": "CN101050112",
+  "cityEn": "wuchang",
+  "cityZh": "\u4e94\u5e38"
+}, {
+  "id": "CN101050113",
+  "cityEn": "mulan",
+  "cityZh": "\u6728\u5170"
+}, {
+  "id": "CN101050114",
+  "cityEn": "daoli",
+  "cityZh": "\u9053\u91cc"
+}, {
+  "id": "CN101050115",
+  "cityEn": "nangang",
+  "cityZh": "\u5357\u5c97"
+}, {
+  "id": "CN101050116",
+  "cityEn": "daowai",
+  "cityZh": "\u9053\u5916"
+}, {
+  "id": "CN101050117",
+  "cityEn": "pingfang",
+  "cityZh": "\u5e73\u623f"
+}, {
+  "id": "CN101050118",
+  "cityEn": "songbei",
+  "cityZh": "\u677e\u5317"
+}, {
+  "id": "CN101050119",
+  "cityEn": "xiangfang",
+  "cityZh": "\u9999\u574a"
+}, {
+  "id": "CN101050201",
+  "cityEn": "qiqihaer",
+  "cityZh": "\u9f50\u9f50\u54c8\u5c14"
+}, {
+  "id": "CN101050202",
+  "cityEn": "nehe",
+  "cityZh": "\u8bb7\u6cb3"
+}, {
+  "id": "CN101050203",
+  "cityEn": "longjiang",
+  "cityZh": "\u9f99\u6c5f"
+}, {
+  "id": "CN101050204",
+  "cityEn": "gannan",
+  "cityZh": "\u7518\u5357"
+}, {
+  "id": "CN101050205",
+  "cityEn": "fuyu",
+  "cityZh": "\u5bcc\u88d5"
+}, {
+  "id": "CN101050206",
+  "cityEn": "yian",
+  "cityZh": "\u4f9d\u5b89"
+}, {
+  "id": "CN101050207",
+  "cityEn": "baiquan",
+  "cityZh": "\u62dc\u6cc9"
+}, {
+  "id": "CN101050208",
+  "cityEn": "keshan",
+  "cityZh": "\u514b\u5c71"
+}, {
+  "id": "CN101050209",
+  "cityEn": "kedong",
+  "cityZh": "\u514b\u4e1c"
+}, {
+  "id": "CN101050210",
+  "cityEn": "tailai",
+  "cityZh": "\u6cf0\u6765"
+}, {
+  "id": "CN101050211",
+  "cityEn": "longsha",
+  "cityZh": "\u9f99\u6c99"
+}, {
+  "id": "CN101050212",
+  "cityEn": "jianhua",
+  "cityZh": "\u5efa\u534e"
+}, {
+  "id": "CN101050213",
+  "cityEn": "tiefeng",
+  "cityZh": "\u94c1\u950b"
+}, {
+  "id": "CN101050214",
+  "cityEn": "angangxi",
+  "cityZh": "\u6602\u6602\u6eaa"
+}, {
+  "id": "CN101050215",
+  "cityEn": "fulaerji",
+  "cityZh": "\u5bcc\u62c9\u5c14\u57fa"
+}, {
+  "id": "CN101050216",
+  "cityEn": "nianzishan",
+  "cityZh": "\u78be\u5b50\u5c71"
+}, {
+  "id": "CN101050217",
+  "cityEn": "meilisi",
+  "cityZh": "\u6885\u91cc\u65af"
+}, {
+  "id": "CN101050301",
+  "cityEn": "mudanjiang",
+  "cityZh": "\u7261\u4e39\u6c5f"
+}, {
+  "id": "CN101050302",
+  "cityEn": "hailin",
+  "cityZh": "\u6d77\u6797"
+}, {
+  "id": "CN101050303",
+  "cityEn": "muling",
+  "cityZh": "\u7a46\u68f1"
+}, {
+  "id": "CN101050304",
+  "cityEn": "linkou",
+  "cityZh": "\u6797\u53e3"
+}, {
+  "id": "CN101050305",
+  "cityEn": "suifenhe",
+  "cityZh": "\u7ee5\u82ac\u6cb3"
+}, {
+  "id": "CN101050306",
+  "cityEn": "ningan",
+  "cityZh": "\u5b81\u5b89"
+}, {
+  "id": "CN101050307",
+  "cityEn": "dongning",
+  "cityZh": "\u4e1c\u5b81"
+}, {
+  "id": "CN101050308",
+  "cityEn": "dongan",
+  "cityZh": "\u4e1c\u5b89"
+}, {
+  "id": "CN101050309",
+  "cityEn": "yangming",
+  "cityZh": "\u9633\u660e"
+}, {
+  "id": "CN101050310",
+  "cityEn": "aimin",
+  "cityZh": "\u7231\u6c11"
+}, {
+  "id": "CN101050311",
+  "cityEn": "xian",
+  "cityZh": "\u897f\u5b89"
+}, {
+  "id": "CN101050401",
+  "cityEn": "jiamusi",
+  "cityZh": "\u4f73\u6728\u65af"
+}, {
+  "id": "CN101050402",
+  "cityEn": "tangyuan",
+  "cityZh": "\u6c64\u539f"
+}, {
+  "id": "CN101050403",
+  "cityEn": "fuyuan",
+  "cityZh": "\u629a\u8fdc"
+}, {
+  "id": "CN101050404",
+  "cityEn": "huachuan",
+  "cityZh": "\u6866\u5ddd"
+}, {
+  "id": "CN101050405",
+  "cityEn": "huanan",
+  "cityZh": "\u6866\u5357"
+}, {
+  "id": "CN101050406",
+  "cityEn": "tongjiang",
+  "cityZh": "\u540c\u6c5f"
+}, {
+  "id": "CN101050407",
+  "cityEn": "fujin",
+  "cityZh": "\u5bcc\u9526"
+}, {
+  "id": "CN101050408",
+  "cityEn": "xiangyang",
+  "cityZh": "\u5411\u9633"
+}, {
+  "id": "CN101050409",
+  "cityEn": "qianjin",
+  "cityZh": "\u524d\u8fdb"
+}, {
+  "id": "CN101050410",
+  "cityEn": "dongfeng",
+  "cityZh": "\u4e1c\u98ce"
+}, {
+  "id": "CN101050411",
+  "cityEn": "jiaoqu",
+  "cityZh": "\u90ca\u533a"
+}, {
+  "id": "CN101050501",
+  "cityEn": "suihua",
+  "cityZh": "\u7ee5\u5316"
+}, {
+  "id": "CN101050502",
+  "cityEn": "zhaodong",
+  "cityZh": "\u8087\u4e1c"
+}, {
+  "id": "CN101050503",
+  "cityEn": "anda",
+  "cityZh": "\u5b89\u8fbe"
+}, {
+  "id": "CN101050504",
+  "cityEn": "hailun",
+  "cityZh": "\u6d77\u4f26"
+}, {
+  "id": "CN101050505",
+  "cityEn": "mingshui",
+  "cityZh": "\u660e\u6c34"
+}, {
+  "id": "CN101050506",
+  "cityEn": "wangkui",
+  "cityZh": "\u671b\u594e"
+}, {
+  "id": "CN101050507",
+  "cityEn": "lanxi",
+  "cityZh": "\u5170\u897f"
+}, {
+  "id": "CN101050508",
+  "cityEn": "qinggang",
+  "cityZh": "\u9752\u5188"
+}, {
+  "id": "CN101050509",
+  "cityEn": "qingan",
+  "cityZh": "\u5e86\u5b89"
+}, {
+  "id": "CN101050510",
+  "cityEn": "suiling",
+  "cityZh": "\u7ee5\u68f1"
+}, {
+  "id": "CN101050511",
+  "cityEn": "beilin",
+  "cityZh": "\u5317\u6797"
+}, {
+  "id": "CN101050601",
+  "cityEn": "heihe",
+  "cityZh": "\u9ed1\u6cb3"
+}, {
+  "id": "CN101050602",
+  "cityEn": "nenjiang",
+  "cityZh": "\u5ae9\u6c5f"
+}, {
+  "id": "CN101050603",
+  "cityEn": "sunwu",
+  "cityZh": "\u5b59\u5434"
+}, {
+  "id": "CN101050604",
+  "cityEn": "xunke",
+  "cityZh": "\u900a\u514b"
+}, {
+  "id": "CN101050605",
+  "cityEn": "wudalianchi",
+  "cityZh": "\u4e94\u5927\u8fde\u6c60"
+}, {
+  "id": "CN101050606",
+  "cityEn": "beian",
+  "cityZh": "\u5317\u5b89"
+}, {
+  "id": "CN101050607",
+  "cityEn": "aihui",
+  "cityZh": "\u7231\u8f89"
+}, {
+  "id": "CN101050701",
+  "cityEn": "daxinganling",
+  "cityZh": "\u5927\u5174\u5b89\u5cad"
+}, {
+  "id": "CN101050702",
+  "cityEn": "tahe",
+  "cityZh": "\u5854\u6cb3"
+}, {
+  "id": "CN101050703",
+  "cityEn": "mohe",
+  "cityZh": "\u6f20\u6cb3"
+}, {
+  "id": "CN101050704",
+  "cityEn": "huma",
+  "cityZh": "\u547c\u739b"
+}, {
+  "id": "CN101050801",
+  "cityEn": "yichun",
+  "cityZh": "\u4f0a\u6625"
+}, {
+  "id": "CN101050802",
+  "cityEn": "wuyiling",
+  "cityZh": "\u4e4c\u4f0a\u5cad"
+}, {
+  "id": "CN101050803",
+  "cityEn": "wuying",
+  "cityZh": "\u4e94\u8425"
+}, {
+  "id": "CN101050804",
+  "cityEn": "tieli",
+  "cityZh": "\u94c1\u529b"
+}, {
+  "id": "CN101050805",
+  "cityEn": "jiayin",
+  "cityZh": "\u5609\u836b"
+}, {
+  "id": "CN101050806",
+  "cityEn": "nancha",
+  "cityZh": "\u5357\u5c94"
+}, {
+  "id": "CN101050807",
+  "cityEn": "youhao",
+  "cityZh": "\u53cb\u597d"
+}, {
+  "id": "CN101050808",
+  "cityEn": "xilin",
+  "cityZh": "\u897f\u6797"
+}, {
+  "id": "CN101050809",
+  "cityEn": "cuiluan",
+  "cityZh": "\u7fe0\u5ce6"
+}, {
+  "id": "CN101050810",
+  "cityEn": "xinqing",
+  "cityZh": "\u65b0\u9752"
+}, {
+  "id": "CN101050811",
+  "cityEn": "meixi",
+  "cityZh": "\u7f8e\u6eaa"
+}, {
+  "id": "CN101050812",
+  "cityEn": "jinshantun",
+  "cityZh": "\u91d1\u5c71\u5c6f"
+}, {
+  "id": "CN101050813",
+  "cityEn": "wumahe",
+  "cityZh": "\u4e4c\u9a6c\u6cb3"
+}, {
+  "id": "CN101050814",
+  "cityEn": "tangwanghe",
+  "cityZh": "\u6c64\u65fa\u6cb3"
+}, {
+  "id": "CN101050815",
+  "cityEn": "dailing",
+  "cityZh": "\u5e26\u5cad"
+}, {
+  "id": "CN101050816",
+  "cityEn": "hongxing",
+  "cityZh": "\u7ea2\u661f"
+}, {
+  "id": "CN101050817",
+  "cityEn": "shangganling",
+  "cityZh": "\u4e0a\u7518\u5cad"
+}, {
+  "id": "CN101050901",
+  "cityEn": "daqing",
+  "cityZh": "\u5927\u5e86"
+}, {
+  "id": "CN101050902",
+  "cityEn": "lindian",
+  "cityZh": "\u6797\u7538"
+}, {
+  "id": "CN101050903",
+  "cityEn": "zhaozhou",
+  "cityZh": "\u8087\u5dde"
+}, {
+  "id": "CN101050904",
+  "cityEn": "zhaoyuan",
+  "cityZh": "\u8087\u6e90"
+}, {
+  "id": "CN101050905",
+  "cityEn": "duerbote",
+  "cityZh": "\u675c\u5c14\u4f2f\u7279"
+}, {
+  "id": "CN101050906",
+  "cityEn": "saertu",
+  "cityZh": "\u8428\u5c14\u56fe"
+}, {
+  "id": "CN101050907",
+  "cityEn": "longfeng",
+  "cityZh": "\u9f99\u51e4"
+}, {
+  "id": "CN101050908",
+  "cityEn": "ranghulu",
+  "cityZh": "\u8ba9\u80e1\u8def"
+}, {
+  "id": "CN101050909",
+  "cityEn": "honggang",
+  "cityZh": "\u7ea2\u5c97"
+}, {
+  "id": "CN101050910",
+  "cityEn": "datong",
+  "cityZh": "\u5927\u540c"
+}, {
+  "id": "CN101051001",
+  "cityEn": "xinxing",
+  "cityZh": "\u65b0\u5174"
+}, {
+  "id": "CN101051002",
+  "cityEn": "qitaihe",
+  "cityZh": "\u4e03\u53f0\u6cb3"
+}, {
+  "id": "CN101051003",
+  "cityEn": "boli",
+  "cityZh": "\u52c3\u5229"
+}, {
+  "id": "CN101051004",
+  "cityEn": "taoshan",
+  "cityZh": "\u6843\u5c71"
+}, {
+  "id": "CN101051005",
+  "cityEn": "qiezihe",
+  "cityZh": "\u8304\u5b50\u6cb3"
+}, {
+  "id": "CN101051101",
+  "cityEn": "jixi",
+  "cityZh": "\u9e21\u897f"
+}, {
+  "id": "CN101051102",
+  "cityEn": "hulin",
+  "cityZh": "\u864e\u6797"
+}, {
+  "id": "CN101051103",
+  "cityEn": "mishan",
+  "cityZh": "\u5bc6\u5c71"
+}, {
+  "id": "CN101051104",
+  "cityEn": "jidong",
+  "cityZh": "\u9e21\u4e1c"
+}, {
+  "id": "CN101051105",
+  "cityEn": "jiguan",
+  "cityZh": "\u9e21\u51a0"
+}, {
+  "id": "CN101051106",
+  "cityEn": "hengshan",
+  "cityZh": "\u6052\u5c71"
+}, {
+  "id": "CN101051107",
+  "cityEn": "didao",
+  "cityZh": "\u6ef4\u9053"
+}, {
+  "id": "CN101051108",
+  "cityEn": "lishu",
+  "cityZh": "\u68a8\u6811"
+}, {
+  "id": "CN101051109",
+  "cityEn": "chengzihe",
+  "cityZh": "\u57ce\u5b50\u6cb3"
+}, {
+  "id": "CN101051110",
+  "cityEn": "mashan",
+  "cityZh": "\u9ebb\u5c71"
+}, {
+  "id": "CN101051201",
+  "cityEn": "hegang",
+  "cityZh": "\u9e64\u5c97"
+}, {
+  "id": "CN101051202",
+  "cityEn": "suibin",
+  "cityZh": "\u7ee5\u6ee8"
+}, {
+  "id": "CN101051203",
+  "cityEn": "luobei",
+  "cityZh": "\u841d\u5317"
+}, {
+  "id": "CN101051204",
+  "cityEn": "xiangyang",
+  "cityZh": "\u5411\u9633"
+}, {
+  "id": "CN101051205",
+  "cityEn": "gongnong",
+  "cityZh": "\u5de5\u519c"
+}, {
+  "id": "CN101051206",
+  "cityEn": "nanshan",
+  "cityZh": "\u5357\u5c71"
+}, {
+  "id": "CN101051207",
+  "cityEn": "xingan",
+  "cityZh": "\u5174\u5b89"
+}, {
+  "id": "CN101051208",
+  "cityEn": "dongshan",
+  "cityZh": "\u4e1c\u5c71"
+}, {
+  "id": "CN101051209",
+  "cityEn": "xingshan",
+  "cityZh": "\u5174\u5c71"
+}, {
+  "id": "CN101051301",
+  "cityEn": "shuangyashan",
+  "cityZh": "\u53cc\u9e2d\u5c71"
+}, {
+  "id": "CN101051302",
+  "cityEn": "jixian",
+  "cityZh": "\u96c6\u8d24"
+}, {
+  "id": "CN101051303",
+  "cityEn": "baoqing",
+  "cityZh": "\u5b9d\u6e05"
+}, {
+  "id": "CN101051304",
+  "cityEn": "raohe",
+  "cityZh": "\u9976\u6cb3"
+}, {
+  "id": "CN101051305",
+  "cityEn": "youyi",
+  "cityZh": "\u53cb\u8c0a"
+}, {
+  "id": "CN101051306",
+  "cityEn": "jianshan",
+  "cityZh": "\u5c16\u5c71"
+}, {
+  "id": "CN101051307",
+  "cityEn": "lingdong",
+  "cityZh": "\u5cad\u4e1c"
+}, {
+  "id": "CN101051308",
+  "cityEn": "sifangtai",
+  "cityZh": "\u56db\u65b9\u53f0"
+}, {
+  "id": "CN101051309",
+  "cityEn": "baoshan",
+  "cityZh": "\u5b9d\u5c71"
+}, {
+  "id": "CN101060101",
+  "cityEn": "changchun",
+  "cityZh": "\u957f\u6625"
+}, {
+  "id": "CN101060102",
+  "cityEn": "nongan",
+  "cityZh": "\u519c\u5b89"
+}, {
+  "id": "CN101060103",
+  "cityEn": "dehui",
+  "cityZh": "\u5fb7\u60e0"
+}, {
+  "id": "CN101060104",
+  "cityEn": "jiutai",
+  "cityZh": "\u4e5d\u53f0"
+}, {
+  "id": "CN101060105",
+  "cityEn": "yushu",
+  "cityZh": "\u6986\u6811"
+}, {
+  "id": "CN101060106",
+  "cityEn": "shuangyang",
+  "cityZh": "\u53cc\u9633"
+}, {
+  "id": "CN101060107",
+  "cityEn": "erdao",
+  "cityZh": "\u4e8c\u9053"
+}, {
+  "id": "CN101060108",
+  "cityEn": "nanguan",
+  "cityZh": "\u5357\u5173"
+}, {
+  "id": "CN101060109",
+  "cityEn": "kuancheng",
+  "cityZh": "\u5bbd\u57ce"
+}, {
+  "id": "CN101060110",
+  "cityEn": "chaoyang",
+  "cityZh": "\u671d\u9633"
+}, {
+  "id": "CN101060111",
+  "cityEn": "lvyuan",
+  "cityZh": "\u7eff\u56ed"
+}, {
+  "id": "CN101060201",
+  "cityEn": "jilin",
+  "cityZh": "\u5409\u6797"
+}, {
+  "id": "CN101060202",
+  "cityEn": "shulan",
+  "cityZh": "\u8212\u5170"
+}, {
+  "id": "CN101060203",
+  "cityEn": "yongji",
+  "cityZh": "\u6c38\u5409"
+}, {
+  "id": "CN101060204",
+  "cityEn": "jiaohe",
+  "cityZh": "\u86df\u6cb3"
+}, {
+  "id": "CN101060205",
+  "cityEn": "panshi",
+  "cityZh": "\u78d0\u77f3"
+}, {
+  "id": "CN101060206",
+  "cityEn": "huadian",
+  "cityZh": "\u6866\u7538"
+}, {
+  "id": "CN101060207",
+  "cityEn": "changyi",
+  "cityZh": "\u660c\u9091"
+}, {
+  "id": "CN101060208",
+  "cityEn": "longtan",
+  "cityZh": "\u9f99\u6f6d"
+}, {
+  "id": "CN101060209",
+  "cityEn": "chuanying",
+  "cityZh": "\u8239\u8425"
+}, {
+  "id": "CN101060210",
+  "cityEn": "fengman",
+  "cityZh": "\u4e30\u6ee1"
+}, {
+  "id": "CN101060301",
+  "cityEn": "yanji",
+  "cityZh": "\u5ef6\u5409"
+}, {
+  "id": "CN101060302",
+  "cityEn": "dunhua",
+  "cityZh": "\u6566\u5316"
+}, {
+  "id": "CN101060303",
+  "cityEn": "antu",
+  "cityZh": "\u5b89\u56fe"
+}, {
+  "id": "CN101060304",
+  "cityEn": "wangqing",
+  "cityZh": "\u6c6a\u6e05"
+}, {
+  "id": "CN101060305",
+  "cityEn": "helong",
+  "cityZh": "\u548c\u9f99"
+}, {
+  "id": "CN101060306",
+  "cityEn": "yanbian",
+  "cityZh": "\u5ef6\u8fb9"
+}, {
+  "id": "CN101060307",
+  "cityEn": "longjing",
+  "cityZh": "\u9f99\u4e95"
+}, {
+  "id": "CN101060308",
+  "cityEn": "hunchun",
+  "cityZh": "\u73f2\u6625"
+}, {
+  "id": "CN101060309",
+  "cityEn": "tumen",
+  "cityZh": "\u56fe\u4eec"
+}, {
+  "id": "CN101060401",
+  "cityEn": "siping",
+  "cityZh": "\u56db\u5e73"
+}, {
+  "id": "CN101060402",
+  "cityEn": "shuangliao",
+  "cityZh": "\u53cc\u8fbd"
+}, {
+  "id": "CN101060403",
+  "cityEn": "lishu",
+  "cityZh": "\u68a8\u6811"
+}, {
+  "id": "CN101060404",
+  "cityEn": "gongzhuling",
+  "cityZh": "\u516c\u4e3b\u5cad"
+}, {
+  "id": "CN101060405",
+  "cityEn": "yitong",
+  "cityZh": "\u4f0a\u901a"
+}, {
+  "id": "CN101060406",
+  "cityEn": "tiexi",
+  "cityZh": "\u94c1\u897f"
+}, {
+  "id": "CN101060407",
+  "cityEn": "tiedong",
+  "cityZh": "\u94c1\u4e1c"
+}, {
+  "id": "CN101060501",
+  "cityEn": "tonghua",
+  "cityZh": "\u901a\u5316"
+}, {
+  "id": "CN101060502",
+  "cityEn": "meihekou",
+  "cityZh": "\u6885\u6cb3\u53e3"
+}, {
+  "id": "CN101060503",
+  "cityEn": "liuhe",
+  "cityZh": "\u67f3\u6cb3"
+}, {
+  "id": "CN101060504",
+  "cityEn": "huinan",
+  "cityZh": "\u8f89\u5357"
+}, {
+  "id": "CN101060505",
+  "cityEn": "jian",
+  "cityZh": "\u96c6\u5b89"
+}, {
+  "id": "CN101060506",
+  "cityEn": "tonghuaxian",
+  "cityZh": "\u901a\u5316\u53bf"
+}, {
+  "id": "CN101060507",
+  "cityEn": "dongchang",
+  "cityZh": "\u4e1c\u660c"
+}, {
+  "id": "CN101060508",
+  "cityEn": "erdaojiang",
+  "cityZh": "\u4e8c\u9053\u6c5f"
+}, {
+  "id": "CN101060601",
+  "cityEn": "baicheng",
+  "cityZh": "\u767d\u57ce"
+}, {
+  "id": "CN101060602",
+  "cityEn": "taonan",
+  "cityZh": "\u6d2e\u5357"
+}, {
+  "id": "CN101060603",
+  "cityEn": "daan",
+  "cityZh": "\u5927\u5b89"
+}, {
+  "id": "CN101060604",
+  "cityEn": "zhenlai",
+  "cityZh": "\u9547\u8d49"
+}, {
+  "id": "CN101060605",
+  "cityEn": "tongyu",
+  "cityZh": "\u901a\u6986"
+}, {
+  "id": "CN101060606",
+  "cityEn": "taobei",
+  "cityZh": "\u6d2e\u5317"
+}, {
+  "id": "CN101060701",
+  "cityEn": "liaoyuan",
+  "cityZh": "\u8fbd\u6e90"
+}, {
+  "id": "CN101060702",
+  "cityEn": "dongfeng",
+  "cityZh": "\u4e1c\u4e30"
+}, {
+  "id": "CN101060703",
+  "cityEn": "dongliao",
+  "cityZh": "\u4e1c\u8fbd"
+}, {
+  "id": "CN101060704",
+  "cityEn": "longshan",
+  "cityZh": "\u9f99\u5c71"
+}, {
+  "id": "CN101060705",
+  "cityEn": "xian",
+  "cityZh": "\u897f\u5b89"
+}, {
+  "id": "CN101060801",
+  "cityEn": "songyuan",
+  "cityZh": "\u677e\u539f"
+}, {
+  "id": "CN101060802",
+  "cityEn": "qianan",
+  "cityZh": "\u4e7e\u5b89"
+}, {
+  "id": "CN101060803",
+  "cityEn": "qianguo",
+  "cityZh": "\u524d\u90ed"
+}, {
+  "id": "CN101060804",
+  "cityEn": "changling",
+  "cityZh": "\u957f\u5cad"
+}, {
+  "id": "CN101060805",
+  "cityEn": "fuyu",
+  "cityZh": "\u6276\u4f59"
+}, {
+  "id": "CN101060806",
+  "cityEn": "ningjiang",
+  "cityZh": "\u5b81\u6c5f"
+}, {
+  "id": "CN101060901",
+  "cityEn": "baishan",
+  "cityZh": "\u767d\u5c71"
+}, {
+  "id": "CN101060902",
+  "cityEn": "jingyu",
+  "cityZh": "\u9756\u5b87"
+}, {
+  "id": "CN101060903",
+  "cityEn": "linjiang",
+  "cityZh": "\u4e34\u6c5f"
+}, {
+  "id": "CN101060905",
+  "cityEn": "changbai",
+  "cityZh": "\u957f\u767d"
+}, {
+  "id": "CN101060906",
+  "cityEn": "fusong",
+  "cityZh": "\u629a\u677e"
+}, {
+  "id": "CN101060907",
+  "cityEn": "jiangyuan",
+  "cityZh": "\u6c5f\u6e90"
+}, {
+  "id": "CN101060908",
+  "cityEn": "hunjiang",
+  "cityZh": "\u6d51\u6c5f"
+}, {
+  "id": "CN101070101",
+  "cityEn": "shenyang",
+  "cityZh": "\u6c88\u9633"
+}, {
+  "id": "CN101070102",
+  "cityEn": "hunnan",
+  "cityZh": "\u6d51\u5357"
+}, {
+  "id": "CN101070103",
+  "cityEn": "liaozhong",
+  "cityZh": "\u8fbd\u4e2d"
+}, {
+  "id": "CN101070104",
+  "cityEn": "kangping",
+  "cityZh": "\u5eb7\u5e73"
+}, {
+  "id": "CN101070105",
+  "cityEn": "faku",
+  "cityZh": "\u6cd5\u5e93"
+}, {
+  "id": "CN101070106",
+  "cityEn": "xinmin",
+  "cityZh": "\u65b0\u6c11"
+}, {
+  "id": "CN101070107",
+  "cityEn": "heping",
+  "cityZh": "\u548c\u5e73"
+}, {
+  "id": "CN101070108",
+  "cityEn": "shenhe",
+  "cityZh": "\u6c88\u6cb3"
+}, {
+  "id": "CN101070109",
+  "cityEn": "dadong",
+  "cityZh": "\u5927\u4e1c"
+}, {
+  "id": "CN101070110",
+  "cityEn": "huanggu",
+  "cityZh": "\u7687\u59d1"
+}, {
+  "id": "CN101070111",
+  "cityEn": "tiexi",
+  "cityZh": "\u94c1\u897f"
+}, {
+  "id": "CN101070112",
+  "cityEn": "sujiatun",
+  "cityZh": "\u82cf\u5bb6\u5c6f"
+}, {
+  "id": "CN101070113",
+  "cityEn": "shenbeixinqu",
+  "cityZh": "\u6c88\u5317\u65b0\u533a"
+}, {
+  "id": "CN101070114",
+  "cityEn": "yuhong",
+  "cityZh": "\u4e8e\u6d2a"
+}, {
+  "id": "CN101070115",
+  "cityEn": "dongling",
+  "cityZh": "\u4e1c\u9675"
+}, {
+  "id": "CN101070201",
+  "cityEn": "dalian",
+  "cityZh": "\u5927\u8fde"
+}, {
+  "id": "CN101070202",
+  "cityEn": "wafangdian",
+  "cityZh": "\u74e6\u623f\u5e97"
+}, {
+  "id": "CN101070203",
+  "cityEn": "jinzhou",
+  "cityZh": "\u91d1\u5dde"
+}, {
+  "id": "CN101070204",
+  "cityEn": "pulandian",
+  "cityZh": "\u666e\u5170\u5e97"
+}, {
+  "id": "CN101070205",
+  "cityEn": "lvshun",
+  "cityZh": "\u65c5\u987a"
+}, {
+  "id": "CN101070206",
+  "cityEn": "changhai",
+  "cityZh": "\u957f\u6d77"
+}, {
+  "id": "CN101070207",
+  "cityEn": "zhuanghe",
+  "cityZh": "\u5e84\u6cb3"
+}, {
+  "id": "CN101070208",
+  "cityEn": "zhongshan",
+  "cityZh": "\u4e2d\u5c71"
+}, {
+  "id": "CN101070209",
+  "cityEn": "xigang",
+  "cityZh": "\u897f\u5c97"
+}, {
+  "id": "CN101070210",
+  "cityEn": "shahekou",
+  "cityZh": "\u6c99\u6cb3\u53e3"
+}, {
+  "id": "CN101070211",
+  "cityEn": "ganjingzi",
+  "cityZh": "\u7518\u4e95\u5b50"
+}, {
+  "id": "CN101070301",
+  "cityEn": "anshan",
+  "cityZh": "\u978d\u5c71"
+}, {
+  "id": "CN101070302",
+  "cityEn": "taian",
+  "cityZh": "\u53f0\u5b89"
+}, {
+  "id": "CN101070303",
+  "cityEn": "xiuyan",
+  "cityZh": "\u5cab\u5ca9"
+}, {
+  "id": "CN101070304",
+  "cityEn": "haicheng",
+  "cityZh": "\u6d77\u57ce"
+}, {
+  "id": "CN101070305",
+  "cityEn": "tiedong",
+  "cityZh": "\u94c1\u4e1c"
+}, {
+  "id": "CN101070306",
+  "cityEn": "tiexi",
+  "cityZh": "\u94c1\u897f"
+}, {
+  "id": "CN101070307",
+  "cityEn": "lishan",
+  "cityZh": "\u7acb\u5c71"
+}, {
+  "id": "CN101070308",
+  "cityEn": "qianshan",
+  "cityZh": "\u5343\u5c71"
+}, {
+  "id": "CN101070401",
+  "cityEn": "fushun",
+  "cityZh": "\u629a\u987a"
+}, {
+  "id": "CN101070402",
+  "cityEn": "xinbin",
+  "cityZh": "\u65b0\u5bbe"
+}, {
+  "id": "CN101070403",
+  "cityEn": "qingyuan",
+  "cityZh": "\u6e05\u539f"
+}, {
+  "id": "CN101070405",
+  "cityEn": "xinfu",
+  "cityZh": "\u65b0\u629a"
+}, {
+  "id": "CN101070406",
+  "cityEn": "dongzhou",
+  "cityZh": "\u4e1c\u6d32"
+}, {
+  "id": "CN101070407",
+  "cityEn": "wanghua",
+  "cityZh": "\u671b\u82b1"
+}, {
+  "id": "CN101070408",
+  "cityEn": "shuncheng",
+  "cityZh": "\u987a\u57ce"
+}, {
+  "id": "CN101070501",
+  "cityEn": "benxi",
+  "cityZh": "\u672c\u6eaa"
+}, {
+  "id": "CN101070502",
+  "cityEn": "benxixian",
+  "cityZh": "\u672c\u6eaa\u53bf"
+}, {
+  "id": "CN101070503",
+  "cityEn": "pingshan",
+  "cityZh": "\u5e73\u5c71"
+}, {
+  "id": "CN101070504",
+  "cityEn": "huanren",
+  "cityZh": "\u6853\u4ec1"
+}, {
+  "id": "CN101070505",
+  "cityEn": "xihu",
+  "cityZh": "\u6eaa\u6e56"
+}, {
+  "id": "CN101070506",
+  "cityEn": "mingshan",
+  "cityZh": "\u660e\u5c71"
+}, {
+  "id": "CN101070507",
+  "cityEn": "nanfen",
+  "cityZh": "\u5357\u82ac"
+}, {
+  "id": "CN101070601",
+  "cityEn": "dandong",
+  "cityZh": "\u4e39\u4e1c"
+}, {
+  "id": "CN101070602",
+  "cityEn": "fengcheng",
+  "cityZh": "\u51e4\u57ce"
+}, {
+  "id": "CN101070603",
+  "cityEn": "kuandian",
+  "cityZh": "\u5bbd\u7538"
+}, {
+  "id": "CN101070604",
+  "cityEn": "donggang",
+  "cityZh": "\u4e1c\u6e2f"
+}, {
+  "id": "CN101070605",
+  "cityEn": "yuanbao",
+  "cityZh": "\u5143\u5b9d"
+}, {
+  "id": "CN101070606",
+  "cityEn": "zhenxing",
+  "cityZh": "\u632f\u5174"
+}, {
+  "id": "CN101070607",
+  "cityEn": "zhenan",
+  "cityZh": "\u632f\u5b89"
+}, {
+  "id": "CN101070701",
+  "cityEn": "jinzhou",
+  "cityZh": "\u9526\u5dde"
+}, {
+  "id": "CN101070702",
+  "cityEn": "linghai",
+  "cityZh": "\u51cc\u6d77"
+}, {
+  "id": "CN101070703",
+  "cityEn": "guta",
+  "cityZh": "\u53e4\u5854"
+}, {
+  "id": "CN101070704",
+  "cityEn": "yixian",
+  "cityZh": "\u4e49\u53bf"
+}, {
+  "id": "CN101070705",
+  "cityEn": "heishan",
+  "cityZh": "\u9ed1\u5c71"
+}, {
+  "id": "CN101070706",
+  "cityEn": "beizhen",
+  "cityZh": "\u5317\u9547"
+}, {
+  "id": "CN101070707",
+  "cityEn": "linghe",
+  "cityZh": "\u51cc\u6cb3"
+}, {
+  "id": "CN101070708",
+  "cityEn": "taihe",
+  "cityZh": "\u592a\u548c"
+}, {
+  "id": "CN101070801",
+  "cityEn": "yingkou",
+  "cityZh": "\u8425\u53e3"
+}, {
+  "id": "CN101070802",
+  "cityEn": "dashiqiao",
+  "cityZh": "\u5927\u77f3\u6865"
+}, {
+  "id": "CN101070803",
+  "cityEn": "gaizhou",
+  "cityZh": "\u76d6\u5dde"
+}, {
+  "id": "CN101070804",
+  "cityEn": "zhanqian",
+  "cityZh": "\u7ad9\u524d"
+}, {
+  "id": "CN101070805",
+  "cityEn": "xishi",
+  "cityZh": "\u897f\u5e02"
+}, {
+  "id": "CN101070806",
+  "cityEn": "bayuquan",
+  "cityZh": "\u9c85\u9c7c\u5708"
+}, {
+  "id": "CN101070807",
+  "cityEn": "laobian",
+  "cityZh": "\u8001\u8fb9"
+}, {
+  "id": "CN101070901",
+  "cityEn": "fuxin",
+  "cityZh": "\u961c\u65b0"
+}, {
+  "id": "CN101070902",
+  "cityEn": "zhangwu",
+  "cityZh": "\u5f70\u6b66"
+}, {
+  "id": "CN101070903",
+  "cityEn": "haizhou",
+  "cityZh": "\u6d77\u5dde"
+}, {
+  "id": "CN101070904",
+  "cityEn": "xinqiu",
+  "cityZh": "\u65b0\u90b1"
+}, {
+  "id": "CN101070905",
+  "cityEn": "taiping",
+  "cityZh": "\u592a\u5e73"
+}, {
+  "id": "CN101070906",
+  "cityEn": "qinghemen",
+  "cityZh": "\u6e05\u6cb3\u95e8"
+}, {
+  "id": "CN101070907",
+  "cityEn": "xihe",
+  "cityZh": "\u7ec6\u6cb3"
+}, {
+  "id": "CN101071001",
+  "cityEn": "liaoyang",
+  "cityZh": "\u8fbd\u9633"
+}, {
+  "id": "CN101071002",
+  "cityEn": "liaoyangxian",
+  "cityZh": "\u8fbd\u9633\u53bf"
+}, {
+  "id": "CN101071003",
+  "cityEn": "dengta",
+  "cityZh": "\u706f\u5854"
+}, {
+  "id": "CN101071004",
+  "cityEn": "gongchangling",
+  "cityZh": "\u5f13\u957f\u5cad"
+}, {
+  "id": "CN101071005",
+  "cityEn": "baita",
+  "cityZh": "\u767d\u5854"
+}, {
+  "id": "CN101071006",
+  "cityEn": "wensheng",
+  "cityZh": "\u6587\u5723"
+}, {
+  "id": "CN101071007",
+  "cityEn": "hongwei",
+  "cityZh": "\u5b8f\u4f1f"
+}, {
+  "id": "CN101071008",
+  "cityEn": "taizihe",
+  "cityZh": "\u592a\u5b50\u6cb3"
+}, {
+  "id": "CN101071101",
+  "cityEn": "tieling",
+  "cityZh": "\u94c1\u5cad"
+}, {
+  "id": "CN101071102",
+  "cityEn": "kaiyuan",
+  "cityZh": "\u5f00\u539f"
+}, {
+  "id": "CN101071103",
+  "cityEn": "changtu",
+  "cityZh": "\u660c\u56fe"
+}, {
+  "id": "CN101071104",
+  "cityEn": "xifeng",
+  "cityZh": "\u897f\u4e30"
+}, {
+  "id": "CN101071105",
+  "cityEn": "tiefa",
+  "cityZh": "\u8c03\u5175\u5c71"
+}, {
+  "id": "CN101071106",
+  "cityEn": "yinzhou",
+  "cityZh": "\u94f6\u5dde"
+}, {
+  "id": "CN101071107",
+  "cityEn": "qinghe",
+  "cityZh": "\u6e05\u6cb3"
+}, {
+  "id": "CN101071201",
+  "cityEn": "chaoyang",
+  "cityZh": "\u671d\u9633"
+}, {
+  "id": "CN101071202",
+  "cityEn": "shuangta",
+  "cityZh": "\u53cc\u5854"
+}, {
+  "id": "CN101071203",
+  "cityEn": "lingyuan",
+  "cityZh": "\u51cc\u6e90"
+}, {
+  "id": "CN101071204",
+  "cityEn": "kazuo",
+  "cityZh": "\u5580\u5de6"
+}, {
+  "id": "CN101071205",
+  "cityEn": "beipiao",
+  "cityZh": "\u5317\u7968"
+}, {
+  "id": "CN101071206",
+  "cityEn": "longcheng",
+  "cityZh": "\u9f99\u57ce"
+}, {
+  "id": "CN101071207",
+  "cityEn": "jianpingxian",
+  "cityZh": "\u5efa\u5e73\u53bf"
+}, {
+  "id": "CN101071301",
+  "cityEn": "panjin",
+  "cityZh": "\u76d8\u9526"
+}, {
+  "id": "CN101071302",
+  "cityEn": "dawa",
+  "cityZh": "\u5927\u6d3c"
+}, {
+  "id": "CN101071303",
+  "cityEn": "panshan",
+  "cityZh": "\u76d8\u5c71"
+}, {
+  "id": "CN101071304",
+  "cityEn": "shuangtaizi",
+  "cityZh": "\u53cc\u53f0\u5b50"
+}, {
+  "id": "CN101071305",
+  "cityEn": "xinglongtai",
+  "cityZh": "\u5174\u9686\u53f0"
+}, {
+  "id": "CN101071401",
+  "cityEn": "huludao",
+  "cityZh": "\u846b\u82a6\u5c9b"
+}, {
+  "id": "CN101071402",
+  "cityEn": "jianchang",
+  "cityZh": "\u5efa\u660c"
+}, {
+  "id": "CN101071403",
+  "cityEn": "suizhong",
+  "cityZh": "\u7ee5\u4e2d"
+}, {
+  "id": "CN101071404",
+  "cityEn": "xingcheng",
+  "cityZh": "\u5174\u57ce"
+}, {
+  "id": "CN101071405",
+  "cityEn": "lianshan",
+  "cityZh": "\u8fde\u5c71"
+}, {
+  "id": "CN101071406",
+  "cityEn": "longgang",
+  "cityZh": "\u9f99\u6e2f"
+}, {
+  "id": "CN101071407",
+  "cityEn": "nanpiao",
+  "cityZh": "\u5357\u7968"
+}, {
+  "id": "CN101080101",
+  "cityEn": "huhehaote",
+  "cityZh": "\u547c\u548c\u6d69\u7279"
+}, {
+  "id": "CN101080102",
+  "cityEn": "tuzuoqi",
+  "cityZh": "\u571f\u5de6\u65d7"
+}, {
+  "id": "CN101080103",
+  "cityEn": "tuoxian",
+  "cityZh": "\u6258\u53bf"
+}, {
+  "id": "CN101080104",
+  "cityEn": "helin",
+  "cityZh": "\u548c\u6797"
+}, {
+  "id": "CN101080105",
+  "cityEn": "qingshuihe",
+  "cityZh": "\u6e05\u6c34\u6cb3"
+}, {
+  "id": "CN101080106",
+  "cityEn": "saihan",
+  "cityZh": "\u8d5b\u7f55"
+}, {
+  "id": "CN101080107",
+  "cityEn": "wuchuan",
+  "cityZh": "\u6b66\u5ddd"
+}, {
+  "id": "CN101080108",
+  "cityEn": "xincheng",
+  "cityZh": "\u65b0\u57ce"
+}, {
+  "id": "CN101080109",
+  "cityEn": "huimin",
+  "cityZh": "\u56de\u6c11"
+}, {
+  "id": "CN101080110",
+  "cityEn": "yuquan",
+  "cityZh": "\u7389\u6cc9"
+}, {
+  "id": "CN101080201",
+  "cityEn": "baotou",
+  "cityZh": "\u5305\u5934"
+}, {
+  "id": "CN101080202",
+  "cityEn": "baiyunebo",
+  "cityZh": "\u767d\u4e91\u9102\u535a"
+}, {
+  "id": "CN101080204",
+  "cityEn": "tuyouqi",
+  "cityZh": "\u571f\u53f3\u65d7"
+}, {
+  "id": "CN101080205",
+  "cityEn": "guyang",
+  "cityZh": "\u56fa\u9633"
+}, {
+  "id": "CN101080206",
+  "cityEn": "damaoqi",
+  "cityZh": "\u8fbe\u8302\u65d7"
+}, {
+  "id": "CN101080208",
+  "cityEn": "donghe",
+  "cityZh": "\u4e1c\u6cb3"
+}, {
+  "id": "CN101080209",
+  "cityEn": "kundoulun",
+  "cityZh": "\u6606\u90fd\u4ed1"
+}, {
+  "id": "CN101080210",
+  "cityEn": "qingshan",
+  "cityZh": "\u9752\u5c71"
+}, {
+  "id": "CN101080211",
+  "cityEn": "shiguai",
+  "cityZh": "\u77f3\u62d0"
+}, {
+  "id": "CN101080212",
+  "cityEn": "jiuyuan",
+  "cityZh": "\u4e5d\u539f"
+}, {
+  "id": "CN101080301",
+  "cityEn": "wuhai",
+  "cityZh": "\u4e4c\u6d77"
+}, {
+  "id": "CN101080302",
+  "cityEn": "haibowan",
+  "cityZh": "\u6d77\u52c3\u6e7e"
+}, {
+  "id": "CN101080303",
+  "cityEn": "hainan",
+  "cityZh": "\u6d77\u5357"
+}, {
+  "id": "CN101080304",
+  "cityEn": "wuda",
+  "cityZh": "\u4e4c\u8fbe"
+}, {
+  "id": "CN101080401",
+  "cityEn": "jining",
+  "cityZh": "\u96c6\u5b81"
+}, {
+  "id": "CN101080402",
+  "cityEn": "zhuozi",
+  "cityZh": "\u5353\u8d44"
+}, {
+  "id": "CN101080403",
+  "cityEn": "huade",
+  "cityZh": "\u5316\u5fb7"
+}, {
+  "id": "CN101080404",
+  "cityEn": "shangdu",
+  "cityZh": "\u5546\u90fd"
+}, {
+  "id": "CN101080405",
+  "cityEn": "wulanchabu",
+  "cityZh": "\u4e4c\u5170\u5bdf\u5e03"
+}, {
+  "id": "CN101080406",
+  "cityEn": "xinghe",
+  "cityZh": "\u5174\u548c"
+}, {
+  "id": "CN101080407",
+  "cityEn": "liangcheng",
+  "cityZh": "\u51c9\u57ce"
+}, {
+  "id": "CN101080408",
+  "cityEn": "chayouqianqi",
+  "cityZh": "\u5bdf\u53f3\u524d\u65d7"
+}, {
+  "id": "CN101080409",
+  "cityEn": "chayouzhongqi",
+  "cityZh": "\u5bdf\u53f3\u4e2d\u65d7"
+}, {
+  "id": "CN101080410",
+  "cityEn": "chayouhouqi",
+  "cityZh": "\u5bdf\u53f3\u540e\u65d7"
+}, {
+  "id": "CN101080411",
+  "cityEn": "siziwangqi",
+  "cityZh": "\u56db\u5b50\u738b\u65d7"
+}, {
+  "id": "CN101080412",
+  "cityEn": "fengzhen",
+  "cityZh": "\u4e30\u9547"
+}, {
+  "id": "CN101080501",
+  "cityEn": "tongliao",
+  "cityZh": "\u901a\u8fbd"
+}, {
+  "id": "CN101080503",
+  "cityEn": "kezuozhongqi",
+  "cityZh": "\u79d1\u5de6\u4e2d\u65d7"
+}, {
+  "id": "CN101080504",
+  "cityEn": "kezuohouqi",
+  "cityZh": "\u79d1\u5de6\u540e\u65d7"
+}, {
+  "id": "CN101080506",
+  "cityEn": "kailu",
+  "cityZh": "\u5f00\u9c81"
+}, {
+  "id": "CN101080507",
+  "cityEn": "kulun",
+  "cityZh": "\u5e93\u4f26"
+}, {
+  "id": "CN101080508",
+  "cityEn": "naiman",
+  "cityZh": "\u5948\u66fc"
+}, {
+  "id": "CN101080509",
+  "cityEn": "zhalute",
+  "cityZh": "\u624e\u9c81\u7279"
+}, {
+  "id": "CN101080510",
+  "cityEn": "keerqin",
+  "cityZh": "\u79d1\u5c14\u6c81"
+}, {
+  "id": "CN101080512",
+  "cityEn": "huolinguole",
+  "cityZh": "\u970d\u6797\u90ed\u52d2"
+}, {
+  "id": "CN101080601",
+  "cityEn": "chifeng",
+  "cityZh": "\u8d64\u5cf0"
+}, {
+  "id": "CN101080602",
+  "cityEn": "hongshan",
+  "cityZh": "\u7ea2\u5c71"
+}, {
+  "id": "CN101080603",
+  "cityEn": "aluqi",
+  "cityZh": "\u963f\u9c81\u65d7"
+}, {
+  "id": "CN101080605",
+  "cityEn": "balinzuoqi",
+  "cityZh": "\u5df4\u6797\u5de6\u65d7"
+}, {
+  "id": "CN101080606",
+  "cityEn": "balinyouqi",
+  "cityZh": "\u5df4\u6797\u53f3\u65d7"
+}, {
+  "id": "CN101080607",
+  "cityEn": "linxi",
+  "cityZh": "\u6797\u897f"
+}, {
+  "id": "CN101080608",
+  "cityEn": "keshiketeng",
+  "cityZh": "\u514b\u4ec0\u514b\u817e"
+}, {
+  "id": "CN101080609",
+  "cityEn": "wengniute",
+  "cityZh": "\u7fc1\u725b\u7279"
+}, {
+  "id": "CN101080611",
+  "cityEn": "kalaqin",
+  "cityZh": "\u5580\u5587\u6c81"
+}, {
+  "id": "CN101080613",
+  "cityEn": "ningcheng",
+  "cityZh": "\u5b81\u57ce"
+}, {
+  "id": "CN101080614",
+  "cityEn": "aohan",
+  "cityZh": "\u6556\u6c49"
+}, {
+  "id": "CN101080616",
+  "cityEn": "yuanbaoshan",
+  "cityZh": "\u5143\u5b9d\u5c71"
+}, {
+  "id": "CN101080617",
+  "cityEn": "songshan",
+  "cityZh": "\u677e\u5c71"
+}, {
+  "id": "CN101080701",
+  "cityEn": "eerduosi",
+  "cityZh": "\u9102\u5c14\u591a\u65af"
+}, {
+  "id": "CN101080703",
+  "cityEn": "dalate",
+  "cityZh": "\u8fbe\u62c9\u7279"
+}, {
+  "id": "CN101080704",
+  "cityEn": "zhungeer",
+  "cityZh": "\u51c6\u683c\u5c14"
+}, {
+  "id": "CN101080705",
+  "cityEn": "eqianqi",
+  "cityZh": "\u9102\u524d\u65d7"
+}, {
+  "id": "CN101080708",
+  "cityEn": "etuoke",
+  "cityZh": "\u9102\u6258\u514b"
+}, {
+  "id": "CN101080709",
+  "cityEn": "hangjinqi",
+  "cityZh": "\u676d\u9526\u65d7"
+}, {
+  "id": "CN101080710",
+  "cityEn": "wushenqi",
+  "cityZh": "\u4e4c\u5ba1\u65d7"
+}, {
+  "id": "CN101080711",
+  "cityEn": "yijinhuoluo",
+  "cityZh": "\u4f0a\u91d1\u970d\u6d1b"
+}, {
+  "id": "CN101080713",
+  "cityEn": "dongsheng",
+  "cityZh": "\u4e1c\u80dc"
+}, {
+  "id": "CN101080801",
+  "cityEn": "linhe",
+  "cityZh": "\u4e34\u6cb3"
+}, {
+  "id": "CN101080802",
+  "cityEn": "wuyuan",
+  "cityZh": "\u4e94\u539f"
+}, {
+  "id": "CN101080803",
+  "cityEn": "dengkou",
+  "cityZh": "\u78f4\u53e3"
+}, {
+  "id": "CN101080804",
+  "cityEn": "wuqianqi",
+  "cityZh": "\u4e4c\u524d\u65d7"
+}, {
+  "id": "CN101080806",
+  "cityEn": "wuzhongqi",
+  "cityZh": "\u4e4c\u4e2d\u65d7"
+}, {
+  "id": "CN101080807",
+  "cityEn": "wuhouqi",
+  "cityZh": "\u4e4c\u540e\u65d7"
+}, {
+  "id": "CN101080810",
+  "cityEn": "hangjinhouqi",
+  "cityZh": "\u676d\u9526\u540e\u65d7"
+}, {
+  "id": "CN101080811",
+  "cityEn": "bayannaoer",
+  "cityZh": "\u5df4\u5f66\u6dd6\u5c14"
+}, {
+  "id": "CN101080901",
+  "cityEn": "xilinhaote",
+  "cityZh": "\u9521\u6797\u6d69\u7279"
+}, {
+  "id": "CN101080902",
+  "cityEn": "xilinguole",
+  "cityZh": "\u9521\u6797\u90ed\u52d2"
+}, {
+  "id": "CN101080903",
+  "cityEn": "erlianhaote",
+  "cityZh": "\u4e8c\u8fde\u6d69\u7279"
+}, {
+  "id": "CN101080904",
+  "cityEn": "abaga",
+  "cityZh": "\u963f\u5df4\u560e"
+}, {
+  "id": "CN101080906",
+  "cityEn": "suzuoqi",
+  "cityZh": "\u82cf\u5de6\u65d7"
+}, {
+  "id": "CN101080907",
+  "cityEn": "suyouqi",
+  "cityZh": "\u82cf\u53f3\u65d7"
+}, {
+  "id": "CN101080909",
+  "cityEn": "dongwuqi",
+  "cityZh": "\u4e1c\u4e4c\u65d7"
+}, {
+  "id": "CN101080910",
+  "cityEn": "xiwuqi",
+  "cityZh": "\u897f\u4e4c\u65d7"
+}, {
+  "id": "CN101080911",
+  "cityEn": "taipusiqi",
+  "cityZh": "\u592a\u4ec6\u5bfa"
+}, {
+  "id": "CN101080912",
+  "cityEn": "xianghuang",
+  "cityZh": "\u9576\u9ec4\u65d7"
+}, {
+  "id": "CN101080913",
+  "cityEn": "zhengxiangbaiqi",
+  "cityZh": "\u6b63\u9576\u767d\u65d7"
+}, {
+  "id": "CN101080914",
+  "cityEn": "zhenglanqi",
+  "cityZh": "\u6b63\u84dd\u65d7"
+}, {
+  "id": "CN101080915",
+  "cityEn": "duolun",
+  "cityZh": "\u591a\u4f26"
+}, {
+  "id": "CN101081001",
+  "cityEn": "hailaer",
+  "cityZh": "\u6d77\u62c9\u5c14"
+}, {
+  "id": "CN101081003",
+  "cityEn": "arongqi",
+  "cityZh": "\u963f\u8363\u65d7"
+}, {
+  "id": "CN101081004",
+  "cityEn": "molidawa",
+  "cityZh": "\u83ab\u529b\u8fbe\u74e6"
+}, {
+  "id": "CN101081005",
+  "cityEn": "elunchunqi",
+  "cityZh": "\u9102\u4f26\u6625\u65d7"
+}, {
+  "id": "CN101081006",
+  "cityEn": "ewenkeqi",
+  "cityZh": "\u9102\u6e29\u514b\u65d7"
+}, {
+  "id": "CN101081007",
+  "cityEn": "chenqi",
+  "cityZh": "\u9648\u65d7"
+}, {
+  "id": "CN101081008",
+  "cityEn": "xinzuoqi",
+  "cityZh": "\u65b0\u5de6\u65d7"
+}, {
+  "id": "CN101081009",
+  "cityEn": "xinyouqi",
+  "cityZh": "\u65b0\u53f3\u65d7"
+}, {
+  "id": "CN101081010",
+  "cityEn": "manzhouli",
+  "cityZh": "\u6ee1\u6d32\u91cc"
+}, {
+  "id": "CN101081011",
+  "cityEn": "yakeshi",
+  "cityZh": "\u7259\u514b\u77f3"
+}, {
+  "id": "CN101081012",
+  "cityEn": "zhalantun",
+  "cityZh": "\u624e\u5170\u5c6f"
+}, {
+  "id": "CN101081013",
+  "cityEn": "hulunbeier",
+  "cityZh": "\u547c\u4f26\u8d1d\u5c14"
+}, {
+  "id": "CN101081014",
+  "cityEn": "eerguna",
+  "cityZh": "\u989d\u5c14\u53e4\u7eb3"
+}, {
+  "id": "CN101081015",
+  "cityEn": "genhe",
+  "cityZh": "\u6839\u6cb3"
+}, {
+  "id": "CN101081017",
+  "cityEn": "zhalainuoer",
+  "cityZh": "\u624e\u8d49\u8bfa\u5c14"
+}, {
+  "id": "CN101081101",
+  "cityEn": "wulanhaote",
+  "cityZh": "\u4e4c\u5170\u6d69\u7279"
+}, {
+  "id": "CN101081102",
+  "cityEn": "aershan",
+  "cityZh": "\u963f\u5c14\u5c71"
+}, {
+  "id": "CN101081103",
+  "cityEn": "keyouzhongqi",
+  "cityZh": "\u79d1\u53f3\u4e2d\u65d7"
+}, {
+  "id": "CN101081105",
+  "cityEn": "zhanlaite",
+  "cityZh": "\u624e\u8d49\u7279"
+}, {
+  "id": "CN101081107",
+  "cityEn": "tuquan",
+  "cityZh": "\u7a81\u6cc9"
+}, {
+  "id": "CN101081108",
+  "cityEn": "xinganmeng",
+  "cityZh": "\u5174\u5b89\u76df"
+}, {
+  "id": "CN101081109",
+  "cityEn": "keyouqianqi",
+  "cityZh": "\u79d1\u53f3\u524d\u65d7"
+}, {
+  "id": "CN101081201",
+  "cityEn": "azuoqi",
+  "cityZh": "\u963f\u5de6\u65d7"
+}, {
+  "id": "CN101081202",
+  "cityEn": "ayouqi",
+  "cityZh": "\u963f\u53f3\u65d7"
+}, {
+  "id": "CN101081203",
+  "cityEn": "ejina",
+  "cityZh": "\u989d\u6d4e\u7eb3"
+}, {
+  "id": "CN101081213",
+  "cityEn": "alashanmeng",
+  "cityZh": "\u963f\u62c9\u5584\u76df"
+}, {
+  "id": "CN101090101",
+  "cityEn": "shijiazhuang",
+  "cityZh": "\u77f3\u5bb6\u5e84"
+}, {
+  "id": "CN101090102",
+  "cityEn": "jingxing",
+  "cityZh": "\u4e95\u9649"
+}, {
+  "id": "CN101090103",
+  "cityEn": "zhengding",
+  "cityZh": "\u6b63\u5b9a"
+}, {
+  "id": "CN101090104",
+  "cityEn": "luancheng",
+  "cityZh": "\u683e\u57ce"
+}, {
+  "id": "CN101090105",
+  "cityEn": "xingtang",
+  "cityZh": "\u884c\u5510"
+}, {
+  "id": "CN101090106",
+  "cityEn": "lingshou",
+  "cityZh": "\u7075\u5bff"
+}, {
+  "id": "CN101090107",
+  "cityEn": "gaoyi",
+  "cityZh": "\u9ad8\u9091"
+}, {
+  "id": "CN101090108",
+  "cityEn": "shenze",
+  "cityZh": "\u6df1\u6cfd"
+}, {
+  "id": "CN101090109",
+  "cityEn": "zanhuang",
+  "cityZh": "\u8d5e\u7687"
+}, {
+  "id": "CN101090110",
+  "cityEn": "wuji",
+  "cityZh": "\u65e0\u6781"
+}, {
+  "id": "CN101090111",
+  "cityEn": "pingshan",
+  "cityZh": "\u5e73\u5c71"
+}, {
+  "id": "CN101090112",
+  "cityEn": "yuanshi",
+  "cityZh": "\u5143\u6c0f"
+}, {
+  "id": "CN101090113",
+  "cityEn": "zhaoxian",
+  "cityZh": "\u8d75\u53bf"
+}, {
+  "id": "CN101090114",
+  "cityEn": "xinji",
+  "cityZh": "\u8f9b\u96c6"
+}, {
+  "id": "CN101090115",
+  "cityEn": "gaocheng",
+  "cityZh": "\u85c1\u57ce"
+}, {
+  "id": "CN101090116",
+  "cityEn": "jinzhou",
+  "cityZh": "\u664b\u5dde"
+}, {
+  "id": "CN101090117",
+  "cityEn": "xinle",
+  "cityZh": "\u65b0\u4e50"
+}, {
+  "id": "CN101090118",
+  "cityEn": "luquan",
+  "cityZh": "\u9e7f\u6cc9"
+}, {
+  "id": "CN101090119",
+  "cityEn": "changan",
+  "cityZh": "\u957f\u5b89"
+}, {
+  "id": "CN101090120",
+  "cityEn": "qiaoxi",
+  "cityZh": "\u6865\u897f"
+}, {
+  "id": "CN101090121",
+  "cityEn": "xinhua",
+  "cityZh": "\u65b0\u534e"
+}, {
+  "id": "CN101090122",
+  "cityEn": "jingxingkuangqu",
+  "cityZh": "\u4e95\u9649\u77ff\u533a"
+}, {
+  "id": "CN101090123",
+  "cityEn": "yuhua",
+  "cityZh": "\u88d5\u534e"
+}, {
+  "id": "CN101090201",
+  "cityEn": "baoding",
+  "cityZh": "\u4fdd\u5b9a"
+}, {
+  "id": "CN101090202",
+  "cityEn": "mancheng",
+  "cityZh": "\u6ee1\u57ce"
+}, {
+  "id": "CN101090203",
+  "cityEn": "fuping",
+  "cityZh": "\u961c\u5e73"
+}, {
+  "id": "CN101090204",
+  "cityEn": "xushui",
+  "cityZh": "\u5f90\u6c34"
+}, {
+  "id": "CN101090205",
+  "cityEn": "tangxian",
+  "cityZh": "\u5510\u53bf"
+}, {
+  "id": "CN101090206",
+  "cityEn": "gaoyang",
+  "cityZh": "\u9ad8\u9633"
+}, {
+  "id": "CN101090207",
+  "cityEn": "rongcheng",
+  "cityZh": "\u5bb9\u57ce"
+}, {
+  "id": "CN101090208",
+  "cityEn": "jingxiu",
+  "cityZh": "\u7ade\u79c0"
+}, {
+  "id": "CN101090209",
+  "cityEn": "laiyuan",
+  "cityZh": "\u6d9e\u6e90"
+}, {
+  "id": "CN101090210",
+  "cityEn": "wangdu",
+  "cityZh": "\u671b\u90fd"
+}, {
+  "id": "CN101090211",
+  "cityEn": "anxin",
+  "cityZh": "\u5b89\u65b0"
+}, {
+  "id": "CN101090212",
+  "cityEn": "yixian",
+  "cityZh": "\u6613\u53bf"
+}, {
+  "id": "CN101090213",
+  "cityEn": "lianchi",
+  "cityZh": "\u83b2\u6c60"
+}, {
+  "id": "CN101090214",
+  "cityEn": "quyang",
+  "cityZh": "\u66f2\u9633"
+}, {
+  "id": "CN101090215",
+  "cityEn": "lixian",
+  "cityZh": "\u8821\u53bf"
+}, {
+  "id": "CN101090216",
+  "cityEn": "shunping",
+  "cityZh": "\u987a\u5e73"
+}, {
+  "id": "CN101090217",
+  "cityEn": "xiongxian",
+  "cityZh": "\u96c4\u53bf"
+}, {
+  "id": "CN101090218",
+  "cityEn": "zhuozhou",
+  "cityZh": "\u6dbf\u5dde"
+}, {
+  "id": "CN101090219",
+  "cityEn": "dingzhou",
+  "cityZh": "\u5b9a\u5dde"
+}, {
+  "id": "CN101090220",
+  "cityEn": "anguo",
+  "cityZh": "\u5b89\u56fd"
+}, {
+  "id": "CN101090221",
+  "cityEn": "gaobeidian",
+  "cityZh": "\u9ad8\u7891\u5e97"
+}, {
+  "id": "CN101090222",
+  "cityEn": "laishui",
+  "cityZh": "\u6d9e\u6c34"
+}, {
+  "id": "CN101090223",
+  "cityEn": "dingxing",
+  "cityZh": "\u5b9a\u5174"
+}, {
+  "id": "CN101090224",
+  "cityEn": "qingyuan",
+  "cityZh": "\u6e05\u82d1"
+}, {
+  "id": "CN101090225",
+  "cityEn": "boye",
+  "cityZh": "\u535a\u91ce"
+}, {
+  "id": "CN101090226",
+  "cityEn": "nanshi",
+  "cityZh": "\u5357\u5e02"
+}, {
+  "id": "CN101090301",
+  "cityEn": "zhangjiakou",
+  "cityZh": "\u5f20\u5bb6\u53e3"
+}, {
+  "id": "CN101090302",
+  "cityEn": "xuanhua",
+  "cityZh": "\u5ba3\u5316"
+}, {
+  "id": "CN101090303",
+  "cityEn": "zhangbei",
+  "cityZh": "\u5f20\u5317"
+}, {
+  "id": "CN101090304",
+  "cityEn": "kangbao",
+  "cityZh": "\u5eb7\u4fdd"
+}, {
+  "id": "CN101090305",
+  "cityEn": "guyuan",
+  "cityZh": "\u6cbd\u6e90"
+}, {
+  "id": "CN101090306",
+  "cityEn": "shangyi",
+  "cityZh": "\u5c1a\u4e49"
+}, {
+  "id": "CN101090307",
+  "cityEn": "yuxian",
+  "cityZh": "\u851a\u53bf"
+}, {
+  "id": "CN101090308",
+  "cityEn": "yangyuan",
+  "cityZh": "\u9633\u539f"
+}, {
+  "id": "CN101090309",
+  "cityEn": "huaian",
+  "cityZh": "\u6000\u5b89"
+}, {
+  "id": "CN101090310",
+  "cityEn": "wanquan",
+  "cityZh": "\u4e07\u5168"
+}, {
+  "id": "CN101090311",
+  "cityEn": "huailai",
+  "cityZh": "\u6000\u6765"
+}, {
+  "id": "CN101090312",
+  "cityEn": "zhuolu",
+  "cityZh": "\u6dbf\u9e7f"
+}, {
+  "id": "CN101090313",
+  "cityEn": "chicheng",
+  "cityZh": "\u8d64\u57ce"
+}, {
+  "id": "CN101090314",
+  "cityEn": "chongli",
+  "cityZh": "\u5d07\u793c"
+}, {
+  "id": "CN101090315",
+  "cityEn": "qiaodong",
+  "cityZh": "\u6865\u4e1c"
+}, {
+  "id": "CN101090316",
+  "cityEn": "qiaoxi",
+  "cityZh": "\u6865\u897f"
+}, {
+  "id": "CN101090317",
+  "cityEn": "xiahuayuan",
+  "cityZh": "\u4e0b\u82b1\u56ed"
+}, {
+  "id": "CN101090401",
+  "cityEn": "shuangqiao",
+  "cityZh": "\u53cc\u6865"
+}, {
+  "id": "CN101090402",
+  "cityEn": "chengde",
+  "cityZh": "\u627f\u5fb7"
+}, {
+  "id": "CN101090403",
+  "cityEn": "chengdexian",
+  "cityZh": "\u627f\u5fb7\u53bf"
+}, {
+  "id": "CN101090404",
+  "cityEn": "xinglong",
+  "cityZh": "\u5174\u9686"
+}, {
+  "id": "CN101090405",
+  "cityEn": "pingquan",
+  "cityZh": "\u5e73\u6cc9"
+}, {
+  "id": "CN101090406",
+  "cityEn": "luanping",
+  "cityZh": "\u6ee6\u5e73"
+}, {
+  "id": "CN101090407",
+  "cityEn": "longhua",
+  "cityZh": "\u9686\u5316"
+}, {
+  "id": "CN101090408",
+  "cityEn": "fengning",
+  "cityZh": "\u4e30\u5b81"
+}, {
+  "id": "CN101090409",
+  "cityEn": "kuancheng",
+  "cityZh": "\u5bbd\u57ce"
+}, {
+  "id": "CN101090410",
+  "cityEn": "weichang",
+  "cityZh": "\u56f4\u573a"
+}, {
+  "id": "CN101090411",
+  "cityEn": "shuangluan",
+  "cityZh": "\u53cc\u6ee6"
+}, {
+  "id": "CN101090412",
+  "cityEn": "yingshouyingzikuang",
+  "cityZh": "\u9e70\u624b\u8425\u5b50\u77ff"
+}, {
+  "id": "CN101090501",
+  "cityEn": "tangshan",
+  "cityZh": "\u5510\u5c71"
+}, {
+  "id": "CN101090502",
+  "cityEn": "fengnan",
+  "cityZh": "\u4e30\u5357"
+}, {
+  "id": "CN101090503",
+  "cityEn": "fengrun",
+  "cityZh": "\u4e30\u6da6"
+}, {
+  "id": "CN101090504",
+  "cityEn": "luanxian",
+  "cityZh": "\u6ee6\u53bf"
+}, {
+  "id": "CN101090505",
+  "cityEn": "luannan",
+  "cityZh": "\u6ee6\u5357"
+}, {
+  "id": "CN101090506",
+  "cityEn": "leting",
+  "cityZh": "\u4e50\u4ead"
+}, {
+  "id": "CN101090507",
+  "cityEn": "qianxi",
+  "cityZh": "\u8fc1\u897f"
+}, {
+  "id": "CN101090508",
+  "cityEn": "yutian",
+  "cityZh": "\u7389\u7530"
+}, {
+  "id": "CN101090509",
+  "cityEn": "caofeidian",
+  "cityZh": "\u66f9\u5983\u7538"
+}, {
+  "id": "CN101090510",
+  "cityEn": "zunhua",
+  "cityZh": "\u9075\u5316"
+}, {
+  "id": "CN101090511",
+  "cityEn": "qianan",
+  "cityZh": "\u8fc1\u5b89"
+}, {
+  "id": "CN101090513",
+  "cityEn": "lunan",
+  "cityZh": "\u8def\u5357"
+}, {
+  "id": "CN101090514",
+  "cityEn": "lubei",
+  "cityZh": "\u8def\u5317"
+}, {
+  "id": "CN101090515",
+  "cityEn": "guye",
+  "cityZh": "\u53e4\u51b6"
+}, {
+  "id": "CN101090516",
+  "cityEn": "kaiping",
+  "cityZh": "\u5f00\u5e73"
+}, {
+  "id": "CN101090601",
+  "cityEn": "langfang",
+  "cityZh": "\u5eca\u574a"
+}, {
+  "id": "CN101090602",
+  "cityEn": "guan",
+  "cityZh": "\u56fa\u5b89"
+}, {
+  "id": "CN101090603",
+  "cityEn": "yongqing",
+  "cityZh": "\u6c38\u6e05"
+}, {
+  "id": "CN101090604",
+  "cityEn": "xianghe",
+  "cityZh": "\u9999\u6cb3"
+}, {
+  "id": "CN101090605",
+  "cityEn": "dacheng",
+  "cityZh": "\u5927\u57ce"
+}, {
+  "id": "CN101090606",
+  "cityEn": "wenan",
+  "cityZh": "\u6587\u5b89"
+}, {
+  "id": "CN101090607",
+  "cityEn": "dachang",
+  "cityZh": "\u5927\u5382"
+}, {
+  "id": "CN101090608",
+  "cityEn": "bazhou",
+  "cityZh": "\u9738\u5dde"
+}, {
+  "id": "CN101090609",
+  "cityEn": "sanhe",
+  "cityZh": "\u4e09\u6cb3"
+}, {
+  "id": "CN101090610",
+  "cityEn": "anci",
+  "cityZh": "\u5b89\u6b21"
+}, {
+  "id": "CN101090611",
+  "cityEn": "guangyang",
+  "cityZh": "\u5e7f\u9633"
+}, {
+  "id": "CN101090701",
+  "cityEn": "cangzhou",
+  "cityZh": "\u6ca7\u5dde"
+}, {
+  "id": "CN101090702",
+  "cityEn": "qingxian",
+  "cityZh": "\u9752\u53bf"
+}, {
+  "id": "CN101090703",
+  "cityEn": "dongguang",
+  "cityZh": "\u4e1c\u5149"
+}, {
+  "id": "CN101090704",
+  "cityEn": "haixing",
+  "cityZh": "\u6d77\u5174"
+}, {
+  "id": "CN101090705",
+  "cityEn": "yanshan",
+  "cityZh": "\u76d0\u5c71"
+}, {
+  "id": "CN101090706",
+  "cityEn": "suning",
+  "cityZh": "\u8083\u5b81"
+}, {
+  "id": "CN101090707",
+  "cityEn": "nanpi",
+  "cityZh": "\u5357\u76ae"
+}, {
+  "id": "CN101090708",
+  "cityEn": "wuqiao",
+  "cityZh": "\u5434\u6865"
+}, {
+  "id": "CN101090709",
+  "cityEn": "xianxian",
+  "cityZh": "\u732e\u53bf"
+}, {
+  "id": "CN101090710",
+  "cityEn": "mengcun",
+  "cityZh": "\u5b5f\u6751"
+}, {
+  "id": "CN101090711",
+  "cityEn": "botou",
+  "cityZh": "\u6cca\u5934"
+}, {
+  "id": "CN101090712",
+  "cityEn": "renqiu",
+  "cityZh": "\u4efb\u4e18"
+}, {
+  "id": "CN101090713",
+  "cityEn": "huanghua",
+  "cityZh": "\u9ec4\u9a85"
+}, {
+  "id": "CN101090714",
+  "cityEn": "hejian",
+  "cityZh": "\u6cb3\u95f4"
+}, {
+  "id": "CN101090715",
+  "cityEn": "xinhua",
+  "cityZh": "\u65b0\u534e"
+}, {
+  "id": "CN101090716",
+  "cityEn": "cangxian",
+  "cityZh": "\u6ca7\u53bf"
+}, {
+  "id": "CN101090717",
+  "cityEn": "yunhe",
+  "cityZh": "\u8fd0\u6cb3"
+}, {
+  "id": "CN101090801",
+  "cityEn": "hengshui",
+  "cityZh": "\u8861\u6c34"
+}, {
+  "id": "CN101090802",
+  "cityEn": "zaoqiang",
+  "cityZh": "\u67a3\u5f3a"
+}, {
+  "id": "CN101090803",
+  "cityEn": "wuyi",
+  "cityZh": "\u6b66\u9091"
+}, {
+  "id": "CN101090804",
+  "cityEn": "wuqiang",
+  "cityZh": "\u6b66\u5f3a"
+}, {
+  "id": "CN101090805",
+  "cityEn": "raoyang",
+  "cityZh": "\u9976\u9633"
+}, {
+  "id": "CN101090806",
+  "cityEn": "anping",
+  "cityZh": "\u5b89\u5e73"
+}, {
+  "id": "CN101090807",
+  "cityEn": "gucheng",
+  "cityZh": "\u6545\u57ce"
+}, {
+  "id": "CN101090808",
+  "cityEn": "jingxian",
+  "cityZh": "\u666f\u53bf"
+}, {
+  "id": "CN101090809",
+  "cityEn": "fucheng",
+  "cityZh": "\u961c\u57ce"
+}, {
+  "id": "CN101090810",
+  "cityEn": "jizhou",
+  "cityZh": "\u5180\u5dde"
+}, {
+  "id": "CN101090811",
+  "cityEn": "shenzhou",
+  "cityZh": "\u6df1\u5dde"
+}, {
+  "id": "CN101090812",
+  "cityEn": "taocheng",
+  "cityZh": "\u6843\u57ce"
+}, {
+  "id": "CN101090901",
+  "cityEn": "xingtai",
+  "cityZh": "\u90a2\u53f0"
+}, {
+  "id": "CN101090902",
+  "cityEn": "lincheng",
+  "cityZh": "\u4e34\u57ce"
+}, {
+  "id": "CN101090903",
+  "cityEn": "qiaodong",
+  "cityZh": "\u6865\u4e1c"
+}, {
+  "id": "CN101090904",
+  "cityEn": "neiqiu",
+  "cityZh": "\u5185\u4e18"
+}, {
+  "id": "CN101090905",
+  "cityEn": "baixiang",
+  "cityZh": "\u67cf\u4e61"
+}, {
+  "id": "CN101090906",
+  "cityEn": "longyao",
+  "cityZh": "\u9686\u5c27"
+}, {
+  "id": "CN101090907",
+  "cityEn": "nanhe",
+  "cityZh": "\u5357\u548c"
+}, {
+  "id": "CN101090908",
+  "cityEn": "ningjin",
+  "cityZh": "\u5b81\u664b"
+}, {
+  "id": "CN101090909",
+  "cityEn": "julu",
+  "cityZh": "\u5de8\u9e7f"
+}, {
+  "id": "CN101090910",
+  "cityEn": "xinhe",
+  "cityZh": "\u65b0\u6cb3"
+}, {
+  "id": "CN101090911",
+  "cityEn": "guangzong",
+  "cityZh": "\u5e7f\u5b97"
+}, {
+  "id": "CN101090912",
+  "cityEn": "pingxiang",
+  "cityZh": "\u5e73\u4e61"
+}, {
+  "id": "CN101090913",
+  "cityEn": "weixian",
+  "cityZh": "\u5a01\u53bf"
+}, {
+  "id": "CN101090914",
+  "cityEn": "qinghe",
+  "cityZh": "\u6e05\u6cb3"
+}, {
+  "id": "CN101090915",
+  "cityEn": "linxi",
+  "cityZh": "\u4e34\u897f"
+}, {
+  "id": "CN101090916",
+  "cityEn": "nangong",
+  "cityZh": "\u5357\u5bab"
+}, {
+  "id": "CN101090917",
+  "cityEn": "shahe",
+  "cityZh": "\u6c99\u6cb3"
+}, {
+  "id": "CN101090918",
+  "cityEn": "renxian",
+  "cityZh": "\u4efb\u53bf"
+}, {
+  "id": "CN101090919",
+  "cityEn": "qiaoxi",
+  "cityZh": "\u6865\u897f"
+}, {
+  "id": "CN101091001",
+  "cityEn": "handan",
+  "cityZh": "\u90af\u90f8"
+}, {
+  "id": "CN101091002",
+  "cityEn": "fengfeng",
+  "cityZh": "\u5cf0\u5cf0"
+}, {
+  "id": "CN101091003",
+  "cityEn": "linzhang",
+  "cityZh": "\u4e34\u6f33"
+}, {
+  "id": "CN101091004",
+  "cityEn": "chengan",
+  "cityZh": "\u6210\u5b89"
+}, {
+  "id": "CN101091005",
+  "cityEn": "daming",
+  "cityZh": "\u5927\u540d"
+}, {
+  "id": "CN101091006",
+  "cityEn": "shexian",
+  "cityZh": "\u6d89\u53bf"
+}, {
+  "id": "CN101091007",
+  "cityEn": "cixian",
+  "cityZh": "\u78c1\u53bf"
+}, {
+  "id": "CN101091008",
+  "cityEn": "feixiang",
+  "cityZh": "\u80a5\u4e61"
+}, {
+  "id": "CN101091009",
+  "cityEn": "yongnian",
+  "cityZh": "\u6c38\u5e74"
+}, {
+  "id": "CN101091010",
+  "cityEn": "qiuxian",
+  "cityZh": "\u90b1\u53bf"
+}, {
+  "id": "CN101091011",
+  "cityEn": "jize",
+  "cityZh": "\u9e21\u6cfd"
+}, {
+  "id": "CN101091012",
+  "cityEn": "guangping",
+  "cityZh": "\u5e7f\u5e73"
+}, {
+  "id": "CN101091013",
+  "cityEn": "guantao",
+  "cityZh": "\u9986\u9676"
+}, {
+  "id": "CN101091014",
+  "cityEn": "weixian",
+  "cityZh": "\u9b4f\u53bf"
+}, {
+  "id": "CN101091015",
+  "cityEn": "quzhou",
+  "cityZh": "\u66f2\u5468"
+}, {
+  "id": "CN101091016",
+  "cityEn": "wuan",
+  "cityZh": "\u6b66\u5b89"
+}, {
+  "id": "CN101091017",
+  "cityEn": "hanshan",
+  "cityZh": "\u90af\u5c71"
+}, {
+  "id": "CN101091018",
+  "cityEn": "congtai",
+  "cityZh": "\u4e1b\u53f0"
+}, {
+  "id": "CN101091019",
+  "cityEn": "fuxing",
+  "cityZh": "\u590d\u5174"
+}, {
+  "id": "CN101091101",
+  "cityEn": "qinhuangdao",
+  "cityZh": "\u79e6\u7687\u5c9b"
+}, {
+  "id": "CN101091102",
+  "cityEn": "qinglong",
+  "cityZh": "\u9752\u9f99"
+}, {
+  "id": "CN101091103",
+  "cityEn": "changli",
+  "cityZh": "\u660c\u9ece"
+}, {
+  "id": "CN101091104",
+  "cityEn": "funing",
+  "cityZh": "\u629a\u5b81"
+}, {
+  "id": "CN101091105",
+  "cityEn": "lulong",
+  "cityZh": "\u5362\u9f99"
+}, {
+  "id": "CN101091106",
+  "cityEn": "beidaihe",
+  "cityZh": "\u5317\u6234\u6cb3"
+}, {
+  "id": "CN101091107",
+  "cityEn": "haigang",
+  "cityZh": "\u6d77\u6e2f"
+}, {
+  "id": "CN101091108",
+  "cityEn": "shanhaiguan",
+  "cityZh": "\u5c71\u6d77\u5173"
+}, {
+  "id": "CN101100101",
+  "cityEn": "taiyuan",
+  "cityZh": "\u592a\u539f"
+}, {
+  "id": "CN101100102",
+  "cityEn": "qingxu",
+  "cityZh": "\u6e05\u5f90"
+}, {
+  "id": "CN101100103",
+  "cityEn": "yangqu",
+  "cityZh": "\u9633\u66f2"
+}, {
+  "id": "CN101100104",
+  "cityEn": "loufan",
+  "cityZh": "\u5a04\u70e6"
+}, {
+  "id": "CN101100105",
+  "cityEn": "gujiao",
+  "cityZh": "\u53e4\u4ea4"
+}, {
+  "id": "CN101100106",
+  "cityEn": "jiancaopingqu",
+  "cityZh": "\u5c16\u8349\u576a\u533a"
+}, {
+  "id": "CN101100107",
+  "cityEn": "xiaodianqu",
+  "cityZh": "\u5c0f\u5e97\u533a"
+}, {
+  "id": "CN101100108",
+  "cityEn": "yingze",
+  "cityZh": "\u8fce\u6cfd"
+}, {
+  "id": "CN101100109",
+  "cityEn": "xinghualing",
+  "cityZh": "\u674f\u82b1\u5cad"
+}, {
+  "id": "CN101100110",
+  "cityEn": "wanbailin",
+  "cityZh": "\u4e07\u67cf\u6797"
+}, {
+  "id": "CN101100111",
+  "cityEn": "jinyuan",
+  "cityZh": "\u664b\u6e90"
+}, {
+  "id": "CN101100201",
+  "cityEn": "datong",
+  "cityZh": "\u5927\u540c"
+}, {
+  "id": "CN101100202",
+  "cityEn": "yanggao",
+  "cityZh": "\u9633\u9ad8"
+}, {
+  "id": "CN101100203",
+  "cityEn": "datongxian",
+  "cityZh": "\u5927\u540c\u53bf"
+}, {
+  "id": "CN101100204",
+  "cityEn": "tianzhen",
+  "cityZh": "\u5929\u9547"
+}, {
+  "id": "CN101100205",
+  "cityEn": "guangling",
+  "cityZh": "\u5e7f\u7075"
+}, {
+  "id": "CN101100206",
+  "cityEn": "lingqiu",
+  "cityZh": "\u7075\u4e18"
+}, {
+  "id": "CN101100207",
+  "cityEn": "hunyuan",
+  "cityZh": "\u6d51\u6e90"
+}, {
+  "id": "CN101100208",
+  "cityEn": "zuoyun",
+  "cityZh": "\u5de6\u4e91"
+}, {
+  "id": "CN101100209",
+  "cityEn": "kuangqu",
+  "cityZh": "\u77ff\u533a"
+}, {
+  "id": "CN101100210",
+  "cityEn": "nanjiao",
+  "cityZh": "\u5357\u90ca"
+}, {
+  "id": "CN101100211",
+  "cityEn": "xinrong",
+  "cityZh": "\u65b0\u8363"
+}, {
+  "id": "CN101100301",
+  "cityEn": "yangquan",
+  "cityZh": "\u9633\u6cc9"
+}, {
+  "id": "CN101100302",
+  "cityEn": "yuxian",
+  "cityZh": "\u76c2\u53bf"
+}, {
+  "id": "CN101100303",
+  "cityEn": "pingding",
+  "cityZh": "\u5e73\u5b9a"
+}, {
+  "id": "CN101100304",
+  "cityEn": "kuangqu",
+  "cityZh": "\u77ff\u533a"
+}, {
+  "id": "CN101100305",
+  "cityEn": "jiaoqu",
+  "cityZh": "\u90ca\u533a"
+}, {
+  "id": "CN101100401",
+  "cityEn": "jinzhong",
+  "cityZh": "\u664b\u4e2d"
+}, {
+  "id": "CN101100402",
+  "cityEn": "yuci",
+  "cityZh": "\u6986\u6b21"
+}, {
+  "id": "CN101100403",
+  "cityEn": "yushe",
+  "cityZh": "\u6986\u793e"
+}, {
+  "id": "CN101100404",
+  "cityEn": "zuoquan",
+  "cityZh": "\u5de6\u6743"
+}, {
+  "id": "CN101100405",
+  "cityEn": "heshun",
+  "cityZh": "\u548c\u987a"
+}, {
+  "id": "CN101100406",
+  "cityEn": "xiyang",
+  "cityZh": "\u6614\u9633"
+}, {
+  "id": "CN101100407",
+  "cityEn": "shouyang",
+  "cityZh": "\u5bff\u9633"
+}, {
+  "id": "CN101100408",
+  "cityEn": "taigu",
+  "cityZh": "\u592a\u8c37"
+}, {
+  "id": "CN101100409",
+  "cityEn": "qixian",
+  "cityZh": "\u7941\u53bf"
+}, {
+  "id": "CN101100410",
+  "cityEn": "pingyao",
+  "cityZh": "\u5e73\u9065"
+}, {
+  "id": "CN101100411",
+  "cityEn": "lingshi",
+  "cityZh": "\u7075\u77f3"
+}, {
+  "id": "CN101100412",
+  "cityEn": "jiexiu",
+  "cityZh": "\u4ecb\u4f11"
+}, {
+  "id": "CN101100501",
+  "cityEn": "changzhi",
+  "cityZh": "\u957f\u6cbb"
+}, {
+  "id": "CN101100502",
+  "cityEn": "licheng",
+  "cityZh": "\u9ece\u57ce"
+}, {
+  "id": "CN101100503",
+  "cityEn": "tunliu",
+  "cityZh": "\u5c6f\u7559"
+}, {
+  "id": "CN101100504",
+  "cityEn": "lucheng",
+  "cityZh": "\u6f5e\u57ce"
+}, {
+  "id": "CN101100505",
+  "cityEn": "xiangyuan",
+  "cityZh": "\u8944\u57a3"
+}, {
+  "id": "CN101100506",
+  "cityEn": "pingshun",
+  "cityZh": "\u5e73\u987a"
+}, {
+  "id": "CN101100507",
+  "cityEn": "wuxiang",
+  "cityZh": "\u6b66\u4e61"
+}, {
+  "id": "CN101100508",
+  "cityEn": "qinxian",
+  "cityZh": "\u6c81\u53bf"
+}, {
+  "id": "CN101100509",
+  "cityEn": "zhangzi",
+  "cityZh": "\u957f\u5b50"
+}, {
+  "id": "CN101100510",
+  "cityEn": "qinyuan",
+  "cityZh": "\u6c81\u6e90"
+}, {
+  "id": "CN101100511",
+  "cityEn": "huguan",
+  "cityZh": "\u58f6\u5173"
+}, {
+  "id": "CN101100512",
+  "cityEn": "jiaoqu",
+  "cityZh": "\u90ca\u533a"
+}, {
+  "id": "CN101100601",
+  "cityEn": "jincheng",
+  "cityZh": "\u664b\u57ce"
+}, {
+  "id": "CN101100602",
+  "cityEn": "qinshui",
+  "cityZh": "\u6c81\u6c34"
+}, {
+  "id": "CN101100603",
+  "cityEn": "yangcheng",
+  "cityZh": "\u9633\u57ce"
+}, {
+  "id": "CN101100604",
+  "cityEn": "lingchuan",
+  "cityZh": "\u9675\u5ddd"
+}, {
+  "id": "CN101100605",
+  "cityEn": "gaoping",
+  "cityZh": "\u9ad8\u5e73"
+}, {
+  "id": "CN101100606",
+  "cityEn": "zezhou",
+  "cityZh": "\u6cfd\u5dde"
+}, {
+  "id": "CN101100701",
+  "cityEn": "linfen",
+  "cityZh": "\u4e34\u6c7e"
+}, {
+  "id": "CN101100702",
+  "cityEn": "quwo",
+  "cityZh": "\u66f2\u6c83"
+}, {
+  "id": "CN101100703",
+  "cityEn": "yonghe",
+  "cityZh": "\u6c38\u548c"
+}, {
+  "id": "CN101100704",
+  "cityEn": "xixian",
+  "cityZh": "\u96b0\u53bf"
+}, {
+  "id": "CN101100705",
+  "cityEn": "daning",
+  "cityZh": "\u5927\u5b81"
+}, {
+  "id": "CN101100706",
+  "cityEn": "jixian",
+  "cityZh": "\u5409\u53bf"
+}, {
+  "id": "CN101100707",
+  "cityEn": "xiangfen",
+  "cityZh": "\u8944\u6c7e"
+}, {
+  "id": "CN101100708",
+  "cityEn": "puxian",
+  "cityZh": "\u84b2\u53bf"
+}, {
+  "id": "CN101100709",
+  "cityEn": "fenxi",
+  "cityZh": "\u6c7e\u897f"
+}, {
+  "id": "CN101100710",
+  "cityEn": "hongtong",
+  "cityZh": "\u6d2a\u6d1e"
+}, {
+  "id": "CN101100711",
+  "cityEn": "huozhou",
+  "cityZh": "\u970d\u5dde"
+}, {
+  "id": "CN101100712",
+  "cityEn": "xiangning",
+  "cityZh": "\u4e61\u5b81"
+}, {
+  "id": "CN101100713",
+  "cityEn": "yicheng",
+  "cityZh": "\u7ffc\u57ce"
+}, {
+  "id": "CN101100714",
+  "cityEn": "houma",
+  "cityZh": "\u4faf\u9a6c"
+}, {
+  "id": "CN101100715",
+  "cityEn": "fushan",
+  "cityZh": "\u6d6e\u5c71"
+}, {
+  "id": "CN101100716",
+  "cityEn": "anze",
+  "cityZh": "\u5b89\u6cfd"
+}, {
+  "id": "CN101100717",
+  "cityEn": "guxian",
+  "cityZh": "\u53e4\u53bf"
+}, {
+  "id": "CN101100718",
+  "cityEn": "yaodou",
+  "cityZh": "\u5c27\u90fd"
+}, {
+  "id": "CN101100801",
+  "cityEn": "yuncheng",
+  "cityZh": "\u8fd0\u57ce"
+}, {
+  "id": "CN101100802",
+  "cityEn": "linyi",
+  "cityZh": "\u4e34\u7317"
+}, {
+  "id": "CN101100803",
+  "cityEn": "jishan",
+  "cityZh": "\u7a37\u5c71"
+}, {
+  "id": "CN101100804",
+  "cityEn": "wanrong",
+  "cityZh": "\u4e07\u8363"
+}, {
+  "id": "CN101100805",
+  "cityEn": "hejin",
+  "cityZh": "\u6cb3\u6d25"
+}, {
+  "id": "CN101100806",
+  "cityEn": "xinjiang",
+  "cityZh": "\u65b0\u7edb"
+}, {
+  "id": "CN101100807",
+  "cityEn": "jiangxian",
+  "cityZh": "\u7edb\u53bf"
+}, {
+  "id": "CN101100808",
+  "cityEn": "wenxi",
+  "cityZh": "\u95fb\u559c"
+}, {
+  "id": "CN101100809",
+  "cityEn": "yuanqu",
+  "cityZh": "\u57a3\u66f2"
+}, {
+  "id": "CN101100810",
+  "cityEn": "yongji",
+  "cityZh": "\u6c38\u6d4e"
+}, {
+  "id": "CN101100811",
+  "cityEn": "ruicheng",
+  "cityZh": "\u82ae\u57ce"
+}, {
+  "id": "CN101100812",
+  "cityEn": "xiaxian",
+  "cityZh": "\u590f\u53bf"
+}, {
+  "id": "CN101100813",
+  "cityEn": "pinglu",
+  "cityZh": "\u5e73\u9646"
+}, {
+  "id": "CN101100814",
+  "cityEn": "yanhu",
+  "cityZh": "\u76d0\u6e56"
+}, {
+  "id": "CN101100901",
+  "cityEn": "shuozhou",
+  "cityZh": "\u6714\u5dde"
+}, {
+  "id": "CN101100902",
+  "cityEn": "pinglu",
+  "cityZh": "\u5e73\u9c81"
+}, {
+  "id": "CN101100903",
+  "cityEn": "shanyin",
+  "cityZh": "\u5c71\u9634"
+}, {
+  "id": "CN101100904",
+  "cityEn": "youyu",
+  "cityZh": "\u53f3\u7389"
+}, {
+  "id": "CN101100905",
+  "cityEn": "yingxian",
+  "cityZh": "\u5e94\u53bf"
+}, {
+  "id": "CN101100906",
+  "cityEn": "huairen",
+  "cityZh": "\u6000\u4ec1"
+}, {
+  "id": "CN101100907",
+  "cityEn": "shuocheng",
+  "cityZh": "\u6714\u57ce"
+}, {
+  "id": "CN101101001",
+  "cityEn": "xinzhou",
+  "cityZh": "\u5ffb\u5dde"
+}, {
+  "id": "CN101101002",
+  "cityEn": "dingxiang",
+  "cityZh": "\u5b9a\u8944"
+}, {
+  "id": "CN101101003",
+  "cityEn": "wutaixian",
+  "cityZh": "\u4e94\u53f0\u53bf"
+}, {
+  "id": "CN101101004",
+  "cityEn": "hequ",
+  "cityZh": "\u6cb3\u66f2"
+}, {
+  "id": "CN101101005",
+  "cityEn": "pianguan",
+  "cityZh": "\u504f\u5173"
+}, {
+  "id": "CN101101006",
+  "cityEn": "shenchi",
+  "cityZh": "\u795e\u6c60"
+}, {
+  "id": "CN101101007",
+  "cityEn": "ningwu",
+  "cityZh": "\u5b81\u6b66"
+}, {
+  "id": "CN101101008",
+  "cityEn": "daixian",
+  "cityZh": "\u4ee3\u53bf"
+}, {
+  "id": "CN101101009",
+  "cityEn": "fanshi",
+  "cityZh": "\u7e41\u5cd9"
+}, {
+  "id": "CN101101011",
+  "cityEn": "bode",
+  "cityZh": "\u4fdd\u5fb7"
+}, {
+  "id": "CN101101012",
+  "cityEn": "jingle",
+  "cityZh": "\u9759\u4e50"
+}, {
+  "id": "CN101101013",
+  "cityEn": "kelan",
+  "cityZh": "\u5ca2\u5c9a"
+}, {
+  "id": "CN101101014",
+  "cityEn": "wuzhai",
+  "cityZh": "\u4e94\u5be8"
+}, {
+  "id": "CN101101015",
+  "cityEn": "yuanping",
+  "cityZh": "\u539f\u5e73"
+}, {
+  "id": "CN101101016",
+  "cityEn": "xinfu",
+  "cityZh": "\u5ffb\u5e9c"
+}, {
+  "id": "CN101101100",
+  "cityEn": "lvliang",
+  "cityZh": "\u5415\u6881"
+}, {
+  "id": "CN101101101",
+  "cityEn": "lishi",
+  "cityZh": "\u79bb\u77f3"
+}, {
+  "id": "CN101101102",
+  "cityEn": "linxian",
+  "cityZh": "\u4e34\u53bf"
+}, {
+  "id": "CN101101103",
+  "cityEn": "xingxian",
+  "cityZh": "\u5174\u53bf"
+}, {
+  "id": "CN101101104",
+  "cityEn": "lanxian",
+  "cityZh": "\u5c9a\u53bf"
+}, {
+  "id": "CN101101105",
+  "cityEn": "liulin",
+  "cityZh": "\u67f3\u6797"
+}, {
+  "id": "CN101101106",
+  "cityEn": "shilou",
+  "cityZh": "\u77f3\u697c"
+}, {
+  "id": "CN101101107",
+  "cityEn": "fangshan",
+  "cityZh": "\u65b9\u5c71"
+}, {
+  "id": "CN101101108",
+  "cityEn": "jiaokou",
+  "cityZh": "\u4ea4\u53e3"
+}, {
+  "id": "CN101101109",
+  "cityEn": "zhongyang",
+  "cityZh": "\u4e2d\u9633"
+}, {
+  "id": "CN101101110",
+  "cityEn": "xiaoyi",
+  "cityZh": "\u5b5d\u4e49"
+}, {
+  "id": "CN101101111",
+  "cityEn": "fenyang",
+  "cityZh": "\u6c7e\u9633"
+}, {
+  "id": "CN101101112",
+  "cityEn": "wenshui",
+  "cityZh": "\u6587\u6c34"
+}, {
+  "id": "CN101101113",
+  "cityEn": "jiaocheng",
+  "cityZh": "\u4ea4\u57ce"
+}, {
+  "id": "CN101110101",
+  "cityEn": "xian",
+  "cityZh": "\u897f\u5b89"
+}, {
+  "id": "CN101110102",
+  "cityEn": "changan",
+  "cityZh": "\u957f\u5b89"
+}, {
+  "id": "CN101110103",
+  "cityEn": "lintong",
+  "cityZh": "\u4e34\u6f7c"
+}, {
+  "id": "CN101110104",
+  "cityEn": "lantian",
+  "cityZh": "\u84dd\u7530"
+}, {
+  "id": "CN101110105",
+  "cityEn": "zhouzhi",
+  "cityZh": "\u5468\u81f3"
+}, {
+  "id": "CN101110106",
+  "cityEn": "huxian",
+  "cityZh": "\u6237\u53bf"
+}, {
+  "id": "CN101110107",
+  "cityEn": "gaoling",
+  "cityZh": "\u9ad8\u9675"
+}, {
+  "id": "CN101110108",
+  "cityEn": "xincheng",
+  "cityZh": "\u65b0\u57ce"
+}, {
+  "id": "CN101110109",
+  "cityEn": "beilin",
+  "cityZh": "\u7891\u6797"
+}, {
+  "id": "CN101110110",
+  "cityEn": "lianhu",
+  "cityZh": "\u83b2\u6e56"
+}, {
+  "id": "CN101110111",
+  "cityEn": "baqiao",
+  "cityZh": "\u705e\u6865"
+}, {
+  "id": "CN101110112",
+  "cityEn": "weiyang",
+  "cityZh": "\u672a\u592e"
+}, {
+  "id": "CN101110113",
+  "cityEn": "yanta",
+  "cityZh": "\u96c1\u5854"
+}, {
+  "id": "CN101110114",
+  "cityEn": "yanliang",
+  "cityZh": "\u960e\u826f"
+}, {
+  "id": "CN101110200",
+  "cityEn": "xianyang",
+  "cityZh": "\u54b8\u9633"
+}, {
+  "id": "CN101110201",
+  "cityEn": "sanyuan",
+  "cityZh": "\u4e09\u539f"
+}, {
+  "id": "CN101110202",
+  "cityEn": "liquan",
+  "cityZh": "\u793c\u6cc9"
+}, {
+  "id": "CN101110203",
+  "cityEn": "yongshou",
+  "cityZh": "\u6c38\u5bff"
+}, {
+  "id": "CN101110204",
+  "cityEn": "chunhua",
+  "cityZh": "\u6df3\u5316"
+}, {
+  "id": "CN101110205",
+  "cityEn": "jingyang",
+  "cityZh": "\u6cfe\u9633"
+}, {
+  "id": "CN101110206",
+  "cityEn": "wugong",
+  "cityZh": "\u6b66\u529f"
+}, {
+  "id": "CN101110207",
+  "cityEn": "qianxian",
+  "cityZh": "\u4e7e\u53bf"
+}, {
+  "id": "CN101110208",
+  "cityEn": "binxian",
+  "cityZh": "\u5f6c\u53bf"
+}, {
+  "id": "CN101110209",
+  "cityEn": "changwu",
+  "cityZh": "\u957f\u6b66"
+}, {
+  "id": "CN101110210",
+  "cityEn": "xunyi",
+  "cityZh": "\u65ec\u9091"
+}, {
+  "id": "CN101110211",
+  "cityEn": "xingping",
+  "cityZh": "\u5174\u5e73"
+}, {
+  "id": "CN101110212",
+  "cityEn": "qindou",
+  "cityZh": "\u79e6\u90fd"
+}, {
+  "id": "CN101110213",
+  "cityEn": "weicheng",
+  "cityZh": "\u6e2d\u57ce"
+}, {
+  "id": "CN101110300",
+  "cityEn": "yanan",
+  "cityZh": "\u5ef6\u5b89"
+}, {
+  "id": "CN101110301",
+  "cityEn": "yanchang",
+  "cityZh": "\u5ef6\u957f"
+}, {
+  "id": "CN101110302",
+  "cityEn": "yanchuan",
+  "cityZh": "\u5ef6\u5ddd"
+}, {
+  "id": "CN101110303",
+  "cityEn": "zichang",
+  "cityZh": "\u5b50\u957f"
+}, {
+  "id": "CN101110304",
+  "cityEn": "yichuan",
+  "cityZh": "\u5b9c\u5ddd"
+}, {
+  "id": "CN101110305",
+  "cityEn": "fuxian",
+  "cityZh": "\u5bcc\u53bf"
+}, {
+  "id": "CN101110306",
+  "cityEn": "zhidan",
+  "cityZh": "\u5fd7\u4e39"
+}, {
+  "id": "CN101110307",
+  "cityEn": "ansai",
+  "cityZh": "\u5b89\u585e"
+}, {
+  "id": "CN101110308",
+  "cityEn": "ganquan",
+  "cityZh": "\u7518\u6cc9"
+}, {
+  "id": "CN101110309",
+  "cityEn": "luochuan",
+  "cityZh": "\u6d1b\u5ddd"
+}, {
+  "id": "CN101110310",
+  "cityEn": "huangling",
+  "cityZh": "\u9ec4\u9675"
+}, {
+  "id": "CN101110311",
+  "cityEn": "huanglong",
+  "cityZh": "\u9ec4\u9f99"
+}, {
+  "id": "CN101110312",
+  "cityEn": "wuqi",
+  "cityZh": "\u5434\u8d77"
+}, {
+  "id": "CN101110313",
+  "cityEn": "baota",
+  "cityZh": "\u5b9d\u5854"
+}, {
+  "id": "CN101110401",
+  "cityEn": "yulin",
+  "cityZh": "\u6986\u6797"
+}, {
+  "id": "CN101110402",
+  "cityEn": "fugu",
+  "cityZh": "\u5e9c\u8c37"
+}, {
+  "id": "CN101110403",
+  "cityEn": "shenmu",
+  "cityZh": "\u795e\u6728"
+}, {
+  "id": "CN101110404",
+  "cityEn": "jiaxian",
+  "cityZh": "\u4f73\u53bf"
+}, {
+  "id": "CN101110405",
+  "cityEn": "dingbian",
+  "cityZh": "\u5b9a\u8fb9"
+}, {
+  "id": "CN101110406",
+  "cityEn": "jingbian",
+  "cityZh": "\u9756\u8fb9"
+}, {
+  "id": "CN101110407",
+  "cityEn": "hengshan",
+  "cityZh": "\u6a2a\u5c71"
+}, {
+  "id": "CN101110408",
+  "cityEn": "mizhi",
+  "cityZh": "\u7c73\u8102"
+}, {
+  "id": "CN101110409",
+  "cityEn": "zizhou",
+  "cityZh": "\u5b50\u6d32"
+}, {
+  "id": "CN101110410",
+  "cityEn": "suide",
+  "cityZh": "\u7ee5\u5fb7"
+}, {
+  "id": "CN101110411",
+  "cityEn": "wubu",
+  "cityZh": "\u5434\u5821"
+}, {
+  "id": "CN101110412",
+  "cityEn": "qingjian",
+  "cityZh": "\u6e05\u6da7"
+}, {
+  "id": "CN101110413",
+  "cityEn": "yuyang",
+  "cityZh": "\u6986\u9633"
+}, {
+  "id": "CN101110501",
+  "cityEn": "weinan",
+  "cityZh": "\u6e2d\u5357"
+}, {
+  "id": "CN101110502",
+  "cityEn": "huaxian",
+  "cityZh": "\u534e\u53bf"
+}, {
+  "id": "CN101110503",
+  "cityEn": "tongguan",
+  "cityZh": "\u6f7c\u5173"
+}, {
+  "id": "CN101110504",
+  "cityEn": "dali",
+  "cityZh": "\u5927\u8354"
+}, {
+  "id": "CN101110505",
+  "cityEn": "baishui",
+  "cityZh": "\u767d\u6c34"
+}, {
+  "id": "CN101110506",
+  "cityEn": "fuping",
+  "cityZh": "\u5bcc\u5e73"
+}, {
+  "id": "CN101110507",
+  "cityEn": "pucheng",
+  "cityZh": "\u84b2\u57ce"
+}, {
+  "id": "CN101110508",
+  "cityEn": "chengcheng",
+  "cityZh": "\u6f84\u57ce"
+}, {
+  "id": "CN101110509",
+  "cityEn": "heyang",
+  "cityZh": "\u5408\u9633"
+}, {
+  "id": "CN101110510",
+  "cityEn": "hancheng",
+  "cityZh": "\u97e9\u57ce"
+}, {
+  "id": "CN101110511",
+  "cityEn": "huayin",
+  "cityZh": "\u534e\u9634"
+}, {
+  "id": "CN101110512",
+  "cityEn": "linwei",
+  "cityZh": "\u4e34\u6e2d"
+}, {
+  "id": "CN101110513",
+  "cityEn": "huazhou",
+  "cityZh": "\u534e\u5dde"
+}, {
+  "id": "CN101110601",
+  "cityEn": "shangluo",
+  "cityZh": "\u5546\u6d1b"
+}, {
+  "id": "CN101110602",
+  "cityEn": "luonan",
+  "cityZh": "\u6d1b\u5357"
+}, {
+  "id": "CN101110603",
+  "cityEn": "zhashui",
+  "cityZh": "\u67de\u6c34"
+}, {
+  "id": "CN101110604",
+  "cityEn": "shangzhou",
+  "cityZh": "\u5546\u5dde"
+}, {
+  "id": "CN101110605",
+  "cityEn": "zhenan",
+  "cityZh": "\u9547\u5b89"
+}, {
+  "id": "CN101110606",
+  "cityEn": "danfeng",
+  "cityZh": "\u4e39\u51e4"
+}, {
+  "id": "CN101110607",
+  "cityEn": "shangnan",
+  "cityZh": "\u5546\u5357"
+}, {
+  "id": "CN101110608",
+  "cityEn": "shanyang",
+  "cityZh": "\u5c71\u9633"
+}, {
+  "id": "CN101110701",
+  "cityEn": "ankang",
+  "cityZh": "\u5b89\u5eb7"
+}, {
+  "id": "CN101110702",
+  "cityEn": "ziyang",
+  "cityZh": "\u7d2b\u9633"
+}, {
+  "id": "CN101110703",
+  "cityEn": "shiquan",
+  "cityZh": "\u77f3\u6cc9"
+}, {
+  "id": "CN101110704",
+  "cityEn": "hanyin",
+  "cityZh": "\u6c49\u9634"
+}, {
+  "id": "CN101110705",
+  "cityEn": "xunyang",
+  "cityZh": "\u65ec\u9633"
+}, {
+  "id": "CN101110706",
+  "cityEn": "langao",
+  "cityZh": "\u5c9a\u768b"
+}, {
+  "id": "CN101110707",
+  "cityEn": "pingli",
+  "cityZh": "\u5e73\u5229"
+}, {
+  "id": "CN101110708",
+  "cityEn": "baihe",
+  "cityZh": "\u767d\u6cb3"
+}, {
+  "id": "CN101110709",
+  "cityEn": "zhenping",
+  "cityZh": "\u9547\u576a"
+}, {
+  "id": "CN101110710",
+  "cityEn": "ningshan",
+  "cityZh": "\u5b81\u9655"
+}, {
+  "id": "CN101110711",
+  "cityEn": "hanbin",
+  "cityZh": "\u6c49\u6ee8"
+}, {
+  "id": "CN101110801",
+  "cityEn": "hanzhong",
+  "cityZh": "\u6c49\u4e2d"
+}, {
+  "id": "CN101110802",
+  "cityEn": "lueyang",
+  "cityZh": "\u7565\u9633"
+}, {
+  "id": "CN101110803",
+  "cityEn": "mianxian",
+  "cityZh": "\u52c9\u53bf"
+}, {
+  "id": "CN101110804",
+  "cityEn": "liuba",
+  "cityZh": "\u7559\u575d"
+}, {
+  "id": "CN101110805",
+  "cityEn": "yangxian",
+  "cityZh": "\u6d0b\u53bf"
+}, {
+  "id": "CN101110806",
+  "cityEn": "chenggu",
+  "cityZh": "\u57ce\u56fa"
+}, {
+  "id": "CN101110807",
+  "cityEn": "xixiang",
+  "cityZh": "\u897f\u4e61"
+}, {
+  "id": "CN101110808",
+  "cityEn": "fuoping",
+  "cityZh": "\u4f5b\u576a"
+}, {
+  "id": "CN101110809",
+  "cityEn": "ningqiang",
+  "cityZh": "\u5b81\u5f3a"
+}, {
+  "id": "CN101110810",
+  "cityEn": "nanzheng",
+  "cityZh": "\u5357\u90d1"
+}, {
+  "id": "CN101110811",
+  "cityEn": "zhenba",
+  "cityZh": "\u9547\u5df4"
+}, {
+  "id": "CN101110812",
+  "cityEn": "hantai",
+  "cityZh": "\u6c49\u53f0"
+}, {
+  "id": "CN101110901",
+  "cityEn": "baoji",
+  "cityZh": "\u5b9d\u9e21"
+}, {
+  "id": "CN101110902",
+  "cityEn": "weibin",
+  "cityZh": "\u6e2d\u6ee8"
+}, {
+  "id": "CN101110903",
+  "cityEn": "qianyang",
+  "cityZh": "\u5343\u9633"
+}, {
+  "id": "CN101110904",
+  "cityEn": "linyou",
+  "cityZh": "\u9e9f\u6e38"
+}, {
+  "id": "CN101110905",
+  "cityEn": "qishan",
+  "cityZh": "\u5c90\u5c71"
+}, {
+  "id": "CN101110906",
+  "cityEn": "fengxiang",
+  "cityZh": "\u51e4\u7fd4"
+}, {
+  "id": "CN101110907",
+  "cityEn": "fufeng",
+  "cityZh": "\u6276\u98ce"
+}, {
+  "id": "CN101110908",
+  "cityEn": "meixian",
+  "cityZh": "\u7709\u53bf"
+}, {
+  "id": "CN101110909",
+  "cityEn": "taibai",
+  "cityZh": "\u592a\u767d"
+}, {
+  "id": "CN101110910",
+  "cityEn": "fengxian",
+  "cityZh": "\u51e4\u53bf"
+}, {
+  "id": "CN101110911",
+  "cityEn": "longxian",
+  "cityZh": "\u9647\u53bf"
+}, {
+  "id": "CN101110912",
+  "cityEn": "chencang",
+  "cityZh": "\u9648\u4ed3"
+}, {
+  "id": "CN101110913",
+  "cityEn": "jintai",
+  "cityZh": "\u91d1\u53f0"
+}, {
+  "id": "CN101111001",
+  "cityEn": "tongchuan",
+  "cityZh": "\u94dc\u5ddd"
+}, {
+  "id": "CN101111003",
+  "cityEn": "yijun",
+  "cityZh": "\u5b9c\u541b"
+}, {
+  "id": "CN101111004",
+  "cityEn": "yaozhou",
+  "cityZh": "\u8000\u5dde"
+}, {
+  "id": "CN101111005",
+  "cityEn": "wangyi",
+  "cityZh": "\u738b\u76ca"
+}, {
+  "id": "CN101111006",
+  "cityEn": "yintai",
+  "cityZh": "\u5370\u53f0"
+}, {
+  "id": "CN101111101",
+  "cityEn": "yangling",
+  "cityZh": "\u6768\u51cc"
+}, {
+  "id": "CN101111102",
+  "cityEn": "yangling",
+  "cityZh": "\u6768\u9675"
+}, {
+  "id": "CN101120101",
+  "cityEn": "jinan",
+  "cityZh": "\u6d4e\u5357"
+}, {
+  "id": "CN101120102",
+  "cityEn": "changqing",
+  "cityZh": "\u957f\u6e05"
+}, {
+  "id": "CN101120103",
+  "cityEn": "shanghe",
+  "cityZh": "\u5546\u6cb3"
+}, {
+  "id": "CN101120104",
+  "cityEn": "zhangqiu",
+  "cityZh": "\u7ae0\u4e18"
+}, {
+  "id": "CN101120105",
+  "cityEn": "pingyin",
+  "cityZh": "\u5e73\u9634"
+}, {
+  "id": "CN101120106",
+  "cityEn": "jiyang",
+  "cityZh": "\u6d4e\u9633"
+}, {
+  "id": "CN101120107",
+  "cityEn": "lixia",
+  "cityZh": "\u5386\u4e0b"
+}, {
+  "id": "CN101120108",
+  "cityEn": "shizhong",
+  "cityZh": "\u5e02\u4e2d"
+}, {
+  "id": "CN101120109",
+  "cityEn": "huaiyin",
+  "cityZh": "\u69d0\u836b"
+}, {
+  "id": "CN101120110",
+  "cityEn": "tianqiao",
+  "cityZh": "\u5929\u6865"
+}, {
+  "id": "CN101120111",
+  "cityEn": "licheng",
+  "cityZh": "\u5386\u57ce"
+}, {
+  "id": "CN101120201",
+  "cityEn": "qingdao",
+  "cityZh": "\u9752\u5c9b"
+}, {
+  "id": "CN101120202",
+  "cityEn": "laoshan",
+  "cityZh": "\u5d02\u5c71"
+}, {
+  "id": "CN101120203",
+  "cityEn": "shinan",
+  "cityZh": "\u5e02\u5357"
+}, {
+  "id": "CN101120204",
+  "cityEn": "jimo",
+  "cityZh": "\u5373\u58a8"
+}, {
+  "id": "CN101120205",
+  "cityEn": "jiaozhou",
+  "cityZh": "\u80f6\u5dde"
+}, {
+  "id": "CN101120206",
+  "cityEn": "huangdao",
+  "cityZh": "\u9ec4\u5c9b"
+}, {
+  "id": "CN101120207",
+  "cityEn": "laixi",
+  "cityZh": "\u83b1\u897f"
+}, {
+  "id": "CN101120208",
+  "cityEn": "pingdu",
+  "cityZh": "\u5e73\u5ea6"
+}, {
+  "id": "CN101120209",
+  "cityEn": "shibei",
+  "cityZh": "\u5e02\u5317"
+}, {
+  "id": "CN101120210",
+  "cityEn": "licang",
+  "cityZh": "\u674e\u6ca7"
+}, {
+  "id": "CN101120211",
+  "cityEn": "chengyang",
+  "cityZh": "\u57ce\u9633"
+}, {
+  "id": "CN101120301",
+  "cityEn": "zibo",
+  "cityZh": "\u6dc4\u535a"
+}, {
+  "id": "CN101120302",
+  "cityEn": "zichuan",
+  "cityZh": "\u6dc4\u5ddd"
+}, {
+  "id": "CN101120303",
+  "cityEn": "boshan",
+  "cityZh": "\u535a\u5c71"
+}, {
+  "id": "CN101120304",
+  "cityEn": "gaoqing",
+  "cityZh": "\u9ad8\u9752"
+}, {
+  "id": "CN101120305",
+  "cityEn": "zhoucun",
+  "cityZh": "\u5468\u6751"
+}, {
+  "id": "CN101120306",
+  "cityEn": "yiyuan",
+  "cityZh": "\u6c82\u6e90"
+}, {
+  "id": "CN101120307",
+  "cityEn": "huantai",
+  "cityZh": "\u6853\u53f0"
+}, {
+  "id": "CN101120308",
+  "cityEn": "linzi",
+  "cityZh": "\u4e34\u6dc4"
+}, {
+  "id": "CN101120309",
+  "cityEn": "zhangdian",
+  "cityZh": "\u5f20\u5e97"
+}, {
+  "id": "CN101120401",
+  "cityEn": "dezhou",
+  "cityZh": "\u5fb7\u5dde"
+}, {
+  "id": "CN101120402",
+  "cityEn": "wucheng",
+  "cityZh": "\u6b66\u57ce"
+}, {
+  "id": "CN101120403",
+  "cityEn": "linyi",
+  "cityZh": "\u4e34\u9091"
+}, {
+  "id": "CN101120405",
+  "cityEn": "qihe",
+  "cityZh": "\u9f50\u6cb3"
+}, {
+  "id": "CN101120406",
+  "cityEn": "leling",
+  "cityZh": "\u4e50\u9675"
+}, {
+  "id": "CN101120407",
+  "cityEn": "qingyun",
+  "cityZh": "\u5e86\u4e91"
+}, {
+  "id": "CN101120408",
+  "cityEn": "pingyuan",
+  "cityZh": "\u5e73\u539f"
+}, {
+  "id": "CN101120409",
+  "cityEn": "ningjin",
+  "cityZh": "\u5b81\u6d25"
+}, {
+  "id": "CN101120410",
+  "cityEn": "xiajin",
+  "cityZh": "\u590f\u6d25"
+}, {
+  "id": "CN101120411",
+  "cityEn": "yucheng",
+  "cityZh": "\u79b9\u57ce"
+}, {
+  "id": "CN101120412",
+  "cityEn": "decheng",
+  "cityZh": "\u5fb7\u57ce"
+}, {
+  "id": "CN101120413",
+  "cityEn": "lingcheng",
+  "cityZh": "\u9675\u57ce"
+}, {
+  "id": "CN101120501",
+  "cityEn": "yantai",
+  "cityZh": "\u70df\u53f0"
+}, {
+  "id": "CN101120502",
+  "cityEn": "laizhou",
+  "cityZh": "\u83b1\u5dde"
+}, {
+  "id": "CN101120503",
+  "cityEn": "changdao",
+  "cityZh": "\u957f\u5c9b"
+}, {
+  "id": "CN101120504",
+  "cityEn": "penglai",
+  "cityZh": "\u84ec\u83b1"
+}, {
+  "id": "CN101120505",
+  "cityEn": "longkou",
+  "cityZh": "\u9f99\u53e3"
+}, {
+  "id": "CN101120506",
+  "cityEn": "zhaoyuan",
+  "cityZh": "\u62db\u8fdc"
+}, {
+  "id": "CN101120507",
+  "cityEn": "qixia",
+  "cityZh": "\u6816\u971e"
+}, {
+  "id": "CN101120508",
+  "cityEn": "fushan",
+  "cityZh": "\u798f\u5c71"
+}, {
+  "id": "CN101120509",
+  "cityEn": "moup",
+  "cityZh": "\u725f\u5e73"
+}, {
+  "id": "CN101120510",
+  "cityEn": "laiyang",
+  "cityZh": "\u83b1\u9633"
+}, {
+  "id": "CN101120511",
+  "cityEn": "haiyang",
+  "cityZh": "\u6d77\u9633"
+}, {
+  "id": "CN101120512",
+  "cityEn": "zhifu",
+  "cityZh": "\u829d\u7f58"
+}, {
+  "id": "CN101120513",
+  "cityEn": "laishan",
+  "cityZh": "\u83b1\u5c71"
+}, {
+  "id": "CN101120601",
+  "cityEn": "weifang",
+  "cityZh": "\u6f4d\u574a"
+}, {
+  "id": "CN101120602",
+  "cityEn": "qingzhou",
+  "cityZh": "\u9752\u5dde"
+}, {
+  "id": "CN101120603",
+  "cityEn": "shouguang",
+  "cityZh": "\u5bff\u5149"
+}, {
+  "id": "CN101120604",
+  "cityEn": "linqu",
+  "cityZh": "\u4e34\u6710"
+}, {
+  "id": "CN101120605",
+  "cityEn": "changle",
+  "cityZh": "\u660c\u4e50"
+}, {
+  "id": "CN101120606",
+  "cityEn": "changyi",
+  "cityZh": "\u660c\u9091"
+}, {
+  "id": "CN101120607",
+  "cityEn": "anqiu",
+  "cityZh": "\u5b89\u4e18"
+}, {
+  "id": "CN101120608",
+  "cityEn": "gaomi",
+  "cityZh": "\u9ad8\u5bc6"
+}, {
+  "id": "CN101120609",
+  "cityEn": "zhucheng",
+  "cityZh": "\u8bf8\u57ce"
+}, {
+  "id": "CN101120610",
+  "cityEn": "weicheng",
+  "cityZh": "\u6f4d\u57ce"
+}, {
+  "id": "CN101120611",
+  "cityEn": "hanting",
+  "cityZh": "\u5bd2\u4ead"
+}, {
+  "id": "CN101120612",
+  "cityEn": "fangzi",
+  "cityZh": "\u574a\u5b50"
+}, {
+  "id": "CN101120613",
+  "cityEn": "kuiwen",
+  "cityZh": "\u594e\u6587"
+}, {
+  "id": "CN101120701",
+  "cityEn": "jining",
+  "cityZh": "\u6d4e\u5b81"
+}, {
+  "id": "CN101120702",
+  "cityEn": "jiaxiang",
+  "cityZh": "\u5609\u7965"
+}, {
+  "id": "CN101120703",
+  "cityEn": "weishan",
+  "cityZh": "\u5fae\u5c71"
+}, {
+  "id": "CN101120704",
+  "cityEn": "yutai",
+  "cityZh": "\u9c7c\u53f0"
+}, {
+  "id": "CN101120705",
+  "cityEn": "yanzhou",
+  "cityZh": "\u5156\u5dde"
+}, {
+  "id": "CN101120706",
+  "cityEn": "jinxiang",
+  "cityZh": "\u91d1\u4e61"
+}, {
+  "id": "CN101120707",
+  "cityEn": "wenshang",
+  "cityZh": "\u6c76\u4e0a"
+}, {
+  "id": "CN101120708",
+  "cityEn": "sishui",
+  "cityZh": "\u6cd7\u6c34"
+}, {
+  "id": "CN101120709",
+  "cityEn": "liangshan",
+  "cityZh": "\u6881\u5c71"
+}, {
+  "id": "CN101120710",
+  "cityEn": "qufu",
+  "cityZh": "\u66f2\u961c"
+}, {
+  "id": "CN101120711",
+  "cityEn": "zoucheng",
+  "cityZh": "\u90b9\u57ce"
+}, {
+  "id": "CN101120712",
+  "cityEn": "rencheng",
+  "cityZh": "\u4efb\u57ce"
+}, {
+  "id": "CN101120801",
+  "cityEn": "taian",
+  "cityZh": "\u6cf0\u5b89"
+}, {
+  "id": "CN101120802",
+  "cityEn": "xintai",
+  "cityZh": "\u65b0\u6cf0"
+}, {
+  "id": "CN101120803",
+  "cityEn": "taishan",
+  "cityZh": "\u6cf0\u5c71"
+}, {
+  "id": "CN101120804",
+  "cityEn": "feicheng",
+  "cityZh": "\u80a5\u57ce"
+}, {
+  "id": "CN101120805",
+  "cityEn": "dongping",
+  "cityZh": "\u4e1c\u5e73"
+}, {
+  "id": "CN101120806",
+  "cityEn": "ningyang",
+  "cityZh": "\u5b81\u9633"
+}, {
+  "id": "CN101120807",
+  "cityEn": "daiyue",
+  "cityZh": "\u5cb1\u5cb3"
+}, {
+  "id": "CN101120901",
+  "cityEn": "linyi",
+  "cityZh": "\u4e34\u6c82"
+}, {
+  "id": "CN101120902",
+  "cityEn": "junan",
+  "cityZh": "\u8392\u5357"
+}, {
+  "id": "CN101120903",
+  "cityEn": "yinan",
+  "cityZh": "\u6c82\u5357"
+}, {
+  "id": "CN101120904",
+  "cityEn": "lanling",
+  "cityZh": "\u5170\u9675"
+}, {
+  "id": "CN101120905",
+  "cityEn": "linshu",
+  "cityZh": "\u4e34\u6cad"
+}, {
+  "id": "CN101120906",
+  "cityEn": "tancheng",
+  "cityZh": "\u90ef\u57ce"
+}, {
+  "id": "CN101120907",
+  "cityEn": "mengyin",
+  "cityZh": "\u8499\u9634"
+}, {
+  "id": "CN101120908",
+  "cityEn": "pingyi",
+  "cityZh": "\u5e73\u9091"
+}, {
+  "id": "CN101120909",
+  "cityEn": "feixian",
+  "cityZh": "\u8d39\u53bf"
+}, {
+  "id": "CN101120910",
+  "cityEn": "yishui",
+  "cityZh": "\u6c82\u6c34"
+}, {
+  "id": "CN101120911",
+  "cityEn": "lanshan",
+  "cityZh": "\u5170\u5c71"
+}, {
+  "id": "CN101120912",
+  "cityEn": "luozhuang",
+  "cityZh": "\u7f57\u5e84"
+}, {
+  "id": "CN101120913",
+  "cityEn": "hedong",
+  "cityZh": "\u6cb3\u4e1c"
+}, {
+  "id": "CN101121001",
+  "cityEn": "heze",
+  "cityZh": "\u83cf\u6cfd"
+}, {
+  "id": "CN101121002",
+  "cityEn": "juancheng",
+  "cityZh": "\u9104\u57ce"
+}, {
+  "id": "CN101121003",
+  "cityEn": "yuncheng",
+  "cityZh": "\u90d3\u57ce"
+}, {
+  "id": "CN101121004",
+  "cityEn": "dongming",
+  "cityZh": "\u4e1c\u660e"
+}, {
+  "id": "CN101121005",
+  "cityEn": "dingtao",
+  "cityZh": "\u5b9a\u9676"
+}, {
+  "id": "CN101121006",
+  "cityEn": "juye",
+  "cityZh": "\u5de8\u91ce"
+}, {
+  "id": "CN101121007",
+  "cityEn": "caoxian",
+  "cityZh": "\u66f9\u53bf"
+}, {
+  "id": "CN101121008",
+  "cityEn": "chengwu",
+  "cityZh": "\u6210\u6b66"
+}, {
+  "id": "CN101121009",
+  "cityEn": "shanxian",
+  "cityZh": "\u5355\u53bf"
+}, {
+  "id": "CN101121010",
+  "cityEn": "mudan",
+  "cityZh": "\u7261\u4e39"
+}, {
+  "id": "CN101121101",
+  "cityEn": "binzhou",
+  "cityZh": "\u6ee8\u5dde"
+}, {
+  "id": "CN101121102",
+  "cityEn": "boxing",
+  "cityZh": "\u535a\u5174"
+}, {
+  "id": "CN101121103",
+  "cityEn": "wudi",
+  "cityZh": "\u65e0\u68e3"
+}, {
+  "id": "CN101121104",
+  "cityEn": "yangxin",
+  "cityZh": "\u9633\u4fe1"
+}, {
+  "id": "CN101121105",
+  "cityEn": "huimin",
+  "cityZh": "\u60e0\u6c11"
+}, {
+  "id": "CN101121106",
+  "cityEn": "zhanhua",
+  "cityZh": "\u6cbe\u5316"
+}, {
+  "id": "CN101121107",
+  "cityEn": "zouping",
+  "cityZh": "\u90b9\u5e73"
+}, {
+  "id": "CN101121108",
+  "cityEn": "bincheng",
+  "cityZh": "\u6ee8\u57ce"
+}, {
+  "id": "CN101121201",
+  "cityEn": "dongying",
+  "cityZh": "\u4e1c\u8425"
+}, {
+  "id": "CN101121202",
+  "cityEn": "hekou",
+  "cityZh": "\u6cb3\u53e3"
+}, {
+  "id": "CN101121203",
+  "cityEn": "kenli",
+  "cityZh": "\u57a6\u5229"
+}, {
+  "id": "CN101121204",
+  "cityEn": "lijin",
+  "cityZh": "\u5229\u6d25"
+}, {
+  "id": "CN101121205",
+  "cityEn": "guangrao",
+  "cityZh": "\u5e7f\u9976"
+}, {
+  "id": "CN101121301",
+  "cityEn": "weihai",
+  "cityZh": "\u5a01\u6d77"
+}, {
+  "id": "CN101121302",
+  "cityEn": "wendeng",
+  "cityZh": "\u6587\u767b"
+}, {
+  "id": "CN101121303",
+  "cityEn": "rongcheng",
+  "cityZh": "\u8363\u6210"
+}, {
+  "id": "CN101121304",
+  "cityEn": "rushan",
+  "cityZh": "\u4e73\u5c71"
+}, {
+  "id": "CN101121307",
+  "cityEn": "huancui",
+  "cityZh": "\u73af\u7fe0"
+}, {
+  "id": "CN101121401",
+  "cityEn": "zaozhuang",
+  "cityZh": "\u67a3\u5e84"
+}, {
+  "id": "CN101121402",
+  "cityEn": "xuecheng",
+  "cityZh": "\u859b\u57ce"
+}, {
+  "id": "CN101121403",
+  "cityEn": "yicheng",
+  "cityZh": "\u5cc4\u57ce"
+}, {
+  "id": "CN101121404",
+  "cityEn": "taierzhuang",
+  "cityZh": "\u53f0\u513f\u5e84"
+}, {
+  "id": "CN101121405",
+  "cityEn": "tengzhou",
+  "cityZh": "\u6ed5\u5dde"
+}, {
+  "id": "CN101121406",
+  "cityEn": "shizhong",
+  "cityZh": "\u5e02\u4e2d"
+}, {
+  "id": "CN101121407",
+  "cityEn": "shanting",
+  "cityZh": "\u5c71\u4ead"
+}, {
+  "id": "CN101121501",
+  "cityEn": "rizhao",
+  "cityZh": "\u65e5\u7167"
+}, {
+  "id": "CN101121502",
+  "cityEn": "wulian",
+  "cityZh": "\u4e94\u83b2"
+}, {
+  "id": "CN101121503",
+  "cityEn": "juxian",
+  "cityZh": "\u8392\u53bf"
+}, {
+  "id": "CN101121504",
+  "cityEn": "donggang",
+  "cityZh": "\u4e1c\u6e2f"
+}, {
+  "id": "CN101121505",
+  "cityEn": "lanshan",
+  "cityZh": "\u5c9a\u5c71"
+}, {
+  "id": "CN101121601",
+  "cityEn": "laiwu",
+  "cityZh": "\u83b1\u829c"
+}, {
+  "id": "CN101121602",
+  "cityEn": "laicheng",
+  "cityZh": "\u83b1\u57ce"
+}, {
+  "id": "CN101121603",
+  "cityEn": "gangcheng",
+  "cityZh": "\u94a2\u57ce"
+}, {
+  "id": "CN101121701",
+  "cityEn": "liaocheng",
+  "cityZh": "\u804a\u57ce"
+}, {
+  "id": "CN101121702",
+  "cityEn": "guanxian",
+  "cityZh": "\u51a0\u53bf"
+}, {
+  "id": "CN101121703",
+  "cityEn": "yanggu",
+  "cityZh": "\u9633\u8c37"
+}, {
+  "id": "CN101121704",
+  "cityEn": "gaotang",
+  "cityZh": "\u9ad8\u5510"
+}, {
+  "id": "CN101121705",
+  "cityEn": "chiping",
+  "cityZh": "\u830c\u5e73"
+}, {
+  "id": "CN101121706",
+  "cityEn": "donge",
+  "cityZh": "\u4e1c\u963f"
+}, {
+  "id": "CN101121707",
+  "cityEn": "linqing",
+  "cityZh": "\u4e34\u6e05"
+}, {
+  "id": "CN101121708",
+  "cityEn": "dongchangfu",
+  "cityZh": "\u4e1c\u660c\u5e9c"
+}, {
+  "id": "CN101121709",
+  "cityEn": "shenxian",
+  "cityZh": "\u8398\u53bf"
+}, {
+  "id": "CN101130101",
+  "cityEn": "wulumuqi",
+  "cityZh": "\u4e4c\u9c81\u6728\u9f50"
+}, {
+  "id": "CN101130102",
+  "cityEn": "tianshan",
+  "cityZh": "\u5929\u5c71"
+}, {
+  "id": "CN101130104",
+  "cityEn": "shayibake",
+  "cityZh": "\u6c99\u4f9d\u5df4\u514b"
+}, {
+  "id": "CN101130105",
+  "cityEn": "dabancheng",
+  "cityZh": "\u8fbe\u5742\u57ce"
+}, {
+  "id": "CN101130106",
+  "cityEn": "xinshi",
+  "cityZh": "\u65b0\u5e02"
+}, {
+  "id": "CN101130107",
+  "cityEn": "shuimogou",
+  "cityZh": "\u6c34\u78e8\u6c9f"
+}, {
+  "id": "CN101130111",
+  "cityEn": "toutunhe",
+  "cityZh": "\u5934\u5c6f\u6cb3"
+}, {
+  "id": "CN101130112",
+  "cityEn": "midong",
+  "cityZh": "\u7c73\u4e1c"
+}, {
+  "id": "CN101130113",
+  "cityEn": "wulumuqixian",
+  "cityZh": "\u4e4c\u9c81\u6728\u9f50\u53bf"
+}, {
+  "id": "CN101130201",
+  "cityEn": "kelamayi",
+  "cityZh": "\u514b\u62c9\u739b\u4f9d"
+}, {
+  "id": "CN101130202",
+  "cityEn": "wuerhe",
+  "cityZh": "\u4e4c\u5c14\u79be"
+}, {
+  "id": "CN101130203",
+  "cityEn": "baijiantan",
+  "cityZh": "\u767d\u78b1\u6ee9"
+}, {
+  "id": "CN101130204",
+  "cityEn": "dushanzi",
+  "cityZh": "\u72ec\u5c71\u5b50"
+}, {
+  "id": "CN101130301",
+  "cityEn": "shihezi",
+  "cityZh": "\u77f3\u6cb3\u5b50"
+}, {
+  "id": "CN101130401",
+  "cityEn": "changji",
+  "cityZh": "\u660c\u5409"
+}, {
+  "id": "CN101130402",
+  "cityEn": "hutubi",
+  "cityZh": "\u547c\u56fe\u58c1"
+}, {
+  "id": "CN101130404",
+  "cityEn": "fukang",
+  "cityZh": "\u961c\u5eb7"
+}, {
+  "id": "CN101130405",
+  "cityEn": "jimusaer",
+  "cityZh": "\u5409\u6728\u8428\u5c14"
+}, {
+  "id": "CN101130406",
+  "cityEn": "qitai",
+  "cityZh": "\u5947\u53f0"
+}, {
+  "id": "CN101130407",
+  "cityEn": "manasi",
+  "cityZh": "\u739b\u7eb3\u65af"
+}, {
+  "id": "CN101130408",
+  "cityEn": "mulei",
+  "cityZh": "\u6728\u5792"
+}, {
+  "id": "CN101130501",
+  "cityEn": "tulufan",
+  "cityZh": "\u5410\u9c81\u756a"
+}, {
+  "id": "CN101130502",
+  "cityEn": "tuokexun",
+  "cityZh": "\u6258\u514b\u900a"
+}, {
+  "id": "CN101130503",
+  "cityEn": "gaochang",
+  "cityZh": "\u9ad8\u660c"
+}, {
+  "id": "CN101130504",
+  "cityEn": "shanshan",
+  "cityZh": "\u912f\u5584"
+}, {
+  "id": "CN101130601",
+  "cityEn": "kuerle",
+  "cityZh": "\u5e93\u5c14\u52d2"
+}, {
+  "id": "CN101130602",
+  "cityEn": "luntai",
+  "cityZh": "\u8f6e\u53f0"
+}, {
+  "id": "CN101130603",
+  "cityEn": "yuli",
+  "cityZh": "\u5c09\u7281"
+}, {
+  "id": "CN101130604",
+  "cityEn": "ruoqiang",
+  "cityZh": "\u82e5\u7f8c"
+}, {
+  "id": "CN101130605",
+  "cityEn": "qiemo",
+  "cityZh": "\u4e14\u672b"
+}, {
+  "id": "CN101130606",
+  "cityEn": "hejing",
+  "cityZh": "\u548c\u9759"
+}, {
+  "id": "CN101130607",
+  "cityEn": "yanqi",
+  "cityZh": "\u7109\u8006"
+}, {
+  "id": "CN101130608",
+  "cityEn": "shuo",
+  "cityZh": "\u548c\u7855"
+}, {
+  "id": "CN101130609",
+  "cityEn": "bayinguoleng",
+  "cityZh": "\u5df4\u97f3\u90ed\u695e"
+}, {
+  "id": "CN101130612",
+  "cityEn": "bohu",
+  "cityZh": "\u535a\u6e56"
+}, {
+  "id": "CN101130701",
+  "cityEn": "alaer",
+  "cityZh": "\u963f\u62c9\u5c14"
+}, {
+  "id": "CN101130801",
+  "cityEn": "akesu",
+  "cityZh": "\u963f\u514b\u82cf"
+}, {
+  "id": "CN101130802",
+  "cityEn": "wushi",
+  "cityZh": "\u4e4c\u4ec0"
+}, {
+  "id": "CN101130803",
+  "cityEn": "wensu",
+  "cityZh": "\u6e29\u5bbf"
+}, {
+  "id": "CN101130804",
+  "cityEn": "baicheng",
+  "cityZh": "\u62dc\u57ce"
+}, {
+  "id": "CN101130805",
+  "cityEn": "xinhe",
+  "cityZh": "\u65b0\u548c"
+}, {
+  "id": "CN101130806",
+  "cityEn": "shaya",
+  "cityZh": "\u6c99\u96c5"
+}, {
+  "id": "CN101130807",
+  "cityEn": "kuche",
+  "cityZh": "\u5e93\u8f66"
+}, {
+  "id": "CN101130808",
+  "cityEn": "keping",
+  "cityZh": "\u67ef\u576a"
+}, {
+  "id": "CN101130809",
+  "cityEn": "awati",
+  "cityZh": "\u963f\u74e6\u63d0"
+}, {
+  "id": "CN101130901",
+  "cityEn": "kashi",
+  "cityZh": "\u5580\u4ec0"
+}, {
+  "id": "CN101130902",
+  "cityEn": "yingjisha",
+  "cityZh": "\u82f1\u5409\u6c99"
+}, {
+  "id": "CN101130903",
+  "cityEn": "tashikuergan",
+  "cityZh": "\u5854\u4ec0\u5e93\u5c14\u5e72"
+}, {
+  "id": "CN101130904",
+  "cityEn": "maigaiti",
+  "cityZh": "\u9ea6\u76d6\u63d0"
+}, {
+  "id": "CN101130905",
+  "cityEn": "shache",
+  "cityZh": "\u838e\u8f66"
+}, {
+  "id": "CN101130906",
+  "cityEn": "yecheng",
+  "cityZh": "\u53f6\u57ce"
+}, {
+  "id": "CN101130907",
+  "cityEn": "zepu",
+  "cityZh": "\u6cfd\u666e"
+}, {
+  "id": "CN101130908",
+  "cityEn": "bachu",
+  "cityZh": "\u5df4\u695a"
+}, {
+  "id": "CN101130909",
+  "cityEn": "yuepuhu",
+  "cityZh": "\u5cb3\u666e\u6e56"
+}, {
+  "id": "CN101130910",
+  "cityEn": "jiashi",
+  "cityZh": "\u4f3d\u5e08"
+}, {
+  "id": "CN101130911",
+  "cityEn": "shufu",
+  "cityZh": "\u758f\u9644"
+}, {
+  "id": "CN101130912",
+  "cityEn": "shule",
+  "cityZh": "\u758f\u52d2"
+}, {
+  "id": "CN101131001",
+  "cityEn": "yining",
+  "cityZh": "\u4f0a\u5b81"
+}, {
+  "id": "CN101131002",
+  "cityEn": "chabuchaer",
+  "cityZh": "\u5bdf\u5e03\u67e5\u5c14"
+}, {
+  "id": "CN101131003",
+  "cityEn": "nileke",
+  "cityZh": "\u5c3c\u52d2\u514b"
+}, {
+  "id": "CN101131004",
+  "cityEn": "yiningxian",
+  "cityZh": "\u4f0a\u5b81\u53bf"
+}, {
+  "id": "CN101131005",
+  "cityEn": "gongliu",
+  "cityZh": "\u5de9\u7559"
+}, {
+  "id": "CN101131006",
+  "cityEn": "xinyuan",
+  "cityZh": "\u65b0\u6e90"
+}, {
+  "id": "CN101131007",
+  "cityEn": "zhaosu",
+  "cityZh": "\u662d\u82cf"
+}, {
+  "id": "CN101131008",
+  "cityEn": "tekesi",
+  "cityZh": "\u7279\u514b\u65af"
+}, {
+  "id": "CN101131009",
+  "cityEn": "huocheng",
+  "cityZh": "\u970d\u57ce"
+}, {
+  "id": "CN101131010",
+  "cityEn": "huoerguosi",
+  "cityZh": "\u970d\u5c14\u679c\u65af"
+}, {
+  "id": "CN101131011",
+  "cityEn": "kuitunshi",
+  "cityZh": "\u594e\u5c6f"
+}, {
+  "id": "CN101131012",
+  "cityEn": "yili",
+  "cityZh": "\u4f0a\u7281"
+}, {
+  "id": "CN101131101",
+  "cityEn": "tacheng",
+  "cityZh": "\u5854\u57ce"
+}, {
+  "id": "CN101131102",
+  "cityEn": "yumin",
+  "cityZh": "\u88d5\u6c11"
+}, {
+  "id": "CN101131103",
+  "cityEn": "emin",
+  "cityZh": "\u989d\u654f"
+}, {
+  "id": "CN101131104",
+  "cityEn": "hebukesaier",
+  "cityZh": "\u548c\u5e03\u514b\u8d5b\u5c14"
+}, {
+  "id": "CN101131105",
+  "cityEn": "tuoli",
+  "cityZh": "\u6258\u91cc"
+}, {
+  "id": "CN101131106",
+  "cityEn": "wusu",
+  "cityZh": "\u4e4c\u82cf"
+}, {
+  "id": "CN101131107",
+  "cityEn": "shawan",
+  "cityZh": "\u6c99\u6e7e"
+}, {
+  "id": "CN101131201",
+  "cityEn": "hami",
+  "cityZh": "\u54c8\u5bc6"
+}, {
+  "id": "CN101131202",
+  "cityEn": "yizhou",
+  "cityZh": "\u4f0a\u5dde"
+}, {
+  "id": "CN101131203",
+  "cityEn": "balikun",
+  "cityZh": "\u5df4\u91cc\u5764"
+}, {
+  "id": "CN101131204",
+  "cityEn": "yiwu",
+  "cityZh": "\u4f0a\u543e"
+}, {
+  "id": "CN101131301",
+  "cityEn": "hetian",
+  "cityZh": "\u548c\u7530"
+}, {
+  "id": "CN101131302",
+  "cityEn": "pishan",
+  "cityZh": "\u76ae\u5c71"
+}, {
+  "id": "CN101131303",
+  "cityEn": "cele",
+  "cityZh": "\u7b56\u52d2"
+}, {
+  "id": "CN101131304",
+  "cityEn": "moyu",
+  "cityZh": "\u58a8\u7389"
+}, {
+  "id": "CN101131305",
+  "cityEn": "luopu",
+  "cityZh": "\u6d1b\u6d66"
+}, {
+  "id": "CN101131306",
+  "cityEn": "minfeng",
+  "cityZh": "\u6c11\u4e30"
+}, {
+  "id": "CN101131307",
+  "cityEn": "yutian",
+  "cityZh": "\u4e8e\u7530"
+}, {
+  "id": "CN101131401",
+  "cityEn": "aletai",
+  "cityZh": "\u963f\u52d2\u6cf0"
+}, {
+  "id": "CN101131402",
+  "cityEn": "habahe",
+  "cityZh": "\u54c8\u5df4\u6cb3"
+}, {
+  "id": "CN101131405",
+  "cityEn": "jimunai",
+  "cityZh": "\u5409\u6728\u4e43"
+}, {
+  "id": "CN101131406",
+  "cityEn": "buerjin",
+  "cityZh": "\u5e03\u5c14\u6d25"
+}, {
+  "id": "CN101131407",
+  "cityEn": "fuhai",
+  "cityZh": "\u798f\u6d77"
+}, {
+  "id": "CN101131408",
+  "cityEn": "fuyun",
+  "cityZh": "\u5bcc\u8574"
+}, {
+  "id": "CN101131409",
+  "cityEn": "qinghe",
+  "cityZh": "\u9752\u6cb3"
+}, {
+  "id": "CN101131410",
+  "cityEn": "beitun",
+  "cityZh": "\u5317\u5c6f"
+}, {
+  "id": "CN101131412",
+  "cityEn": "shuanghe",
+  "cityZh": "\u53cc\u6cb3"
+}, {
+  "id": "CN101131413",
+  "cityEn": "kekedala",
+  "cityZh": "\u53ef\u514b\u8fbe\u62c9"
+}, {
+  "id": "CN101131501",
+  "cityEn": "atushi",
+  "cityZh": "\u963f\u56fe\u4ec0"
+}, {
+  "id": "CN101131502",
+  "cityEn": "wuqia",
+  "cityZh": "\u4e4c\u6070"
+}, {
+  "id": "CN101131503",
+  "cityEn": "aketao",
+  "cityZh": "\u963f\u514b\u9676"
+}, {
+  "id": "CN101131504",
+  "cityEn": "aheqi",
+  "cityZh": "\u963f\u5408\u5947"
+}, {
+  "id": "CN101131505",
+  "cityEn": "kezhou",
+  "cityZh": "\u514b\u5dde"
+}, {
+  "id": "CN101131601",
+  "cityEn": "bole",
+  "cityZh": "\u535a\u4e50"
+}, {
+  "id": "CN101131602",
+  "cityEn": "wenquan",
+  "cityZh": "\u6e29\u6cc9"
+}, {
+  "id": "CN101131603",
+  "cityEn": "jinghe",
+  "cityZh": "\u7cbe\u6cb3"
+}, {
+  "id": "CN101131604",
+  "cityEn": "boertala",
+  "cityZh": "\u535a\u5c14\u5854\u62c9"
+}, {
+  "id": "CN101131606",
+  "cityEn": "alashankou",
+  "cityZh": "\u963f\u62c9\u5c71\u53e3"
+}, {
+  "id": "CN101131701",
+  "cityEn": "tumushuke",
+  "cityZh": "\u56fe\u6728\u8212\u514b"
+}, {
+  "id": "CN101131801",
+  "cityEn": "wujiaqu",
+  "cityZh": "\u4e94\u5bb6\u6e20"
+}, {
+  "id": "CN101131901",
+  "cityEn": "tiemenguan",
+  "cityZh": "\u94c1\u95e8\u5173"
+}, {
+  "id": "CN101140101",
+  "cityEn": "lasa",
+  "cityZh": "\u62c9\u8428"
+}, {
+  "id": "CN101140102",
+  "cityEn": "dangxiong",
+  "cityZh": "\u5f53\u96c4"
+}, {
+  "id": "CN101140103",
+  "cityEn": "nimu",
+  "cityZh": "\u5c3c\u6728"
+}, {
+  "id": "CN101140104",
+  "cityEn": "linzhou",
+  "cityZh": "\u6797\u5468"
+}, {
+  "id": "CN101140105",
+  "cityEn": "duilongdeqing",
+  "cityZh": "\u5806\u9f99\u5fb7\u5e86"
+}, {
+  "id": "CN101140106",
+  "cityEn": "qushui",
+  "cityZh": "\u66f2\u6c34"
+}, {
+  "id": "CN101140107",
+  "cityEn": "dazi",
+  "cityZh": "\u8fbe\u5b5c"
+}, {
+  "id": "CN101140108",
+  "cityEn": "mozhugongka",
+  "cityZh": "\u58a8\u7af9\u5de5\u5361"
+}, {
+  "id": "CN101140109",
+  "cityEn": "chengguan",
+  "cityZh": "\u57ce\u5173"
+}, {
+  "id": "CN101140201",
+  "cityEn": "rikaze",
+  "cityZh": "\u65e5\u5580\u5219"
+}, {
+  "id": "CN101140202",
+  "cityEn": "lazi",
+  "cityZh": "\u62c9\u5b5c"
+}, {
+  "id": "CN101140203",
+  "cityEn": "nanmulin",
+  "cityZh": "\u5357\u6728\u6797"
+}, {
+  "id": "CN101140204",
+  "cityEn": "nielamu",
+  "cityZh": "\u8042\u62c9\u6728"
+}, {
+  "id": "CN101140205",
+  "cityEn": "anri",
+  "cityZh": "\u5b9a\u65e5"
+}, {
+  "id": "CN101140206",
+  "cityEn": "jiangzi",
+  "cityZh": "\u6c5f\u5b5c"
+}, {
+  "id": "CN101140208",
+  "cityEn": "zhongba",
+  "cityZh": "\u4ef2\u5df4"
+}, {
+  "id": "CN101140209",
+  "cityEn": "saga",
+  "cityZh": "\u8428\u560e"
+}, {
+  "id": "CN101140210",
+  "cityEn": "jilong",
+  "cityZh": "\u5409\u9686"
+}, {
+  "id": "CN101140211",
+  "cityEn": "angren",
+  "cityZh": "\u6602\u4ec1"
+}, {
+  "id": "CN101140212",
+  "cityEn": "dingjie",
+  "cityZh": "\u5b9a\u7ed3"
+}, {
+  "id": "CN101140213",
+  "cityEn": "sajia",
+  "cityZh": "\u8428\u8fe6"
+}, {
+  "id": "CN101140214",
+  "cityEn": "xietongmen",
+  "cityZh": "\u8c22\u901a\u95e8"
+}, {
+  "id": "CN101140215",
+  "cityEn": "sangzhuzi",
+  "cityZh": "\u6851\u73e0\u5b5c"
+}, {
+  "id": "CN101140216",
+  "cityEn": "gangba",
+  "cityZh": "\u5c97\u5df4"
+}, {
+  "id": "CN101140217",
+  "cityEn": "bailang",
+  "cityZh": "\u767d\u6717"
+}, {
+  "id": "CN101140218",
+  "cityEn": "yadong",
+  "cityZh": "\u4e9a\u4e1c"
+}, {
+  "id": "CN101140219",
+  "cityEn": "kangma",
+  "cityZh": "\u5eb7\u9a6c"
+}, {
+  "id": "CN101140220",
+  "cityEn": "renbu",
+  "cityZh": "\u4ec1\u5e03"
+}, {
+  "id": "CN101140301",
+  "cityEn": "shannan",
+  "cityZh": "\u5c71\u5357"
+}, {
+  "id": "CN101140302",
+  "cityEn": "gongga",
+  "cityZh": "\u8d21\u560e"
+}, {
+  "id": "CN101140303",
+  "cityEn": "zhanang",
+  "cityZh": "\u624e\u56ca"
+}, {
+  "id": "CN101140304",
+  "cityEn": "jiacha",
+  "cityZh": "\u52a0\u67e5"
+}, {
+  "id": "CN101140305",
+  "cityEn": "langkazi",
+  "cityZh": "\u6d6a\u5361\u5b50"
+}, {
+  "id": "CN101140306",
+  "cityEn": "cuona",
+  "cityZh": "\u9519\u90a3"
+}, {
+  "id": "CN101140307",
+  "cityEn": "longzi",
+  "cityZh": "\u9686\u5b50"
+}, {
+  "id": "CN101140309",
+  "cityEn": "naidong",
+  "cityZh": "\u4e43\u4e1c"
+}, {
+  "id": "CN101140310",
+  "cityEn": "sangri",
+  "cityZh": "\u6851\u65e5"
+}, {
+  "id": "CN101140311",
+  "cityEn": "luozha",
+  "cityZh": "\u6d1b\u624e"
+}, {
+  "id": "CN101140312",
+  "cityEn": "cuomei",
+  "cityZh": "\u63aa\u7f8e"
+}, {
+  "id": "CN101140313",
+  "cityEn": "qiongjie",
+  "cityZh": "\u743c\u7ed3"
+}, {
+  "id": "CN101140314",
+  "cityEn": "qusong",
+  "cityZh": "\u66f2\u677e"
+}, {
+  "id": "CN101140401",
+  "cityEn": "linzhi",
+  "cityZh": "\u6797\u829d"
+}, {
+  "id": "CN101140402",
+  "cityEn": "bomi",
+  "cityZh": "\u6ce2\u5bc6"
+}, {
+  "id": "CN101140403",
+  "cityEn": "milin",
+  "cityZh": "\u7c73\u6797"
+}, {
+  "id": "CN101140404",
+  "cityEn": "chayu",
+  "cityZh": "\u5bdf\u9685"
+}, {
+  "id": "CN101140405",
+  "cityEn": "gongbujiangda",
+  "cityZh": "\u5de5\u5e03\u6c5f\u8fbe"
+}, {
+  "id": "CN101140406",
+  "cityEn": "langxian",
+  "cityZh": "\u6717\u53bf"
+}, {
+  "id": "CN101140407",
+  "cityEn": "motuo",
+  "cityZh": "\u58a8\u8131"
+}, {
+  "id": "CN101140408",
+  "cityEn": "bayi",
+  "cityZh": "\u5df4\u5b9c"
+}, {
+  "id": "CN101140501",
+  "cityEn": "changdu",
+  "cityZh": "\u660c\u90fd"
+}, {
+  "id": "CN101140502",
+  "cityEn": "dingqing",
+  "cityZh": "\u4e01\u9752"
+}, {
+  "id": "CN101140503",
+  "cityEn": "bianba",
+  "cityZh": "\u8fb9\u575d"
+}, {
+  "id": "CN101140504",
+  "cityEn": "luolong",
+  "cityZh": "\u6d1b\u9686"
+}, {
+  "id": "CN101140505",
+  "cityEn": "zuogong",
+  "cityZh": "\u5de6\u8d21"
+}, {
+  "id": "CN101140506",
+  "cityEn": "mangkang",
+  "cityZh": "\u8292\u5eb7"
+}, {
+  "id": "CN101140507",
+  "cityEn": "leiwuqi",
+  "cityZh": "\u7c7b\u4e4c\u9f50"
+}, {
+  "id": "CN101140508",
+  "cityEn": "basu",
+  "cityZh": "\u516b\u5bbf"
+}, {
+  "id": "CN101140509",
+  "cityEn": "jiangda",
+  "cityZh": "\u6c5f\u8fbe"
+}, {
+  "id": "CN101140510",
+  "cityEn": "chaya",
+  "cityZh": "\u5bdf\u96c5"
+}, {
+  "id": "CN101140511",
+  "cityEn": "gongjue",
+  "cityZh": "\u8d21\u89c9"
+}, {
+  "id": "CN101140512",
+  "cityEn": "karuo",
+  "cityZh": "\u5361\u82e5"
+}, {
+  "id": "CN101140601",
+  "cityEn": "naqu",
+  "cityZh": "\u90a3\u66f2"
+}, {
+  "id": "CN101140602",
+  "cityEn": "nima",
+  "cityZh": "\u5c3c\u739b"
+}, {
+  "id": "CN101140603",
+  "cityEn": "jiali",
+  "cityZh": "\u5609\u9ece"
+}, {
+  "id": "CN101140604",
+  "cityEn": "bange",
+  "cityZh": "\u73ed\u6208"
+}, {
+  "id": "CN101140605",
+  "cityEn": "anduo",
+  "cityZh": "\u5b89\u591a"
+}, {
+  "id": "CN101140606",
+  "cityEn": "suoxian",
+  "cityZh": "\u7d22\u53bf"
+}, {
+  "id": "CN101140607",
+  "cityEn": "nierong",
+  "cityZh": "\u8042\u8363"
+}, {
+  "id": "CN101140608",
+  "cityEn": "baqing",
+  "cityZh": "\u5df4\u9752"
+}, {
+  "id": "CN101140609",
+  "cityEn": "biru",
+  "cityZh": "\u6bd4\u5982"
+}, {
+  "id": "CN101140610",
+  "cityEn": "shuanghu",
+  "cityZh": "\u53cc\u6e56"
+}, {
+  "id": "CN101140611",
+  "cityEn": "shenza",
+  "cityZh": "\u7533\u624e"
+}, {
+  "id": "CN101140701",
+  "cityEn": "ali",
+  "cityZh": "\u963f\u91cc"
+}, {
+  "id": "CN101140702",
+  "cityEn": "gaize",
+  "cityZh": "\u6539\u5219"
+}, {
+  "id": "CN101140705",
+  "cityEn": "pulan",
+  "cityZh": "\u666e\u5170"
+}, {
+  "id": "CN101140706",
+  "cityEn": "zhada",
+  "cityZh": "\u672d\u8fbe"
+}, {
+  "id": "CN101140707",
+  "cityEn": "gaer",
+  "cityZh": "\u5676\u5c14"
+}, {
+  "id": "CN101140708",
+  "cityEn": "ritu",
+  "cityZh": "\u65e5\u571f"
+}, {
+  "id": "CN101140709",
+  "cityEn": "geji",
+  "cityZh": "\u9769\u5409"
+}, {
+  "id": "CN101140710",
+  "cityEn": "cuoqin",
+  "cityZh": "\u63aa\u52e4"
+}, {
+  "id": "CN101150101",
+  "cityEn": "xining",
+  "cityZh": "\u897f\u5b81"
+}, {
+  "id": "CN101150102",
+  "cityEn": "datong",
+  "cityZh": "\u5927\u901a"
+}, {
+  "id": "CN101150103",
+  "cityEn": "huangyuan",
+  "cityZh": "\u6e5f\u6e90"
+}, {
+  "id": "CN101150104",
+  "cityEn": "huangzhong",
+  "cityZh": "\u6e5f\u4e2d"
+}, {
+  "id": "CN101150105",
+  "cityEn": "chengdong",
+  "cityZh": "\u57ce\u4e1c"
+}, {
+  "id": "CN101150106",
+  "cityEn": "chengzhong",
+  "cityZh": "\u57ce\u4e2d"
+}, {
+  "id": "CN101150107",
+  "cityEn": "chengxi",
+  "cityZh": "\u57ce\u897f"
+}, {
+  "id": "CN101150108",
+  "cityEn": "chengbei",
+  "cityZh": "\u57ce\u5317"
+}, {
+  "id": "CN101150201",
+  "cityEn": "pingan",
+  "cityZh": "\u5e73\u5b89"
+}, {
+  "id": "CN101150202",
+  "cityEn": "ledu",
+  "cityZh": "\u4e50\u90fd"
+}, {
+  "id": "CN101150203",
+  "cityEn": "minhe",
+  "cityZh": "\u6c11\u548c"
+}, {
+  "id": "CN101150204",
+  "cityEn": "huzhu",
+  "cityZh": "\u4e92\u52a9"
+}, {
+  "id": "CN101150205",
+  "cityEn": "hualong",
+  "cityZh": "\u5316\u9686"
+}, {
+  "id": "CN101150206",
+  "cityEn": "xunhua",
+  "cityZh": "\u5faa\u5316"
+}, {
+  "id": "CN101150207",
+  "cityEn": "haidong",
+  "cityZh": "\u6d77\u4e1c"
+}, {
+  "id": "CN101150301",
+  "cityEn": "tongren",
+  "cityZh": "\u540c\u4ec1"
+}, {
+  "id": "CN101150302",
+  "cityEn": "jianzha",
+  "cityZh": "\u5c16\u624e"
+}, {
+  "id": "CN101150303",
+  "cityEn": "zeku",
+  "cityZh": "\u6cfd\u5e93"
+}, {
+  "id": "CN101150304",
+  "cityEn": "henan",
+  "cityZh": "\u6cb3\u5357"
+}, {
+  "id": "CN101150305",
+  "cityEn": "huangnan",
+  "cityZh": "\u9ec4\u5357"
+}, {
+  "id": "CN101150401",
+  "cityEn": "gonghe",
+  "cityZh": "\u5171\u548c"
+}, {
+  "id": "CN101150402",
+  "cityEn": "hainan",
+  "cityZh": "\u6d77\u5357"
+}, {
+  "id": "CN101150404",
+  "cityEn": "guide",
+  "cityZh": "\u8d35\u5fb7"
+}, {
+  "id": "CN101150406",
+  "cityEn": "xinghai",
+  "cityZh": "\u5174\u6d77"
+}, {
+  "id": "CN101150407",
+  "cityEn": "guinan",
+  "cityZh": "\u8d35\u5357"
+}, {
+  "id": "CN101150408",
+  "cityEn": "tongde",
+  "cityZh": "\u540c\u5fb7"
+}, {
+  "id": "CN101150501",
+  "cityEn": "maqin",
+  "cityZh": "\u739b\u6c81"
+}, {
+  "id": "CN101150502",
+  "cityEn": "banma",
+  "cityZh": "\u73ed\u739b"
+}, {
+  "id": "CN101150503",
+  "cityEn": "gande",
+  "cityZh": "\u7518\u5fb7"
+}, {
+  "id": "CN101150504",
+  "cityEn": "dari",
+  "cityZh": "\u8fbe\u65e5"
+}, {
+  "id": "CN101150505",
+  "cityEn": "jiuzhi",
+  "cityZh": "\u4e45\u6cbb"
+}, {
+  "id": "CN101150506",
+  "cityEn": "madu",
+  "cityZh": "\u739b\u591a"
+}, {
+  "id": "CN101150507",
+  "cityEn": "guoluo",
+  "cityZh": "\u679c\u6d1b"
+}, {
+  "id": "CN101150601",
+  "cityEn": "yushu",
+  "cityZh": "\u7389\u6811"
+}, {
+  "id": "CN101150602",
+  "cityEn": "chenduo",
+  "cityZh": "\u79f0\u591a"
+}, {
+  "id": "CN101150603",
+  "cityEn": "zhiduo",
+  "cityZh": "\u6cbb\u591a"
+}, {
+  "id": "CN101150604",
+  "cityEn": "zaduo",
+  "cityZh": "\u6742\u591a"
+}, {
+  "id": "CN101150605",
+  "cityEn": "nangqian",
+  "cityZh": "\u56ca\u8c26"
+}, {
+  "id": "CN101150606",
+  "cityEn": "qumacai",
+  "cityZh": "\u66f2\u9ebb\u83b1"
+}, {
+  "id": "CN101150701",
+  "cityEn": "delingha",
+  "cityZh": "\u5fb7\u4ee4\u54c8"
+}, {
+  "id": "CN101150702",
+  "cityEn": "haixi",
+  "cityZh": "\u6d77\u897f"
+}, {
+  "id": "CN101150708",
+  "cityEn": "tianjun",
+  "cityZh": "\u5929\u5cfb"
+}, {
+  "id": "CN101150709",
+  "cityEn": "wulan",
+  "cityZh": "\u4e4c\u5170"
+}, {
+  "id": "CN101150712",
+  "cityEn": "mangai",
+  "cityZh": "\u832b\u5d16"
+}, {
+  "id": "CN101150713",
+  "cityEn": "dachaidan",
+  "cityZh": "\u5927\u67f4\u65e6"
+}, {
+  "id": "CN101150714",
+  "cityEn": "geermu",
+  "cityZh": "\u683c\u5c14\u6728"
+}, {
+  "id": "CN101150715",
+  "cityEn": "dulan",
+  "cityZh": "\u90fd\u5170"
+}, {
+  "id": "CN101150716",
+  "cityEn": "lenghu",
+  "cityZh": "\u51b7\u6e56"
+}, {
+  "id": "CN101150801",
+  "cityEn": "haiyan",
+  "cityZh": "\u6d77\u664f"
+}, {
+  "id": "CN101150802",
+  "cityEn": "menyuan",
+  "cityZh": "\u95e8\u6e90"
+}, {
+  "id": "CN101150803",
+  "cityEn": "qilian",
+  "cityZh": "\u7941\u8fde"
+}, {
+  "id": "CN101150804",
+  "cityEn": "haibei",
+  "cityZh": "\u6d77\u5317"
+}, {
+  "id": "CN101150806",
+  "cityEn": "gangcha",
+  "cityZh": "\u521a\u5bdf"
+}, {
+  "id": "CN101160101",
+  "cityEn": "lanzhou",
+  "cityZh": "\u5170\u5dde"
+}, {
+  "id": "CN101160102",
+  "cityEn": "gaolan",
+  "cityZh": "\u768b\u5170"
+}, {
+  "id": "CN101160103",
+  "cityEn": "yongdeng",
+  "cityZh": "\u6c38\u767b"
+}, {
+  "id": "CN101160104",
+  "cityEn": "yuzhong",
+  "cityZh": "\u6986\u4e2d"
+}, {
+  "id": "CN101160105",
+  "cityEn": "chengguan",
+  "cityZh": "\u57ce\u5173"
+}, {
+  "id": "CN101160106",
+  "cityEn": "qilihe",
+  "cityZh": "\u4e03\u91cc\u6cb3"
+}, {
+  "id": "CN101160107",
+  "cityEn": "xigu",
+  "cityZh": "\u897f\u56fa"
+}, {
+  "id": "CN101160108",
+  "cityEn": "anning",
+  "cityZh": "\u5b89\u5b81"
+}, {
+  "id": "CN101160109",
+  "cityEn": "honggu",
+  "cityZh": "\u7ea2\u53e4"
+}, {
+  "id": "CN101160201",
+  "cityEn": "dingxi",
+  "cityZh": "\u5b9a\u897f"
+}, {
+  "id": "CN101160202",
+  "cityEn": "tongwei",
+  "cityZh": "\u901a\u6e2d"
+}, {
+  "id": "CN101160203",
+  "cityEn": "longxi",
+  "cityZh": "\u9647\u897f"
+}, {
+  "id": "CN101160204",
+  "cityEn": "weiyuan",
+  "cityZh": "\u6e2d\u6e90"
+}, {
+  "id": "CN101160205",
+  "cityEn": "lintao",
+  "cityZh": "\u4e34\u6d2e"
+}, {
+  "id": "CN101160206",
+  "cityEn": "zhangxian",
+  "cityZh": "\u6f33\u53bf"
+}, {
+  "id": "CN101160207",
+  "cityEn": "minxian",
+  "cityZh": "\u5cb7\u53bf"
+}, {
+  "id": "CN101160208",
+  "cityEn": "anding",
+  "cityZh": "\u5b89\u5b9a"
+}, {
+  "id": "CN101160301",
+  "cityEn": "pingliang",
+  "cityZh": "\u5e73\u51c9"
+}, {
+  "id": "CN101160302",
+  "cityEn": "jingchuan",
+  "cityZh": "\u6cfe\u5ddd"
+}, {
+  "id": "CN101160303",
+  "cityEn": "lingtai",
+  "cityZh": "\u7075\u53f0"
+}, {
+  "id": "CN101160304",
+  "cityEn": "chongxin",
+  "cityZh": "\u5d07\u4fe1"
+}, {
+  "id": "CN101160305",
+  "cityEn": "huating",
+  "cityZh": "\u534e\u4ead"
+}, {
+  "id": "CN101160306",
+  "cityEn": "zhuanglang",
+  "cityZh": "\u5e84\u6d6a"
+}, {
+  "id": "CN101160307",
+  "cityEn": "jingning",
+  "cityZh": "\u9759\u5b81"
+}, {
+  "id": "CN101160308",
+  "cityEn": "kongtong",
+  "cityZh": "\u5d06\u5cd2"
+}, {
+  "id": "CN101160401",
+  "cityEn": "qingyang",
+  "cityZh": "\u5e86\u9633"
+}, {
+  "id": "CN101160402",
+  "cityEn": "xifeng",
+  "cityZh": "\u897f\u5cf0"
+}, {
+  "id": "CN101160403",
+  "cityEn": "huanxian",
+  "cityZh": "\u73af\u53bf"
+}, {
+  "id": "CN101160404",
+  "cityEn": "huachi",
+  "cityZh": "\u534e\u6c60"
+}, {
+  "id": "CN101160405",
+  "cityEn": "heshui",
+  "cityZh": "\u5408\u6c34"
+}, {
+  "id": "CN101160406",
+  "cityEn": "zhengning",
+  "cityZh": "\u6b63\u5b81"
+}, {
+  "id": "CN101160407",
+  "cityEn": "ningxian",
+  "cityZh": "\u5b81\u53bf"
+}, {
+  "id": "CN101160408",
+  "cityEn": "zhenyuan",
+  "cityZh": "\u9547\u539f"
+}, {
+  "id": "CN101160409",
+  "cityEn": "qingcheng",
+  "cityZh": "\u5e86\u57ce"
+}, {
+  "id": "CN101160501",
+  "cityEn": "wuwei",
+  "cityZh": "\u6b66\u5a01"
+}, {
+  "id": "CN101160502",
+  "cityEn": "minqin",
+  "cityZh": "\u6c11\u52e4"
+}, {
+  "id": "CN101160503",
+  "cityEn": "gulang",
+  "cityZh": "\u53e4\u6d6a"
+}, {
+  "id": "CN101160504",
+  "cityEn": "liangzhou",
+  "cityZh": "\u51c9\u5dde"
+}, {
+  "id": "CN101160505",
+  "cityEn": "tianzhu",
+  "cityZh": "\u5929\u795d"
+}, {
+  "id": "CN101160601",
+  "cityEn": "jinchang",
+  "cityZh": "\u91d1\u660c"
+}, {
+  "id": "CN101160602",
+  "cityEn": "yongchang",
+  "cityZh": "\u6c38\u660c"
+}, {
+  "id": "CN101160603",
+  "cityEn": "jinchuan",
+  "cityZh": "\u91d1\u5ddd"
+}, {
+  "id": "CN101160701",
+  "cityEn": "zhangye",
+  "cityZh": "\u5f20\u6396"
+}, {
+  "id": "CN101160702",
+  "cityEn": "sunan",
+  "cityZh": "\u8083\u5357"
+}, {
+  "id": "CN101160703",
+  "cityEn": "minle",
+  "cityZh": "\u6c11\u4e50"
+}, {
+  "id": "CN101160704",
+  "cityEn": "linze",
+  "cityZh": "\u4e34\u6cfd"
+}, {
+  "id": "CN101160705",
+  "cityEn": "gaotai",
+  "cityZh": "\u9ad8\u53f0"
+}, {
+  "id": "CN101160706",
+  "cityEn": "shandan",
+  "cityZh": "\u5c71\u4e39"
+}, {
+  "id": "CN101160707",
+  "cityEn": "ganzhou",
+  "cityZh": "\u7518\u5dde"
+}, {
+  "id": "CN101160801",
+  "cityEn": "jiuquan",
+  "cityZh": "\u9152\u6cc9"
+}, {
+  "id": "CN101160802",
+  "cityEn": "suzhou",
+  "cityZh": "\u8083\u5dde"
+}, {
+  "id": "CN101160803",
+  "cityEn": "jinta",
+  "cityZh": "\u91d1\u5854"
+}, {
+  "id": "CN101160804",
+  "cityEn": "akesai",
+  "cityZh": "\u963f\u514b\u585e"
+}, {
+  "id": "CN101160805",
+  "cityEn": "guazhou",
+  "cityZh": "\u74dc\u5dde"
+}, {
+  "id": "CN101160806",
+  "cityEn": "subei",
+  "cityZh": "\u8083\u5317"
+}, {
+  "id": "CN101160807",
+  "cityEn": "yumen",
+  "cityZh": "\u7389\u95e8"
+}, {
+  "id": "CN101160808",
+  "cityEn": "dunhuang",
+  "cityZh": "\u6566\u714c"
+}, {
+  "id": "CN101160901",
+  "cityEn": "tianshui",
+  "cityZh": "\u5929\u6c34"
+}, {
+  "id": "CN101160902",
+  "cityEn": "qinzhou",
+  "cityZh": "\u79e6\u5dde"
+}, {
+  "id": "CN101160903",
+  "cityEn": "qingshui",
+  "cityZh": "\u6e05\u6c34"
+}, {
+  "id": "CN101160904",
+  "cityEn": "qinan",
+  "cityZh": "\u79e6\u5b89"
+}, {
+  "id": "CN101160905",
+  "cityEn": "gangu",
+  "cityZh": "\u7518\u8c37"
+}, {
+  "id": "CN101160906",
+  "cityEn": "wushan",
+  "cityZh": "\u6b66\u5c71"
+}, {
+  "id": "CN101160907",
+  "cityEn": "zhangjiachuan",
+  "cityZh": "\u5f20\u5bb6\u5ddd"
+}, {
+  "id": "CN101160908",
+  "cityEn": "maiji",
+  "cityZh": "\u9ea6\u79ef"
+}, {
+  "id": "CN101161001",
+  "cityEn": "wudu",
+  "cityZh": "\u6b66\u90fd"
+}, {
+  "id": "CN101161002",
+  "cityEn": "chengxian",
+  "cityZh": "\u6210\u53bf"
+}, {
+  "id": "CN101161003",
+  "cityEn": "wenxian",
+  "cityZh": "\u6587\u53bf"
+}, {
+  "id": "CN101161004",
+  "cityEn": "dangchang",
+  "cityZh": "\u5b95\u660c"
+}, {
+  "id": "CN101161005",
+  "cityEn": "kangxian",
+  "cityZh": "\u5eb7\u53bf"
+}, {
+  "id": "CN101161006",
+  "cityEn": "xihe",
+  "cityZh": "\u897f\u548c"
+}, {
+  "id": "CN101161007",
+  "cityEn": "lixian",
+  "cityZh": "\u793c\u53bf"
+}, {
+  "id": "CN101161008",
+  "cityEn": "huixian",
+  "cityZh": "\u5fbd\u53bf"
+}, {
+  "id": "CN101161009",
+  "cityEn": "liangdang",
+  "cityZh": "\u4e24\u5f53"
+}, {
+  "id": "CN101161010",
+  "cityEn": "longnan",
+  "cityZh": "\u9647\u5357"
+}, {
+  "id": "CN101161101",
+  "cityEn": "linxia",
+  "cityZh": "\u4e34\u590f"
+}, {
+  "id": "CN101161102",
+  "cityEn": "kangle",
+  "cityZh": "\u5eb7\u4e50"
+}, {
+  "id": "CN101161103",
+  "cityEn": "yongjing",
+  "cityZh": "\u6c38\u9756"
+}, {
+  "id": "CN101161104",
+  "cityEn": "guanghe",
+  "cityZh": "\u5e7f\u6cb3"
+}, {
+  "id": "CN101161105",
+  "cityEn": "hezheng",
+  "cityZh": "\u548c\u653f"
+}, {
+  "id": "CN101161106",
+  "cityEn": "dongxiang",
+  "cityZh": "\u4e1c\u4e61"
+}, {
+  "id": "CN101161107",
+  "cityEn": "jishishan",
+  "cityZh": "\u79ef\u77f3\u5c71"
+}, {
+  "id": "CN101161201",
+  "cityEn": "hezuo",
+  "cityZh": "\u5408\u4f5c"
+}, {
+  "id": "CN101161202",
+  "cityEn": "lintan",
+  "cityZh": "\u4e34\u6f6d"
+}, {
+  "id": "CN101161203",
+  "cityEn": "zhuoni",
+  "cityZh": "\u5353\u5c3c"
+}, {
+  "id": "CN101161204",
+  "cityEn": "zhouqu",
+  "cityZh": "\u821f\u66f2"
+}, {
+  "id": "CN101161205",
+  "cityEn": "diebu",
+  "cityZh": "\u8fed\u90e8"
+}, {
+  "id": "CN101161206",
+  "cityEn": "maqu",
+  "cityZh": "\u739b\u66f2"
+}, {
+  "id": "CN101161207",
+  "cityEn": "luqu",
+  "cityZh": "\u788c\u66f2"
+}, {
+  "id": "CN101161208",
+  "cityEn": "xiahe",
+  "cityZh": "\u590f\u6cb3"
+}, {
+  "id": "CN101161209",
+  "cityEn": "gannan",
+  "cityZh": "\u7518\u5357"
+}, {
+  "id": "CN101161301",
+  "cityEn": "baiyin",
+  "cityZh": "\u767d\u94f6"
+}, {
+  "id": "CN101161302",
+  "cityEn": "jingyuan",
+  "cityZh": "\u9756\u8fdc"
+}, {
+  "id": "CN101161303",
+  "cityEn": "huining",
+  "cityZh": "\u4f1a\u5b81"
+}, {
+  "id": "CN101161304",
+  "cityEn": "pingchuan",
+  "cityZh": "\u5e73\u5ddd"
+}, {
+  "id": "CN101161305",
+  "cityEn": "jingtai",
+  "cityZh": "\u666f\u6cf0"
+}, {
+  "id": "CN101161401",
+  "cityEn": "jiayuguan",
+  "cityZh": "\u5609\u5cea\u5173"
+}, {
+  "id": "CN101170101",
+  "cityEn": "yinchuan",
+  "cityZh": "\u94f6\u5ddd"
+}, {
+  "id": "CN101170102",
+  "cityEn": "yongning",
+  "cityZh": "\u6c38\u5b81"
+}, {
+  "id": "CN101170103",
+  "cityEn": "lingwu",
+  "cityZh": "\u7075\u6b66"
+}, {
+  "id": "CN101170104",
+  "cityEn": "helan",
+  "cityZh": "\u8d3a\u5170"
+}, {
+  "id": "CN101170105",
+  "cityEn": "xingqing",
+  "cityZh": "\u5174\u5e86"
+}, {
+  "id": "CN101170106",
+  "cityEn": "xixia",
+  "cityZh": "\u897f\u590f"
+}, {
+  "id": "CN101170107",
+  "cityEn": "jinfeng",
+  "cityZh": "\u91d1\u51e4"
+}, {
+  "id": "CN101170201",
+  "cityEn": "shizuishan",
+  "cityZh": "\u77f3\u5634\u5c71"
+}, {
+  "id": "CN101170202",
+  "cityEn": "huinong",
+  "cityZh": "\u60e0\u519c"
+}, {
+  "id": "CN101170203",
+  "cityEn": "pingluo",
+  "cityZh": "\u5e73\u7f57"
+}, {
+  "id": "CN101170205",
+  "cityEn": "dawukou",
+  "cityZh": "\u5927\u6b66\u53e3"
+}, {
+  "id": "CN101170301",
+  "cityEn": "wuzhong",
+  "cityZh": "\u5434\u5fe0"
+}, {
+  "id": "CN101170302",
+  "cityEn": "tongxin",
+  "cityZh": "\u540c\u5fc3"
+}, {
+  "id": "CN101170303",
+  "cityEn": "yanchi",
+  "cityZh": "\u76d0\u6c60"
+}, {
+  "id": "CN101170304",
+  "cityEn": "litong",
+  "cityZh": "\u5229\u901a"
+}, {
+  "id": "CN101170305",
+  "cityEn": "hongsibao",
+  "cityZh": "\u7ea2\u5bfa\u5821"
+}, {
+  "id": "CN101170306",
+  "cityEn": "qingtongxia",
+  "cityZh": "\u9752\u94dc\u5ce1"
+}, {
+  "id": "CN101170401",
+  "cityEn": "guyuan",
+  "cityZh": "\u56fa\u539f"
+}, {
+  "id": "CN101170402",
+  "cityEn": "xiji",
+  "cityZh": "\u897f\u5409"
+}, {
+  "id": "CN101170403",
+  "cityEn": "longde",
+  "cityZh": "\u9686\u5fb7"
+}, {
+  "id": "CN101170404",
+  "cityEn": "jinyuan",
+  "cityZh": "\u6cfe\u6e90"
+}, {
+  "id": "CN101170405",
+  "cityEn": "yuanzhou",
+  "cityZh": "\u539f\u5dde"
+}, {
+  "id": "CN101170406",
+  "cityEn": "pengyang",
+  "cityZh": "\u5f6d\u9633"
+}, {
+  "id": "CN101170501",
+  "cityEn": "zhongwei",
+  "cityZh": "\u4e2d\u536b"
+}, {
+  "id": "CN101170502",
+  "cityEn": "zhongning",
+  "cityZh": "\u4e2d\u5b81"
+}, {
+  "id": "CN101170503",
+  "cityEn": "shapotou",
+  "cityZh": "\u6c99\u5761\u5934"
+}, {
+  "id": "CN101170504",
+  "cityEn": "haiyuan",
+  "cityZh": "\u6d77\u539f"
+}, {
+  "id": "CN101180101",
+  "cityEn": "zhengzhou",
+  "cityZh": "\u90d1\u5dde"
+}, {
+  "id": "CN101180102",
+  "cityEn": "gongyi",
+  "cityZh": "\u5de9\u4e49"
+}, {
+  "id": "CN101180103",
+  "cityEn": "xingyang",
+  "cityZh": "\u8365\u9633"
+}, {
+  "id": "CN101180104",
+  "cityEn": "dengfeng",
+  "cityZh": "\u767b\u5c01"
+}, {
+  "id": "CN101180105",
+  "cityEn": "xinmi",
+  "cityZh": "\u65b0\u5bc6"
+}, {
+  "id": "CN101180106",
+  "cityEn": "xinzheng",
+  "cityZh": "\u65b0\u90d1"
+}, {
+  "id": "CN101180107",
+  "cityEn": "zhongmou",
+  "cityZh": "\u4e2d\u725f"
+}, {
+  "id": "CN101180108",
+  "cityEn": "shangjie",
+  "cityZh": "\u4e0a\u8857"
+}, {
+  "id": "CN101180109",
+  "cityEn": "zhongyuan",
+  "cityZh": "\u4e2d\u539f"
+}, {
+  "id": "CN101180110",
+  "cityEn": "erqi",
+  "cityZh": "\u4e8c\u4e03"
+}, {
+  "id": "CN101180111",
+  "cityEn": "guancheng",
+  "cityZh": "\u7ba1\u57ce"
+}, {
+  "id": "CN101180112",
+  "cityEn": "jinshui",
+  "cityZh": "\u91d1\u6c34"
+}, {
+  "id": "CN101180113",
+  "cityEn": "huiji",
+  "cityZh": "\u60e0\u6d4e"
+}, {
+  "id": "CN101180201",
+  "cityEn": "anyang",
+  "cityZh": "\u5b89\u9633"
+}, {
+  "id": "CN101180202",
+  "cityEn": "tangyin",
+  "cityZh": "\u6c64\u9634"
+}, {
+  "id": "CN101180203",
+  "cityEn": "huaxian",
+  "cityZh": "\u6ed1\u53bf"
+}, {
+  "id": "CN101180204",
+  "cityEn": "neihuang",
+  "cityZh": "\u5185\u9ec4"
+}, {
+  "id": "CN101180205",
+  "cityEn": "linzhou",
+  "cityZh": "\u6797\u5dde"
+}, {
+  "id": "CN101180206",
+  "cityEn": "wenfeng",
+  "cityZh": "\u6587\u5cf0"
+}, {
+  "id": "CN101180207",
+  "cityEn": "beiguan",
+  "cityZh": "\u5317\u5173"
+}, {
+  "id": "CN101180208",
+  "cityEn": "yindou",
+  "cityZh": "\u6bb7\u90fd"
+}, {
+  "id": "CN101180209",
+  "cityEn": "longan",
+  "cityZh": "\u9f99\u5b89"
+}, {
+  "id": "CN101180301",
+  "cityEn": "xinxiang",
+  "cityZh": "\u65b0\u4e61"
+}, {
+  "id": "CN101180302",
+  "cityEn": "huojia",
+  "cityZh": "\u83b7\u5609"
+}, {
+  "id": "CN101180303",
+  "cityEn": "yuanyang",
+  "cityZh": "\u539f\u9633"
+}, {
+  "id": "CN101180304",
+  "cityEn": "huixian",
+  "cityZh": "\u8f89\u53bf"
+}, {
+  "id": "CN101180305",
+  "cityEn": "weihui",
+  "cityZh": "\u536b\u8f89"
+}, {
+  "id": "CN101180306",
+  "cityEn": "yanjin",
+  "cityZh": "\u5ef6\u6d25"
+}, {
+  "id": "CN101180307",
+  "cityEn": "fengqiu",
+  "cityZh": "\u5c01\u4e18"
+}, {
+  "id": "CN101180308",
+  "cityEn": "changyuan",
+  "cityZh": "\u957f\u57a3"
+}, {
+  "id": "CN101180309",
+  "cityEn": "hongqi",
+  "cityZh": "\u7ea2\u65d7"
+}, {
+  "id": "CN101180310",
+  "cityEn": "weibin",
+  "cityZh": "\u536b\u6ee8"
+}, {
+  "id": "CN101180311",
+  "cityEn": "fengquan",
+  "cityZh": "\u51e4\u6cc9"
+}, {
+  "id": "CN101180312",
+  "cityEn": "muye",
+  "cityZh": "\u7267\u91ce"
+}, {
+  "id": "CN101180401",
+  "cityEn": "xuchang",
+  "cityZh": "\u8bb8\u660c"
+}, {
+  "id": "CN101180402",
+  "cityEn": "yanling",
+  "cityZh": "\u9122\u9675"
+}, {
+  "id": "CN101180403",
+  "cityEn": "xiangcheng",
+  "cityZh": "\u8944\u57ce"
+}, {
+  "id": "CN101180404",
+  "cityEn": "changge",
+  "cityZh": "\u957f\u845b"
+}, {
+  "id": "CN101180405",
+  "cityEn": "yuzhou",
+  "cityZh": "\u79b9\u5dde"
+}, {
+  "id": "CN101180406",
+  "cityEn": "weidou",
+  "cityZh": "\u9b4f\u90fd"
+}, {
+  "id": "CN101180501",
+  "cityEn": "pingdingshan",
+  "cityZh": "\u5e73\u9876\u5c71"
+}, {
+  "id": "CN101180502",
+  "cityEn": "jiaxian",
+  "cityZh": "\u90cf\u53bf"
+}, {
+  "id": "CN101180503",
+  "cityEn": "baofeng",
+  "cityZh": "\u5b9d\u4e30"
+}, {
+  "id": "CN101180504",
+  "cityEn": "ruzhou",
+  "cityZh": "\u6c5d\u5dde"
+}, {
+  "id": "CN101180505",
+  "cityEn": "yexian",
+  "cityZh": "\u53f6\u53bf"
+}, {
+  "id": "CN101180506",
+  "cityEn": "wugang",
+  "cityZh": "\u821e\u94a2"
+}, {
+  "id": "CN101180507",
+  "cityEn": "lushan",
+  "cityZh": "\u9c81\u5c71"
+}, {
+  "id": "CN101180508",
+  "cityEn": "shilong",
+  "cityZh": "\u77f3\u9f99"
+}, {
+  "id": "CN101180509",
+  "cityEn": "xinhua",
+  "cityZh": "\u65b0\u534e"
+}, {
+  "id": "CN101180510",
+  "cityEn": "weidong",
+  "cityZh": "\u536b\u4e1c"
+}, {
+  "id": "CN101180511",
+  "cityEn": "zhanhe",
+  "cityZh": "\u6e5b\u6cb3"
+}, {
+  "id": "CN101180601",
+  "cityEn": "xinyang",
+  "cityZh": "\u4fe1\u9633"
+}, {
+  "id": "CN101180602",
+  "cityEn": "xixian",
+  "cityZh": "\u606f\u53bf"
+}, {
+  "id": "CN101180603",
+  "cityEn": "luoshan",
+  "cityZh": "\u7f57\u5c71"
+}, {
+  "id": "CN101180604",
+  "cityEn": "guangshan",
+  "cityZh": "\u5149\u5c71"
+}, {
+  "id": "CN101180605",
+  "cityEn": "xinxian",
+  "cityZh": "\u65b0\u53bf"
+}, {
+  "id": "CN101180606",
+  "cityEn": "huaibin",
+  "cityZh": "\u6dee\u6ee8"
+}, {
+  "id": "CN101180607",
+  "cityEn": "huangchuan",
+  "cityZh": "\u6f62\u5ddd"
+}, {
+  "id": "CN101180608",
+  "cityEn": "gushi",
+  "cityZh": "\u56fa\u59cb"
+}, {
+  "id": "CN101180609",
+  "cityEn": "shangcheng",
+  "cityZh": "\u5546\u57ce"
+}, {
+  "id": "CN101180610",
+  "cityEn": "shihe",
+  "cityZh": "\u6d49\u6cb3"
+}, {
+  "id": "CN101180611",
+  "cityEn": "pingqiao",
+  "cityZh": "\u5e73\u6865"
+}, {
+  "id": "CN101180701",
+  "cityEn": "nanyang",
+  "cityZh": "\u5357\u9633"
+}, {
+  "id": "CN101180702",
+  "cityEn": "nanzhao",
+  "cityZh": "\u5357\u53ec"
+}, {
+  "id": "CN101180703",
+  "cityEn": "fangcheng",
+  "cityZh": "\u65b9\u57ce"
+}, {
+  "id": "CN101180704",
+  "cityEn": "sheqi",
+  "cityZh": "\u793e\u65d7"
+}, {
+  "id": "CN101180705",
+  "cityEn": "xixia",
+  "cityZh": "\u897f\u5ce1"
+}, {
+  "id": "CN101180706",
+  "cityEn": "neixiang",
+  "cityZh": "\u5185\u4e61"
+}, {
+  "id": "CN101180707",
+  "cityEn": "zhenping",
+  "cityZh": "\u9547\u5e73"
+}, {
+  "id": "CN101180708",
+  "cityEn": "xichuan",
+  "cityZh": "\u6dc5\u5ddd"
+}, {
+  "id": "CN101180709",
+  "cityEn": "xinye",
+  "cityZh": "\u65b0\u91ce"
+}, {
+  "id": "CN101180710",
+  "cityEn": "tanghe",
+  "cityZh": "\u5510\u6cb3"
+}, {
+  "id": "CN101180711",
+  "cityEn": "dengzhou",
+  "cityZh": "\u9093\u5dde"
+}, {
+  "id": "CN101180712",
+  "cityEn": "tongbai",
+  "cityZh": "\u6850\u67cf"
+}, {
+  "id": "CN101180713",
+  "cityEn": "wancheng",
+  "cityZh": "\u5b9b\u57ce"
+}, {
+  "id": "CN101180714",
+  "cityEn": "wolong",
+  "cityZh": "\u5367\u9f99"
+}, {
+  "id": "CN101180801",
+  "cityEn": "kaifeng",
+  "cityZh": "\u5f00\u5c01"
+}, {
+  "id": "CN101180802",
+  "cityEn": "qixian",
+  "cityZh": "\u675e\u53bf"
+}, {
+  "id": "CN101180803",
+  "cityEn": "weishi",
+  "cityZh": "\u5c09\u6c0f"
+}, {
+  "id": "CN101180804",
+  "cityEn": "tongxu",
+  "cityZh": "\u901a\u8bb8"
+}, {
+  "id": "CN101180805",
+  "cityEn": "lankao",
+  "cityZh": "\u5170\u8003"
+}, {
+  "id": "CN101180806",
+  "cityEn": "longting",
+  "cityZh": "\u9f99\u4ead"
+}, {
+  "id": "CN101180807",
+  "cityEn": "shunhe",
+  "cityZh": "\u987a\u6cb3"
+}, {
+  "id": "CN101180808",
+  "cityEn": "gulou",
+  "cityZh": "\u9f13\u697c"
+}, {
+  "id": "CN101180809",
+  "cityEn": "yuwangtai",
+  "cityZh": "\u79b9\u738b\u53f0"
+}, {
+  "id": "CN101180810",
+  "cityEn": "xiangfu",
+  "cityZh": "\u7965\u7b26"
+}, {
+  "id": "CN101180901",
+  "cityEn": "luoyang",
+  "cityZh": "\u6d1b\u9633"
+}, {
+  "id": "CN101180902",
+  "cityEn": "xinan",
+  "cityZh": "\u65b0\u5b89"
+}, {
+  "id": "CN101180903",
+  "cityEn": "mengjin",
+  "cityZh": "\u5b5f\u6d25"
+}, {
+  "id": "CN101180904",
+  "cityEn": "yiyang",
+  "cityZh": "\u5b9c\u9633"
+}, {
+  "id": "CN101180905",
+  "cityEn": "luoning",
+  "cityZh": "\u6d1b\u5b81"
+}, {
+  "id": "CN101180906",
+  "cityEn": "yichuan",
+  "cityZh": "\u4f0a\u5ddd"
+}, {
+  "id": "CN101180907",
+  "cityEn": "songxian",
+  "cityZh": "\u5d69\u53bf"
+}, {
+  "id": "CN101180908",
+  "cityEn": "yanshi",
+  "cityZh": "\u5043\u5e08"
+}, {
+  "id": "CN101180909",
+  "cityEn": "luanchuan",
+  "cityZh": "\u683e\u5ddd"
+}, {
+  "id": "CN101180910",
+  "cityEn": "ruyang",
+  "cityZh": "\u6c5d\u9633"
+}, {
+  "id": "CN101180911",
+  "cityEn": "jili",
+  "cityZh": "\u5409\u5229"
+}, {
+  "id": "CN101180912",
+  "cityEn": "laocheng",
+  "cityZh": "\u8001\u57ce"
+}, {
+  "id": "CN101180913",
+  "cityEn": "xigong",
+  "cityZh": "\u897f\u5de5"
+}, {
+  "id": "CN101180914",
+  "cityEn": "chanhe",
+  "cityZh": "\u700d\u6cb3"
+}, {
+  "id": "CN101180915",
+  "cityEn": "jianxi",
+  "cityZh": "\u6da7\u897f"
+}, {
+  "id": "CN101180916",
+  "cityEn": "luolong",
+  "cityZh": "\u6d1b\u9f99"
+}, {
+  "id": "CN101181001",
+  "cityEn": "shangqiu",
+  "cityZh": "\u5546\u4e18"
+}, {
+  "id": "CN101181002",
+  "cityEn": "liangyuan",
+  "cityZh": "\u6881\u56ed"
+}, {
+  "id": "CN101181003",
+  "cityEn": "suixian",
+  "cityZh": "\u7762\u53bf"
+}, {
+  "id": "CN101181004",
+  "cityEn": "minquan",
+  "cityZh": "\u6c11\u6743"
+}, {
+  "id": "CN101181005",
+  "cityEn": "yucheng",
+  "cityZh": "\u865e\u57ce"
+}, {
+  "id": "CN101181006",
+  "cityEn": "zhecheng",
+  "cityZh": "\u67d8\u57ce"
+}, {
+  "id": "CN101181007",
+  "cityEn": "ningling",
+  "cityZh": "\u5b81\u9675"
+}, {
+  "id": "CN101181008",
+  "cityEn": "xiayi",
+  "cityZh": "\u590f\u9091"
+}, {
+  "id": "CN101181009",
+  "cityEn": "yongcheng",
+  "cityZh": "\u6c38\u57ce"
+}, {
+  "id": "CN101181010",
+  "cityEn": "suiyang",
+  "cityZh": "\u7762\u9633"
+}, {
+  "id": "CN101181101",
+  "cityEn": "jiaozuo",
+  "cityZh": "\u7126\u4f5c"
+}, {
+  "id": "CN101181102",
+  "cityEn": "xiuwu",
+  "cityZh": "\u4fee\u6b66"
+}, {
+  "id": "CN101181103",
+  "cityEn": "wuzhi",
+  "cityZh": "\u6b66\u965f"
+}, {
+  "id": "CN101181104",
+  "cityEn": "qinyang",
+  "cityZh": "\u6c81\u9633"
+}, {
+  "id": "CN101181105",
+  "cityEn": "jiefang",
+  "cityZh": "\u89e3\u653e"
+}, {
+  "id": "CN101181106",
+  "cityEn": "boai",
+  "cityZh": "\u535a\u7231"
+}, {
+  "id": "CN101181107",
+  "cityEn": "wenxian",
+  "cityZh": "\u6e29\u53bf"
+}, {
+  "id": "CN101181108",
+  "cityEn": "mengzhou",
+  "cityZh": "\u5b5f\u5dde"
+}, {
+  "id": "CN101181109",
+  "cityEn": "zhongzhan",
+  "cityZh": "\u4e2d\u7ad9"
+}, {
+  "id": "CN101181110",
+  "cityEn": "macun",
+  "cityZh": "\u9a6c\u6751"
+}, {
+  "id": "CN101181111",
+  "cityEn": "shanyang",
+  "cityZh": "\u5c71\u9633"
+}, {
+  "id": "CN101181201",
+  "cityEn": "hebi",
+  "cityZh": "\u9e64\u58c1"
+}, {
+  "id": "CN101181202",
+  "cityEn": "xunxian",
+  "cityZh": "\u6d5a\u53bf"
+}, {
+  "id": "CN101181203",
+  "cityEn": "qixian",
+  "cityZh": "\u6dc7\u53bf"
+}, {
+  "id": "CN101181204",
+  "cityEn": "heshan",
+  "cityZh": "\u9e64\u5c71"
+}, {
+  "id": "CN101181205",
+  "cityEn": "shancheng",
+  "cityZh": "\u5c71\u57ce"
+}, {
+  "id": "CN101181206",
+  "cityEn": "qibin",
+  "cityZh": "\u6dc7\u6ee8"
+}, {
+  "id": "CN101181301",
+  "cityEn": "puyang",
+  "cityZh": "\u6fee\u9633"
+}, {
+  "id": "CN101181302",
+  "cityEn": "taiqian",
+  "cityZh": "\u53f0\u524d"
+}, {
+  "id": "CN101181303",
+  "cityEn": "nanle",
+  "cityZh": "\u5357\u4e50"
+}, {
+  "id": "CN101181304",
+  "cityEn": "qingfeng",
+  "cityZh": "\u6e05\u4e30"
+}, {
+  "id": "CN101181305",
+  "cityEn": "fanxian",
+  "cityZh": "\u8303\u53bf"
+}, {
+  "id": "CN101181306",
+  "cityEn": "hualong",
+  "cityZh": "\u534e\u9f99"
+}, {
+  "id": "CN101181401",
+  "cityEn": "zhoukou",
+  "cityZh": "\u5468\u53e3"
+}, {
+  "id": "CN101181402",
+  "cityEn": "fugou",
+  "cityZh": "\u6276\u6c9f"
+}, {
+  "id": "CN101181403",
+  "cityEn": "taikang",
+  "cityZh": "\u592a\u5eb7"
+}, {
+  "id": "CN101181404",
+  "cityEn": "huaiyang",
+  "cityZh": "\u6dee\u9633"
+}, {
+  "id": "CN101181405",
+  "cityEn": "xihua",
+  "cityZh": "\u897f\u534e"
+}, {
+  "id": "CN101181406",
+  "cityEn": "shangshui",
+  "cityZh": "\u5546\u6c34"
+}, {
+  "id": "CN101181407",
+  "cityEn": "xiangcheng",
+  "cityZh": "\u9879\u57ce"
+}, {
+  "id": "CN101181408",
+  "cityEn": "dancheng",
+  "cityZh": "\u90f8\u57ce"
+}, {
+  "id": "CN101181409",
+  "cityEn": "luyi",
+  "cityZh": "\u9e7f\u9091"
+}, {
+  "id": "CN101181410",
+  "cityEn": "shenqiu",
+  "cityZh": "\u6c88\u4e18"
+}, {
+  "id": "CN101181411",
+  "cityEn": "chuanhui",
+  "cityZh": "\u5ddd\u6c47"
+}, {
+  "id": "CN101181501",
+  "cityEn": "luohe",
+  "cityZh": "\u6f2f\u6cb3"
+}, {
+  "id": "CN101181502",
+  "cityEn": "linying",
+  "cityZh": "\u4e34\u988d"
+}, {
+  "id": "CN101181503",
+  "cityEn": "wuyang",
+  "cityZh": "\u821e\u9633"
+}, {
+  "id": "CN101181504",
+  "cityEn": "yuanhui",
+  "cityZh": "\u6e90\u6c47"
+}, {
+  "id": "CN101181505",
+  "cityEn": "yancheng",
+  "cityZh": "\u90fe\u57ce"
+}, {
+  "id": "CN101181506",
+  "cityEn": "zhaoling",
+  "cityZh": "\u53ec\u9675"
+}, {
+  "id": "CN101181601",
+  "cityEn": "zhumadian",
+  "cityZh": "\u9a7b\u9a6c\u5e97"
+}, {
+  "id": "CN101181602",
+  "cityEn": "xiping",
+  "cityZh": "\u897f\u5e73"
+}, {
+  "id": "CN101181603",
+  "cityEn": "suiping",
+  "cityZh": "\u9042\u5e73"
+}, {
+  "id": "CN101181604",
+  "cityEn": "shangcai",
+  "cityZh": "\u4e0a\u8521"
+}, {
+  "id": "CN101181605",
+  "cityEn": "runan",
+  "cityZh": "\u6c5d\u5357"
+}, {
+  "id": "CN101181606",
+  "cityEn": "biyang",
+  "cityZh": "\u6ccc\u9633"
+}, {
+  "id": "CN101181607",
+  "cityEn": "pingyu",
+  "cityZh": "\u5e73\u8206"
+}, {
+  "id": "CN101181608",
+  "cityEn": "xincai",
+  "cityZh": "\u65b0\u8521"
+}, {
+  "id": "CN101181609",
+  "cityEn": "queshan",
+  "cityZh": "\u786e\u5c71"
+}, {
+  "id": "CN101181610",
+  "cityEn": "zhengyang",
+  "cityZh": "\u6b63\u9633"
+}, {
+  "id": "CN101181611",
+  "cityEn": "yicheng",
+  "cityZh": "\u9a7f\u57ce"
+}, {
+  "id": "CN101181701",
+  "cityEn": "sanmenxia",
+  "cityZh": "\u4e09\u95e8\u5ce1"
+}, {
+  "id": "CN101181702",
+  "cityEn": "lingbao",
+  "cityZh": "\u7075\u5b9d"
+}, {
+  "id": "CN101181703",
+  "cityEn": "mianchi",
+  "cityZh": "\u6e11\u6c60"
+}, {
+  "id": "CN101181704",
+  "cityEn": "lushi",
+  "cityZh": "\u5362\u6c0f"
+}, {
+  "id": "CN101181705",
+  "cityEn": "yima",
+  "cityZh": "\u4e49\u9a6c"
+}, {
+  "id": "CN101181706",
+  "cityEn": "shanxian",
+  "cityZh": "\u9655\u53bf"
+}, {
+  "id": "CN101181707",
+  "cityEn": "hubin",
+  "cityZh": "\u6e56\u6ee8"
+}, {
+  "id": "CN101181708",
+  "cityEn": "shanzhou",
+  "cityZh": "\u9655\u5dde"
+}, {
+  "id": "CN101181801",
+  "cityEn": "jiyuan",
+  "cityZh": "\u6d4e\u6e90"
+}, {
+  "id": "CN101190101",
+  "cityEn": "nanjing",
+  "cityZh": "\u5357\u4eac"
+}, {
+  "id": "CN101190102",
+  "cityEn": "lishui",
+  "cityZh": "\u6ea7\u6c34"
+}, {
+  "id": "CN101190103",
+  "cityEn": "gaochun",
+  "cityZh": "\u9ad8\u6df3"
+}, {
+  "id": "CN101190104",
+  "cityEn": "jiangning",
+  "cityZh": "\u6c5f\u5b81"
+}, {
+  "id": "CN101190105",
+  "cityEn": "luhe",
+  "cityZh": "\u516d\u5408"
+}, {
+  "id": "CN101190107",
+  "cityEn": "pukou",
+  "cityZh": "\u6d66\u53e3"
+}, {
+  "id": "CN101190108",
+  "cityEn": "xuanwu",
+  "cityZh": "\u7384\u6b66"
+}, {
+  "id": "CN101190109",
+  "cityEn": "qinhuai",
+  "cityZh": "\u79e6\u6dee"
+}, {
+  "id": "CN101190110",
+  "cityEn": "jianye",
+  "cityZh": "\u5efa\u90ba"
+}, {
+  "id": "CN101190111",
+  "cityEn": "gulou",
+  "cityZh": "\u9f13\u697c"
+}, {
+  "id": "CN101190112",
+  "cityEn": "qixia",
+  "cityZh": "\u6816\u971e"
+}, {
+  "id": "CN101190113",
+  "cityEn": "yuhuatai",
+  "cityZh": "\u96e8\u82b1\u53f0"
+}, {
+  "id": "CN101190201",
+  "cityEn": "wuxi",
+  "cityZh": "\u65e0\u9521"
+}, {
+  "id": "CN101190202",
+  "cityEn": "jiangyin",
+  "cityZh": "\u6c5f\u9634"
+}, {
+  "id": "CN101190203",
+  "cityEn": "yixing",
+  "cityZh": "\u5b9c\u5174"
+}, {
+  "id": "CN101190204",
+  "cityEn": "xishan",
+  "cityZh": "\u9521\u5c71"
+}, {
+  "id": "CN101190205",
+  "cityEn": "huishan",
+  "cityZh": "\u60e0\u5c71"
+}, {
+  "id": "CN101190206",
+  "cityEn": "binhu",
+  "cityZh": "\u6ee8\u6e56"
+}, {
+  "id": "CN101190207",
+  "cityEn": "liangxi",
+  "cityZh": "\u6881\u6eaa"
+}, {
+  "id": "CN101190208",
+  "cityEn": "xinwu",
+  "cityZh": "\u65b0\u5434"
+}, {
+  "id": "CN101190301",
+  "cityEn": "zhenjiang",
+  "cityZh": "\u9547\u6c5f"
+}, {
+  "id": "CN101190302",
+  "cityEn": "danyang",
+  "cityZh": "\u4e39\u9633"
+}, {
+  "id": "CN101190303",
+  "cityEn": "yangzhong",
+  "cityZh": "\u626c\u4e2d"
+}, {
+  "id": "CN101190304",
+  "cityEn": "jurong",
+  "cityZh": "\u53e5\u5bb9"
+}, {
+  "id": "CN101190305",
+  "cityEn": "dantu",
+  "cityZh": "\u4e39\u5f92"
+}, {
+  "id": "CN101190306",
+  "cityEn": "jingkou",
+  "cityZh": "\u4eac\u53e3"
+}, {
+  "id": "CN101190307",
+  "cityEn": "runzhou",
+  "cityZh": "\u6da6\u5dde"
+}, {
+  "id": "CN101190401",
+  "cityEn": "suzhou",
+  "cityZh": "\u82cf\u5dde"
+}, {
+  "id": "CN101190402",
+  "cityEn": "changshu",
+  "cityZh": "\u5e38\u719f"
+}, {
+  "id": "CN101190403",
+  "cityEn": "zhangjiagang",
+  "cityZh": "\u5f20\u5bb6\u6e2f"
+}, {
+  "id": "CN101190404",
+  "cityEn": "kunshan",
+  "cityZh": "\u6606\u5c71"
+}, {
+  "id": "CN101190405",
+  "cityEn": "wuzhong",
+  "cityZh": "\u5434\u4e2d"
+}, {
+  "id": "CN101190406",
+  "cityEn": "huqiu",
+  "cityZh": "\u864e\u4e18"
+}, {
+  "id": "CN101190407",
+  "cityEn": "wujiang",
+  "cityZh": "\u5434\u6c5f"
+}, {
+  "id": "CN101190408",
+  "cityEn": "taicang",
+  "cityZh": "\u592a\u4ed3"
+}, {
+  "id": "CN101190409",
+  "cityEn": "xiangcheng",
+  "cityZh": "\u76f8\u57ce"
+}, {
+  "id": "CN101190410",
+  "cityEn": "gusu",
+  "cityZh": "\u59d1\u82cf"
+}, {
+  "id": "CN101190501",
+  "cityEn": "nantong",
+  "cityZh": "\u5357\u901a"
+}, {
+  "id": "CN101190502",
+  "cityEn": "haian",
+  "cityZh": "\u6d77\u5b89"
+}, {
+  "id": "CN101190503",
+  "cityEn": "rugao",
+  "cityZh": "\u5982\u768b"
+}, {
+  "id": "CN101190504",
+  "cityEn": "rudong",
+  "cityZh": "\u5982\u4e1c"
+}, {
+  "id": "CN101190505",
+  "cityEn": "chongchuan",
+  "cityZh": "\u5d07\u5ddd"
+}, {
+  "id": "CN101190506",
+  "cityEn": "gangzha",
+  "cityZh": "\u6e2f\u95f8"
+}, {
+  "id": "CN101190507",
+  "cityEn": "qidong",
+  "cityZh": "\u542f\u4e1c"
+}, {
+  "id": "CN101190508",
+  "cityEn": "haimen",
+  "cityZh": "\u6d77\u95e8"
+}, {
+  "id": "CN101190509",
+  "cityEn": "tongzhou",
+  "cityZh": "\u901a\u5dde"
+}, {
+  "id": "CN101190601",
+  "cityEn": "yangzhou",
+  "cityZh": "\u626c\u5dde"
+}, {
+  "id": "CN101190602",
+  "cityEn": "baoying",
+  "cityZh": "\u5b9d\u5e94"
+}, {
+  "id": "CN101190603",
+  "cityEn": "yizheng",
+  "cityZh": "\u4eea\u5f81"
+}, {
+  "id": "CN101190604",
+  "cityEn": "gaoyou",
+  "cityZh": "\u9ad8\u90ae"
+}, {
+  "id": "CN101190605",
+  "cityEn": "jiangdu",
+  "cityZh": "\u6c5f\u90fd"
+}, {
+  "id": "CN101190606",
+  "cityEn": "hanjiang",
+  "cityZh": "\u9097\u6c5f"
+}, {
+  "id": "CN101190607",
+  "cityEn": "guangling",
+  "cityZh": "\u5e7f\u9675"
+}, {
+  "id": "CN101190701",
+  "cityEn": "yancheng",
+  "cityZh": "\u76d0\u57ce"
+}, {
+  "id": "CN101190702",
+  "cityEn": "xiangshui",
+  "cityZh": "\u54cd\u6c34"
+}, {
+  "id": "CN101190703",
+  "cityEn": "binhai",
+  "cityZh": "\u6ee8\u6d77"
+}, {
+  "id": "CN101190704",
+  "cityEn": "funing",
+  "cityZh": "\u961c\u5b81"
+}, {
+  "id": "CN101190705",
+  "cityEn": "sheyang",
+  "cityZh": "\u5c04\u9633"
+}, {
+  "id": "CN101190706",
+  "cityEn": "jianhu",
+  "cityZh": "\u5efa\u6e56"
+}, {
+  "id": "CN101190707",
+  "cityEn": "dongtai",
+  "cityZh": "\u4e1c\u53f0"
+}, {
+  "id": "CN101190708",
+  "cityEn": "dafeng",
+  "cityZh": "\u5927\u4e30"
+}, {
+  "id": "CN101190709",
+  "cityEn": "yandu",
+  "cityZh": "\u76d0\u90fd"
+}, {
+  "id": "CN101190710",
+  "cityEn": "tinghu",
+  "cityZh": "\u4ead\u6e56"
+}, {
+  "id": "CN101190801",
+  "cityEn": "xuzhou",
+  "cityZh": "\u5f90\u5dde"
+}, {
+  "id": "CN101190802",
+  "cityEn": "tongshan",
+  "cityZh": "\u94dc\u5c71"
+}, {
+  "id": "CN101190803",
+  "cityEn": "fengxian",
+  "cityZh": "\u4e30\u53bf"
+}, {
+  "id": "CN101190804",
+  "cityEn": "peixian",
+  "cityZh": "\u6c9b\u53bf"
+}, {
+  "id": "CN101190805",
+  "cityEn": "pizhou",
+  "cityZh": "\u90b3\u5dde"
+}, {
+  "id": "CN101190806",
+  "cityEn": "suining",
+  "cityZh": "\u7762\u5b81"
+}, {
+  "id": "CN101190807",
+  "cityEn": "xinyi",
+  "cityZh": "\u65b0\u6c82"
+}, {
+  "id": "CN101190808",
+  "cityEn": "gulou",
+  "cityZh": "\u9f13\u697c"
+}, {
+  "id": "CN101190809",
+  "cityEn": "yunlong",
+  "cityZh": "\u4e91\u9f99"
+}, {
+  "id": "CN101190810",
+  "cityEn": "jiawang",
+  "cityZh": "\u8d3e\u6c6a"
+}, {
+  "id": "CN101190811",
+  "cityEn": "quanshan",
+  "cityZh": "\u6cc9\u5c71"
+}, {
+  "id": "CN101190901",
+  "cityEn": "huaian",
+  "cityZh": "\u6dee\u5b89"
+}, {
+  "id": "CN101190902",
+  "cityEn": "jinhu",
+  "cityZh": "\u91d1\u6e56"
+}, {
+  "id": "CN101190903",
+  "cityEn": "xuyi",
+  "cityZh": "\u76f1\u7719"
+}, {
+  "id": "CN101190904",
+  "cityEn": "hongze",
+  "cityZh": "\u6d2a\u6cfd"
+}, {
+  "id": "CN101190905",
+  "cityEn": "lianshui",
+  "cityZh": "\u6d9f\u6c34"
+}, {
+  "id": "CN101190906",
+  "cityEn": "huaiyinqu",
+  "cityZh": "\u6dee\u9634\u533a"
+}, {
+  "id": "CN101190907",
+  "cityEn": "qinghe",
+  "cityZh": "\u6e05\u6cb3"
+}, {
+  "id": "CN101190908",
+  "cityEn": "huaianqu",
+  "cityZh": "\u6dee\u5b89\u533a"
+}, {
+  "id": "CN101190909",
+  "cityEn": "qingpu",
+  "cityZh": "\u6e05\u6d66"
+}, {
+  "id": "CN101191001",
+  "cityEn": "lianyungang",
+  "cityZh": "\u8fde\u4e91\u6e2f"
+}, {
+  "id": "CN101191002",
+  "cityEn": "donghai",
+  "cityZh": "\u4e1c\u6d77"
+}, {
+  "id": "CN101191003",
+  "cityEn": "ganyu",
+  "cityZh": "\u8d63\u6986"
+}, {
+  "id": "CN101191004",
+  "cityEn": "guanyun",
+  "cityZh": "\u704c\u4e91"
+}, {
+  "id": "CN101191005",
+  "cityEn": "guannan",
+  "cityZh": "\u704c\u5357"
+}, {
+  "id": "CN101191006",
+  "cityEn": "haizhou",
+  "cityZh": "\u6d77\u5dde"
+}, {
+  "id": "CN101191101",
+  "cityEn": "changzhou",
+  "cityZh": "\u5e38\u5dde"
+}, {
+  "id": "CN101191102",
+  "cityEn": "liyang",
+  "cityZh": "\u6ea7\u9633"
+}, {
+  "id": "CN101191103",
+  "cityEn": "jintan",
+  "cityZh": "\u91d1\u575b"
+}, {
+  "id": "CN101191104",
+  "cityEn": "wujin",
+  "cityZh": "\u6b66\u8fdb"
+}, {
+  "id": "CN101191105",
+  "cityEn": "tianning",
+  "cityZh": "\u5929\u5b81"
+}, {
+  "id": "CN101191106",
+  "cityEn": "zhonglou",
+  "cityZh": "\u949f\u697c"
+}, {
+  "id": "CN101191107",
+  "cityEn": "xinbei",
+  "cityZh": "\u65b0\u5317"
+}, {
+  "id": "CN101191201",
+  "cityEn": "taizhou",
+  "cityZh": "\u6cf0\u5dde"
+}, {
+  "id": "CN101191202",
+  "cityEn": "xinghua",
+  "cityZh": "\u5174\u5316"
+}, {
+  "id": "CN101191203",
+  "cityEn": "taixing",
+  "cityZh": "\u6cf0\u5174"
+}, {
+  "id": "CN101191204",
+  "cityEn": "jiangyan",
+  "cityZh": "\u59dc\u5830"
+}, {
+  "id": "CN101191205",
+  "cityEn": "jingjiang",
+  "cityZh": "\u9756\u6c5f"
+}, {
+  "id": "CN101191206",
+  "cityEn": "hailing",
+  "cityZh": "\u6d77\u9675"
+}, {
+  "id": "CN101191207",
+  "cityEn": "gaogang",
+  "cityZh": "\u9ad8\u6e2f"
+}, {
+  "id": "CN101191301",
+  "cityEn": "suqian",
+  "cityZh": "\u5bbf\u8fc1"
+}, {
+  "id": "CN101191302",
+  "cityEn": "shuyang",
+  "cityZh": "\u6cad\u9633"
+}, {
+  "id": "CN101191303",
+  "cityEn": "siyang",
+  "cityZh": "\u6cd7\u9633"
+}, {
+  "id": "CN101191304",
+  "cityEn": "sihong",
+  "cityZh": "\u6cd7\u6d2a"
+}, {
+  "id": "CN101191305",
+  "cityEn": "suyu",
+  "cityZh": "\u5bbf\u8c6b"
+}, {
+  "id": "CN101191306",
+  "cityEn": "sucheng",
+  "cityZh": "\u5bbf\u57ce"
+}, {
+  "id": "CN101200101",
+  "cityEn": "wuhan",
+  "cityZh": "\u6b66\u6c49"
+}, {
+  "id": "CN101200102",
+  "cityEn": "caidian",
+  "cityZh": "\u8521\u7538"
+}, {
+  "id": "CN101200103",
+  "cityEn": "huangpi",
+  "cityZh": "\u9ec4\u9642"
+}, {
+  "id": "CN101200104",
+  "cityEn": "xinzhou",
+  "cityZh": "\u65b0\u6d32"
+}, {
+  "id": "CN101200105",
+  "cityEn": "jiangxia",
+  "cityZh": "\u6c5f\u590f"
+}, {
+  "id": "CN101200106",
+  "cityEn": "dongxihu",
+  "cityZh": "\u4e1c\u897f\u6e56"
+}, {
+  "id": "CN101200107",
+  "cityEn": "jiangan",
+  "cityZh": "\u6c5f\u5cb8"
+}, {
+  "id": "CN101200108",
+  "cityEn": "jianghan",
+  "cityZh": "\u6c5f\u6c49"
+}, {
+  "id": "CN101200109",
+  "cityEn": "qiaokou",
+  "cityZh": "\u785a\u53e3"
+}, {
+  "id": "CN101200110",
+  "cityEn": "hanyang",
+  "cityZh": "\u6c49\u9633"
+}, {
+  "id": "CN101200111",
+  "cityEn": "wuchang",
+  "cityZh": "\u6b66\u660c"
+}, {
+  "id": "CN101200112",
+  "cityEn": "qingshan",
+  "cityZh": "\u9752\u5c71"
+}, {
+  "id": "CN101200113",
+  "cityEn": "hongshan",
+  "cityZh": "\u6d2a\u5c71"
+}, {
+  "id": "CN101200114",
+  "cityEn": "hannan",
+  "cityZh": "\u6c49\u5357"
+}, {
+  "id": "CN101200201",
+  "cityEn": "xiangyang",
+  "cityZh": "\u8944\u9633"
+}, {
+  "id": "CN101200202",
+  "cityEn": "xiangzhou",
+  "cityZh": "\u8944\u5dde"
+}, {
+  "id": "CN101200203",
+  "cityEn": "baokang",
+  "cityZh": "\u4fdd\u5eb7"
+}, {
+  "id": "CN101200204",
+  "cityEn": "nanzhang",
+  "cityZh": "\u5357\u6f33"
+}, {
+  "id": "CN101200205",
+  "cityEn": "yicheng",
+  "cityZh": "\u5b9c\u57ce"
+}, {
+  "id": "CN101200206",
+  "cityEn": "laohekou",
+  "cityZh": "\u8001\u6cb3\u53e3"
+}, {
+  "id": "CN101200207",
+  "cityEn": "gucheng",
+  "cityZh": "\u8c37\u57ce"
+}, {
+  "id": "CN101200208",
+  "cityEn": "zaoyang",
+  "cityZh": "\u67a3\u9633"
+}, {
+  "id": "CN101200209",
+  "cityEn": "xiangcheng",
+  "cityZh": "\u8944\u57ce"
+}, {
+  "id": "CN101200210",
+  "cityEn": "fancheng",
+  "cityZh": "\u6a0a\u57ce"
+}, {
+  "id": "CN101200301",
+  "cityEn": "ezhou",
+  "cityZh": "\u9102\u5dde"
+}, {
+  "id": "CN101200302",
+  "cityEn": "liangzihu",
+  "cityZh": "\u6881\u5b50\u6e56"
+}, {
+  "id": "CN101200303",
+  "cityEn": "huarong",
+  "cityZh": "\u534e\u5bb9"
+}, {
+  "id": "CN101200304",
+  "cityEn": "echeng",
+  "cityZh": "\u9102\u57ce"
+}, {
+  "id": "CN101200401",
+  "cityEn": "xiaogan",
+  "cityZh": "\u5b5d\u611f"
+}, {
+  "id": "CN101200402",
+  "cityEn": "anlu",
+  "cityZh": "\u5b89\u9646"
+}, {
+  "id": "CN101200403",
+  "cityEn": "yunmeng",
+  "cityZh": "\u4e91\u68a6"
+}, {
+  "id": "CN101200404",
+  "cityEn": "dawu",
+  "cityZh": "\u5927\u609f"
+}, {
+  "id": "CN101200405",
+  "cityEn": "yingcheng",
+  "cityZh": "\u5e94\u57ce"
+}, {
+  "id": "CN101200406",
+  "cityEn": "hanchuan",
+  "cityZh": "\u6c49\u5ddd"
+}, {
+  "id": "CN101200407",
+  "cityEn": "xiaochang",
+  "cityZh": "\u5b5d\u660c"
+}, {
+  "id": "CN101200408",
+  "cityEn": "xiaonan",
+  "cityZh": "\u5b5d\u5357"
+}, {
+  "id": "CN101200501",
+  "cityEn": "huanggang",
+  "cityZh": "\u9ec4\u5188"
+}, {
+  "id": "CN101200502",
+  "cityEn": "hongan",
+  "cityZh": "\u7ea2\u5b89"
+}, {
+  "id": "CN101200503",
+  "cityEn": "macheng",
+  "cityZh": "\u9ebb\u57ce"
+}, {
+  "id": "CN101200504",
+  "cityEn": "luotian",
+  "cityZh": "\u7f57\u7530"
+}, {
+  "id": "CN101200505",
+  "cityEn": "yingshan",
+  "cityZh": "\u82f1\u5c71"
+}, {
+  "id": "CN101200506",
+  "cityEn": "xishui",
+  "cityZh": "\u6d60\u6c34"
+}, {
+  "id": "CN101200507",
+  "cityEn": "qichun",
+  "cityZh": "\u8572\u6625"
+}, {
+  "id": "CN101200508",
+  "cityEn": "huangmei",
+  "cityZh": "\u9ec4\u6885"
+}, {
+  "id": "CN101200509",
+  "cityEn": "wuxue",
+  "cityZh": "\u6b66\u7a74"
+}, {
+  "id": "CN101200510",
+  "cityEn": "tuanfeng",
+  "cityZh": "\u56e2\u98ce"
+}, {
+  "id": "CN101200511",
+  "cityEn": "huangzhou",
+  "cityZh": "\u9ec4\u5dde"
+}, {
+  "id": "CN101200601",
+  "cityEn": "huangshi",
+  "cityZh": "\u9ec4\u77f3"
+}, {
+  "id": "CN101200602",
+  "cityEn": "daye",
+  "cityZh": "\u5927\u51b6"
+}, {
+  "id": "CN101200603",
+  "cityEn": "yangxin",
+  "cityZh": "\u9633\u65b0"
+}, {
+  "id": "CN101200604",
+  "cityEn": "tieshan",
+  "cityZh": "\u94c1\u5c71"
+}, {
+  "id": "CN101200605",
+  "cityEn": "xialu",
+  "cityZh": "\u4e0b\u9646"
+}, {
+  "id": "CN101200606",
+  "cityEn": "xisaishan",
+  "cityZh": "\u897f\u585e\u5c71"
+}, {
+  "id": "CN101200607",
+  "cityEn": "huangshigang",
+  "cityZh": "\u9ec4\u77f3\u6e2f"
+}, {
+  "id": "CN101200701",
+  "cityEn": "xianning",
+  "cityZh": "\u54b8\u5b81"
+}, {
+  "id": "CN101200702",
+  "cityEn": "chibi",
+  "cityZh": "\u8d64\u58c1"
+}, {
+  "id": "CN101200703",
+  "cityEn": "jiayu",
+  "cityZh": "\u5609\u9c7c"
+}, {
+  "id": "CN101200704",
+  "cityEn": "chongyang",
+  "cityZh": "\u5d07\u9633"
+}, {
+  "id": "CN101200705",
+  "cityEn": "tongcheng",
+  "cityZh": "\u901a\u57ce"
+}, {
+  "id": "CN101200706",
+  "cityEn": "tongshan",
+  "cityZh": "\u901a\u5c71"
+}, {
+  "id": "CN101200707",
+  "cityEn": "xianan",
+  "cityZh": "\u54b8\u5b89"
+}, {
+  "id": "CN101200801",
+  "cityEn": "jingzhou",
+  "cityZh": "\u8346\u5dde"
+}, {
+  "id": "CN101200802",
+  "cityEn": "jiangling",
+  "cityZh": "\u6c5f\u9675"
+}, {
+  "id": "CN101200803",
+  "cityEn": "gongan",
+  "cityZh": "\u516c\u5b89"
+}, {
+  "id": "CN101200804",
+  "cityEn": "shishou",
+  "cityZh": "\u77f3\u9996"
+}, {
+  "id": "CN101200805",
+  "cityEn": "jianli",
+  "cityZh": "\u76d1\u5229"
+}, {
+  "id": "CN101200806",
+  "cityEn": "honghu",
+  "cityZh": "\u6d2a\u6e56"
+}, {
+  "id": "CN101200807",
+  "cityEn": "songzi",
+  "cityZh": "\u677e\u6ecb"
+}, {
+  "id": "CN101200808",
+  "cityEn": "shashi",
+  "cityZh": "\u6c99\u5e02"
+}, {
+  "id": "CN101200901",
+  "cityEn": "yichang",
+  "cityZh": "\u5b9c\u660c"
+}, {
+  "id": "CN101200902",
+  "cityEn": "yuanan",
+  "cityZh": "\u8fdc\u5b89"
+}, {
+  "id": "CN101200903",
+  "cityEn": "zigui",
+  "cityZh": "\u79ed\u5f52"
+}, {
+  "id": "CN101200904",
+  "cityEn": "xingshan",
+  "cityZh": "\u5174\u5c71"
+}, {
+  "id": "CN101200905",
+  "cityEn": "xiling",
+  "cityZh": "\u897f\u9675"
+}, {
+  "id": "CN101200906",
+  "cityEn": "wufeng",
+  "cityZh": "\u4e94\u5cf0"
+}, {
+  "id": "CN101200907",
+  "cityEn": "dangyang",
+  "cityZh": "\u5f53\u9633"
+}, {
+  "id": "CN101200908",
+  "cityEn": "changyang",
+  "cityZh": "\u957f\u9633"
+}, {
+  "id": "CN101200909",
+  "cityEn": "yidu",
+  "cityZh": "\u5b9c\u90fd"
+}, {
+  "id": "CN101200910",
+  "cityEn": "zhijiang",
+  "cityZh": "\u679d\u6c5f"
+}, {
+  "id": "CN101200912",
+  "cityEn": "yiling",
+  "cityZh": "\u5937\u9675"
+}, {
+  "id": "CN101200913",
+  "cityEn": "wujiagang",
+  "cityZh": "\u4f0d\u5bb6\u5c97"
+}, {
+  "id": "CN101200914",
+  "cityEn": "dianjun",
+  "cityZh": "\u70b9\u519b"
+}, {
+  "id": "CN101200915",
+  "cityEn": "xiaoting",
+  "cityZh": "\u7307\u4ead"
+}, {
+  "id": "CN101201001",
+  "cityEn": "enshi",
+  "cityZh": "\u6069\u65bd"
+}, {
+  "id": "CN101201002",
+  "cityEn": "lichuan",
+  "cityZh": "\u5229\u5ddd"
+}, {
+  "id": "CN101201003",
+  "cityEn": "jianshi",
+  "cityZh": "\u5efa\u59cb"
+}, {
+  "id": "CN101201004",
+  "cityEn": "xianfeng",
+  "cityZh": "\u54b8\u4e30"
+}, {
+  "id": "CN101201005",
+  "cityEn": "xuanen",
+  "cityZh": "\u5ba3\u6069"
+}, {
+  "id": "CN101201006",
+  "cityEn": "hefeng",
+  "cityZh": "\u9e64\u5cf0"
+}, {
+  "id": "CN101201007",
+  "cityEn": "laifeng",
+  "cityZh": "\u6765\u51e4"
+}, {
+  "id": "CN101201008",
+  "cityEn": "badong",
+  "cityZh": "\u5df4\u4e1c"
+}, {
+  "id": "CN101201101",
+  "cityEn": "shiyan",
+  "cityZh": "\u5341\u5830"
+}, {
+  "id": "CN101201102",
+  "cityEn": "zhuxi",
+  "cityZh": "\u7af9\u6eaa"
+}, {
+  "id": "CN101201103",
+  "cityEn": "yunxi",
+  "cityZh": "\u90e7\u897f"
+}, {
+  "id": "CN101201104",
+  "cityEn": "yunyang",
+  "cityZh": "\u90e7\u9633"
+}, {
+  "id": "CN101201105",
+  "cityEn": "zhushan",
+  "cityZh": "\u7af9\u5c71"
+}, {
+  "id": "CN101201106",
+  "cityEn": "fangxian",
+  "cityZh": "\u623f\u53bf"
+}, {
+  "id": "CN101201107",
+  "cityEn": "danjiangkou",
+  "cityZh": "\u4e39\u6c5f\u53e3"
+}, {
+  "id": "CN101201108",
+  "cityEn": "maojian",
+  "cityZh": "\u8305\u7bad"
+}, {
+  "id": "CN101201109",
+  "cityEn": "zhangwan",
+  "cityZh": "\u5f20\u6e7e"
+}, {
+  "id": "CN101201201",
+  "cityEn": "shennongjia",
+  "cityZh": "\u795e\u519c\u67b6"
+}, {
+  "id": "CN101201301",
+  "cityEn": "suizhou",
+  "cityZh": "\u968f\u5dde"
+}, {
+  "id": "CN101201302",
+  "cityEn": "guangshui",
+  "cityZh": "\u5e7f\u6c34"
+}, {
+  "id": "CN101201303",
+  "cityEn": "zengdou",
+  "cityZh": "\u66fe\u90fd"
+}, {
+  "id": "CN101201304",
+  "cityEn": "suixian",
+  "cityZh": "\u968f\u53bf"
+}, {
+  "id": "CN101201401",
+  "cityEn": "jingmen",
+  "cityZh": "\u8346\u95e8"
+}, {
+  "id": "CN101201402",
+  "cityEn": "zhongxiang",
+  "cityZh": "\u949f\u7965"
+}, {
+  "id": "CN101201403",
+  "cityEn": "jingshan",
+  "cityZh": "\u4eac\u5c71"
+}, {
+  "id": "CN101201404",
+  "cityEn": "duodao",
+  "cityZh": "\u6387\u5200"
+}, {
+  "id": "CN101201405",
+  "cityEn": "shayang",
+  "cityZh": "\u6c99\u6d0b"
+}, {
+  "id": "CN101201406",
+  "cityEn": "dongbao",
+  "cityZh": "\u4e1c\u5b9d"
+}, {
+  "id": "CN101201501",
+  "cityEn": "tianmen",
+  "cityZh": "\u5929\u95e8"
+}, {
+  "id": "CN101201601",
+  "cityEn": "xiantao",
+  "cityZh": "\u4ed9\u6843"
+}, {
+  "id": "CN101201701",
+  "cityEn": "qianjiang",
+  "cityZh": "\u6f5c\u6c5f"
+}, {
+  "id": "CN101210101",
+  "cityEn": "hangzhou",
+  "cityZh": "\u676d\u5dde"
+}, {
+  "id": "CN101210102",
+  "cityEn": "xiaoshan",
+  "cityZh": "\u8427\u5c71"
+}, {
+  "id": "CN101210103",
+  "cityEn": "tonglu",
+  "cityZh": "\u6850\u5e90"
+}, {
+  "id": "CN101210104",
+  "cityEn": "chunan",
+  "cityZh": "\u6df3\u5b89"
+}, {
+  "id": "CN101210105",
+  "cityEn": "jiande",
+  "cityZh": "\u5efa\u5fb7"
+}, {
+  "id": "CN101210106",
+  "cityEn": "yuhang",
+  "cityZh": "\u4f59\u676d"
+}, {
+  "id": "CN101210107",
+  "cityEn": "linan",
+  "cityZh": "\u4e34\u5b89"
+}, {
+  "id": "CN101210108",
+  "cityEn": "fuyang",
+  "cityZh": "\u5bcc\u9633"
+}, {
+  "id": "CN101210109",
+  "cityEn": "shangcheng",
+  "cityZh": "\u4e0a\u57ce"
+}, {
+  "id": "CN101210110",
+  "cityEn": "xiacheng",
+  "cityZh": "\u4e0b\u57ce"
+}, {
+  "id": "CN101210111",
+  "cityEn": "jianggan",
+  "cityZh": "\u6c5f\u5e72"
+}, {
+  "id": "CN101210112",
+  "cityEn": "gongshu",
+  "cityZh": "\u62f1\u5885"
+}, {
+  "id": "CN101210113",
+  "cityEn": "xihu",
+  "cityZh": "\u897f\u6e56"
+}, {
+  "id": "CN101210114",
+  "cityEn": "binjiang",
+  "cityZh": "\u6ee8\u6c5f"
+}, {
+  "id": "CN101210201",
+  "cityEn": "huzhou",
+  "cityZh": "\u6e56\u5dde"
+}, {
+  "id": "CN101210202",
+  "cityEn": "changxing",
+  "cityZh": "\u957f\u5174"
+}, {
+  "id": "CN101210203",
+  "cityEn": "anji",
+  "cityZh": "\u5b89\u5409"
+}, {
+  "id": "CN101210204",
+  "cityEn": "deqing",
+  "cityZh": "\u5fb7\u6e05"
+}, {
+  "id": "CN101210205",
+  "cityEn": "wuxing",
+  "cityZh": "\u5434\u5174"
+}, {
+  "id": "CN101210206",
+  "cityEn": "nanxun",
+  "cityZh": "\u5357\u6d54"
+}, {
+  "id": "CN101210301",
+  "cityEn": "jiaxing",
+  "cityZh": "\u5609\u5174"
+}, {
+  "id": "CN101210302",
+  "cityEn": "jiashan",
+  "cityZh": "\u5609\u5584"
+}, {
+  "id": "CN101210303",
+  "cityEn": "haining",
+  "cityZh": "\u6d77\u5b81"
+}, {
+  "id": "CN101210304",
+  "cityEn": "tongxiang",
+  "cityZh": "\u6850\u4e61"
+}, {
+  "id": "CN101210305",
+  "cityEn": "pinghu",
+  "cityZh": "\u5e73\u6e56"
+}, {
+  "id": "CN101210306",
+  "cityEn": "haiyan",
+  "cityZh": "\u6d77\u76d0"
+}, {
+  "id": "CN101210307",
+  "cityEn": "nanhu",
+  "cityZh": "\u5357\u6e56"
+}, {
+  "id": "CN101210308",
+  "cityEn": "xiuzhou",
+  "cityZh": "\u79c0\u6d32"
+}, {
+  "id": "CN101210401",
+  "cityEn": "ningbo",
+  "cityZh": "\u5b81\u6ce2"
+}, {
+  "id": "CN101210402",
+  "cityEn": "haishu",
+  "cityZh": "\u6d77\u66d9"
+}, {
+  "id": "CN101210403",
+  "cityEn": "cixi",
+  "cityZh": "\u6148\u6eaa"
+}, {
+  "id": "CN101210404",
+  "cityEn": "yuyao",
+  "cityZh": "\u4f59\u59da"
+}, {
+  "id": "CN101210405",
+  "cityEn": "fenghua",
+  "cityZh": "\u5949\u5316"
+}, {
+  "id": "CN101210406",
+  "cityEn": "xiangshan",
+  "cityZh": "\u8c61\u5c71"
+}, {
+  "id": "CN101210407",
+  "cityEn": "jiangdong",
+  "cityZh": "\u6c5f\u4e1c"
+}, {
+  "id": "CN101210408",
+  "cityEn": "ninghai",
+  "cityZh": "\u5b81\u6d77"
+}, {
+  "id": "CN101210409",
+  "cityEn": "jiangbei",
+  "cityZh": "\u6c5f\u5317"
+}, {
+  "id": "CN101210410",
+  "cityEn": "beilun",
+  "cityZh": "\u5317\u4ed1"
+}, {
+  "id": "CN101210411",
+  "cityEn": "yinzhou",
+  "cityZh": "\u911e\u5dde"
+}, {
+  "id": "CN101210412",
+  "cityEn": "zhenhai",
+  "cityZh": "\u9547\u6d77"
+}, {
+  "id": "CN101210501",
+  "cityEn": "yuecheng",
+  "cityZh": "\u8d8a\u57ce"
+}, {
+  "id": "CN101210502",
+  "cityEn": "zhuji",
+  "cityZh": "\u8bf8\u66a8"
+}, {
+  "id": "CN101210503",
+  "cityEn": "shangyu",
+  "cityZh": "\u4e0a\u865e"
+}, {
+  "id": "CN101210504",
+  "cityEn": "xinchang",
+  "cityZh": "\u65b0\u660c"
+}, {
+  "id": "CN101210505",
+  "cityEn": "shengzhou",
+  "cityZh": "\u5d4a\u5dde"
+}, {
+  "id": "CN101210506",
+  "cityEn": "keqiao",
+  "cityZh": "\u67ef\u6865"
+}, {
+  "id": "CN101210507",
+  "cityEn": "shaoxing",
+  "cityZh": "\u7ecd\u5174"
+}, {
+  "id": "CN101210601",
+  "cityEn": "taizhou",
+  "cityZh": "\u53f0\u5dde"
+}, {
+  "id": "CN101210603",
+  "cityEn": "yuhuan",
+  "cityZh": "\u7389\u73af"
+}, {
+  "id": "CN101210604",
+  "cityEn": "sanmen",
+  "cityZh": "\u4e09\u95e8"
+}, {
+  "id": "CN101210605",
+  "cityEn": "tiantai",
+  "cityZh": "\u5929\u53f0"
+}, {
+  "id": "CN101210606",
+  "cityEn": "xianju",
+  "cityZh": "\u4ed9\u5c45"
+}, {
+  "id": "CN101210607",
+  "cityEn": "wenling",
+  "cityZh": "\u6e29\u5cad"
+}, {
+  "id": "CN101210610",
+  "cityEn": "linhai",
+  "cityZh": "\u4e34\u6d77"
+}, {
+  "id": "CN101210611",
+  "cityEn": "jiaojiang",
+  "cityZh": "\u6912\u6c5f"
+}, {
+  "id": "CN101210612",
+  "cityEn": "huangyan",
+  "cityZh": "\u9ec4\u5ca9"
+}, {
+  "id": "CN101210613",
+  "cityEn": "luqiao",
+  "cityZh": "\u8def\u6865"
+}, {
+  "id": "CN101210701",
+  "cityEn": "wenzhou",
+  "cityZh": "\u6e29\u5dde"
+}, {
+  "id": "CN101210702",
+  "cityEn": "taishun",
+  "cityZh": "\u6cf0\u987a"
+}, {
+  "id": "CN101210703",
+  "cityEn": "wencheng",
+  "cityZh": "\u6587\u6210"
+}, {
+  "id": "CN101210704",
+  "cityEn": "pingyang",
+  "cityZh": "\u5e73\u9633"
+}, {
+  "id": "CN101210705",
+  "cityEn": "ruian",
+  "cityZh": "\u745e\u5b89"
+}, {
+  "id": "CN101210706",
+  "cityEn": "dongtou",
+  "cityZh": "\u6d1e\u5934"
+}, {
+  "id": "CN101210707",
+  "cityEn": "yueqing",
+  "cityZh": "\u4e50\u6e05"
+}, {
+  "id": "CN101210708",
+  "cityEn": "yongjia",
+  "cityZh": "\u6c38\u5609"
+}, {
+  "id": "CN101210709",
+  "cityEn": "cangnan",
+  "cityZh": "\u82cd\u5357"
+}, {
+  "id": "CN101210710",
+  "cityEn": "lucheng",
+  "cityZh": "\u9e7f\u57ce"
+}, {
+  "id": "CN101210711",
+  "cityEn": "longwan",
+  "cityZh": "\u9f99\u6e7e"
+}, {
+  "id": "CN101210712",
+  "cityEn": "ouhai",
+  "cityZh": "\u74ef\u6d77"
+}, {
+  "id": "CN101210801",
+  "cityEn": "lishui",
+  "cityZh": "\u4e3d\u6c34"
+}, {
+  "id": "CN101210802",
+  "cityEn": "suichang",
+  "cityZh": "\u9042\u660c"
+}, {
+  "id": "CN101210803",
+  "cityEn": "longquan",
+  "cityZh": "\u9f99\u6cc9"
+}, {
+  "id": "CN101210804",
+  "cityEn": "jinyun",
+  "cityZh": "\u7f19\u4e91"
+}, {
+  "id": "CN101210805",
+  "cityEn": "qingtian",
+  "cityZh": "\u9752\u7530"
+}, {
+  "id": "CN101210806",
+  "cityEn": "yunhe",
+  "cityZh": "\u4e91\u548c"
+}, {
+  "id": "CN101210807",
+  "cityEn": "qingyuan",
+  "cityZh": "\u5e86\u5143"
+}, {
+  "id": "CN101210808",
+  "cityEn": "songyang",
+  "cityZh": "\u677e\u9633"
+}, {
+  "id": "CN101210809",
+  "cityEn": "jingning",
+  "cityZh": "\u666f\u5b81"
+}, {
+  "id": "CN101210810",
+  "cityEn": "liandou",
+  "cityZh": "\u83b2\u90fd"
+}, {
+  "id": "CN101210901",
+  "cityEn": "jinhua",
+  "cityZh": "\u91d1\u534e"
+}, {
+  "id": "CN101210902",
+  "cityEn": "pujiang",
+  "cityZh": "\u6d66\u6c5f"
+}, {
+  "id": "CN101210903",
+  "cityEn": "lanxi",
+  "cityZh": "\u5170\u6eaa"
+}, {
+  "id": "CN101210904",
+  "cityEn": "yiwu",
+  "cityZh": "\u4e49\u4e4c"
+}, {
+  "id": "CN101210905",
+  "cityEn": "dongyang",
+  "cityZh": "\u4e1c\u9633"
+}, {
+  "id": "CN101210906",
+  "cityEn": "wuyi",
+  "cityZh": "\u6b66\u4e49"
+}, {
+  "id": "CN101210907",
+  "cityEn": "yongkang",
+  "cityZh": "\u6c38\u5eb7"
+}, {
+  "id": "CN101210908",
+  "cityEn": "panan",
+  "cityZh": "\u78d0\u5b89"
+}, {
+  "id": "CN101210909",
+  "cityEn": "wucheng",
+  "cityZh": "\u5a7a\u57ce"
+}, {
+  "id": "CN101210910",
+  "cityEn": "jindong",
+  "cityZh": "\u91d1\u4e1c"
+}, {
+  "id": "CN101211001",
+  "cityEn": "quzhou",
+  "cityZh": "\u8862\u5dde"
+}, {
+  "id": "CN101211002",
+  "cityEn": "changshan",
+  "cityZh": "\u5e38\u5c71"
+}, {
+  "id": "CN101211003",
+  "cityEn": "kaihua",
+  "cityZh": "\u5f00\u5316"
+}, {
+  "id": "CN101211004",
+  "cityEn": "longyou",
+  "cityZh": "\u9f99\u6e38"
+}, {
+  "id": "CN101211005",
+  "cityEn": "jiangshan",
+  "cityZh": "\u6c5f\u5c71"
+}, {
+  "id": "CN101211006",
+  "cityEn": "qujiang",
+  "cityZh": "\u8862\u6c5f"
+}, {
+  "id": "CN101211007",
+  "cityEn": "kecheng",
+  "cityZh": "\u67ef\u57ce"
+}, {
+  "id": "CN101211101",
+  "cityEn": "zhoushan",
+  "cityZh": "\u821f\u5c71"
+}, {
+  "id": "CN101211102",
+  "cityEn": "shengsi",
+  "cityZh": "\u5d4a\u6cd7"
+}, {
+  "id": "CN101211104",
+  "cityEn": "daishan",
+  "cityZh": "\u5cb1\u5c71"
+}, {
+  "id": "CN101211105",
+  "cityEn": "putuo",
+  "cityZh": "\u666e\u9640"
+}, {
+  "id": "CN101211106",
+  "cityEn": "dinghai",
+  "cityZh": "\u5b9a\u6d77"
+}, {
+  "id": "CN101220101",
+  "cityEn": "hefei",
+  "cityZh": "\u5408\u80a5"
+}, {
+  "id": "CN101220102",
+  "cityEn": "changfeng",
+  "cityZh": "\u957f\u4e30"
+}, {
+  "id": "CN101220103",
+  "cityEn": "feidong",
+  "cityZh": "\u80a5\u4e1c"
+}, {
+  "id": "CN101220104",
+  "cityEn": "feixi",
+  "cityZh": "\u80a5\u897f"
+}, {
+  "id": "CN101220105",
+  "cityEn": "chaohu",
+  "cityZh": "\u5de2\u6e56"
+}, {
+  "id": "CN101220106",
+  "cityEn": "lujiang",
+  "cityZh": "\u5e90\u6c5f"
+}, {
+  "id": "CN101220107",
+  "cityEn": "yaohai",
+  "cityZh": "\u7476\u6d77"
+}, {
+  "id": "CN101220108",
+  "cityEn": "luyang",
+  "cityZh": "\u5e90\u9633"
+}, {
+  "id": "CN101220109",
+  "cityEn": "shushan",
+  "cityZh": "\u8700\u5c71"
+}, {
+  "id": "CN101220110",
+  "cityEn": "baohe",
+  "cityZh": "\u5305\u6cb3"
+}, {
+  "id": "CN101220201",
+  "cityEn": "bengbu",
+  "cityZh": "\u868c\u57e0"
+}, {
+  "id": "CN101220202",
+  "cityEn": "huaiyuan",
+  "cityZh": "\u6000\u8fdc"
+}, {
+  "id": "CN101220203",
+  "cityEn": "guzhen",
+  "cityZh": "\u56fa\u9547"
+}, {
+  "id": "CN101220204",
+  "cityEn": "wuhe",
+  "cityZh": "\u4e94\u6cb3"
+}, {
+  "id": "CN101220205",
+  "cityEn": "longzihu",
+  "cityZh": "\u9f99\u5b50\u6e56"
+}, {
+  "id": "CN101220206",
+  "cityEn": "bangshan",
+  "cityZh": "\u868c\u5c71"
+}, {
+  "id": "CN101220207",
+  "cityEn": "yuhui",
+  "cityZh": "\u79b9\u4f1a"
+}, {
+  "id": "CN101220208",
+  "cityEn": "huaishang",
+  "cityZh": "\u6dee\u4e0a"
+}, {
+  "id": "CN101220301",
+  "cityEn": "wuhu",
+  "cityZh": "\u829c\u6e56"
+}, {
+  "id": "CN101220302",
+  "cityEn": "fanyang",
+  "cityZh": "\u7e41\u660c"
+}, {
+  "id": "CN101220303",
+  "cityEn": "wuhuxian",
+  "cityZh": "\u829c\u6e56\u53bf"
+}, {
+  "id": "CN101220304",
+  "cityEn": "nanling",
+  "cityZh": "\u5357\u9675"
+}, {
+  "id": "CN101220305",
+  "cityEn": "wuwei",
+  "cityZh": "\u65e0\u4e3a"
+}, {
+  "id": "CN101220306",
+  "cityEn": "jinghu",
+  "cityZh": "\u955c\u6e56"
+}, {
+  "id": "CN101220307",
+  "cityEn": "yijiang",
+  "cityZh": "\u5f0b\u6c5f"
+}, {
+  "id": "CN101220308",
+  "cityEn": "jiujiang",
+  "cityZh": "\u9e20\u6c5f"
+}, {
+  "id": "CN101220309",
+  "cityEn": "sanshan",
+  "cityZh": "\u4e09\u5c71"
+}, {
+  "id": "CN101220401",
+  "cityEn": "huainan",
+  "cityZh": "\u6dee\u5357"
+}, {
+  "id": "CN101220402",
+  "cityEn": "fengtai",
+  "cityZh": "\u51e4\u53f0"
+}, {
+  "id": "CN101220403",
+  "cityEn": "panji",
+  "cityZh": "\u6f58\u96c6"
+}, {
+  "id": "CN101220404",
+  "cityEn": "datong",
+  "cityZh": "\u5927\u901a"
+}, {
+  "id": "CN101220405",
+  "cityEn": "tianjiaan",
+  "cityZh": "\u7530\u5bb6\u5eb5"
+}, {
+  "id": "CN101220406",
+  "cityEn": "xiejiaji",
+  "cityZh": "\u8c22\u5bb6\u96c6"
+}, {
+  "id": "CN101220407",
+  "cityEn": "bagongshan",
+  "cityZh": "\u516b\u516c\u5c71"
+}, {
+  "id": "CN101220408",
+  "cityEn": "shouxian",
+  "cityZh": "\u5bff\u53bf"
+}, {
+  "id": "CN101220501",
+  "cityEn": "maanshan",
+  "cityZh": "\u9a6c\u978d\u5c71"
+}, {
+  "id": "CN101220502",
+  "cityEn": "dangtu",
+  "cityZh": "\u5f53\u6d82"
+}, {
+  "id": "CN101220503",
+  "cityEn": "hanshan",
+  "cityZh": "\u542b\u5c71"
+}, {
+  "id": "CN101220504",
+  "cityEn": "hexian",
+  "cityZh": "\u548c\u53bf"
+}, {
+  "id": "CN101220505",
+  "cityEn": "huashan",
+  "cityZh": "\u82b1\u5c71"
+}, {
+  "id": "CN101220506",
+  "cityEn": "yushan",
+  "cityZh": "\u96e8\u5c71"
+}, {
+  "id": "CN101220507",
+  "cityEn": "bowang",
+  "cityZh": "\u535a\u671b"
+}, {
+  "id": "CN101220601",
+  "cityEn": "anqing",
+  "cityZh": "\u5b89\u5e86"
+}, {
+  "id": "CN101220603",
+  "cityEn": "taihu",
+  "cityZh": "\u592a\u6e56"
+}, {
+  "id": "CN101220604",
+  "cityEn": "qianshan",
+  "cityZh": "\u6f5c\u5c71"
+}, {
+  "id": "CN101220605",
+  "cityEn": "huaining",
+  "cityZh": "\u6000\u5b81"
+}, {
+  "id": "CN101220606",
+  "cityEn": "susong",
+  "cityZh": "\u5bbf\u677e"
+}, {
+  "id": "CN101220607",
+  "cityEn": "wangjiang",
+  "cityZh": "\u671b\u6c5f"
+}, {
+  "id": "CN101220608",
+  "cityEn": "yuexi",
+  "cityZh": "\u5cb3\u897f"
+}, {
+  "id": "CN101220609",
+  "cityEn": "tongcheng",
+  "cityZh": "\u6850\u57ce"
+}, {
+  "id": "CN101220610",
+  "cityEn": "yingjiang",
+  "cityZh": "\u8fce\u6c5f"
+}, {
+  "id": "CN101220611",
+  "cityEn": "daguan",
+  "cityZh": "\u5927\u89c2"
+}, {
+  "id": "CN101220612",
+  "cityEn": "yixiu",
+  "cityZh": "\u5b9c\u79c0"
+}, {
+  "id": "CN101220701",
+  "cityEn": "suzhou",
+  "cityZh": "\u5bbf\u5dde"
+}, {
+  "id": "CN101220702",
+  "cityEn": "dangshan",
+  "cityZh": "\u7800\u5c71"
+}, {
+  "id": "CN101220703",
+  "cityEn": "lingbi",
+  "cityZh": "\u7075\u74a7"
+}, {
+  "id": "CN101220704",
+  "cityEn": "sixian",
+  "cityZh": "\u6cd7\u53bf"
+}, {
+  "id": "CN101220705",
+  "cityEn": "xiaoxian",
+  "cityZh": "\u8427\u53bf"
+}, {
+  "id": "CN101220706",
+  "cityEn": "yongqiao",
+  "cityZh": "\u57c7\u6865"
+}, {
+  "id": "CN101220801",
+  "cityEn": "fuyang",
+  "cityZh": "\u961c\u9633"
+}, {
+  "id": "CN101220802",
+  "cityEn": "funan",
+  "cityZh": "\u961c\u5357"
+}, {
+  "id": "CN101220803",
+  "cityEn": "yingshang",
+  "cityZh": "\u988d\u4e0a"
+}, {
+  "id": "CN101220804",
+  "cityEn": "linquan",
+  "cityZh": "\u4e34\u6cc9"
+}, {
+  "id": "CN101220805",
+  "cityEn": "jieshou",
+  "cityZh": "\u754c\u9996"
+}, {
+  "id": "CN101220806",
+  "cityEn": "taihe",
+  "cityZh": "\u592a\u548c"
+}, {
+  "id": "CN101220807",
+  "cityEn": "yingzhou",
+  "cityZh": "\u988d\u5dde"
+}, {
+  "id": "CN101220808",
+  "cityEn": "yingdong",
+  "cityZh": "\u988d\u4e1c"
+}, {
+  "id": "CN101220809",
+  "cityEn": "yingquan",
+  "cityZh": "\u988d\u6cc9"
+}, {
+  "id": "CN101220901",
+  "cityEn": "bozhou",
+  "cityZh": "\u4eb3\u5dde"
+}, {
+  "id": "CN101220902",
+  "cityEn": "guoyang",
+  "cityZh": "\u6da1\u9633"
+}, {
+  "id": "CN101220903",
+  "cityEn": "lixin",
+  "cityZh": "\u5229\u8f9b"
+}, {
+  "id": "CN101220904",
+  "cityEn": "mengcheng",
+  "cityZh": "\u8499\u57ce"
+}, {
+  "id": "CN101220905",
+  "cityEn": "qiaocheng",
+  "cityZh": "\u8c2f\u57ce"
+}, {
+  "id": "CN101221001",
+  "cityEn": "huangshan",
+  "cityZh": "\u9ec4\u5c71"
+}, {
+  "id": "CN101221002",
+  "cityEn": "huangshanqu",
+  "cityZh": "\u9ec4\u5c71\u533a"
+}, {
+  "id": "CN101221003",
+  "cityEn": "tunxi",
+  "cityZh": "\u5c6f\u6eaa"
+}, {
+  "id": "CN101221004",
+  "cityEn": "qimen",
+  "cityZh": "\u7941\u95e8"
+}, {
+  "id": "CN101221005",
+  "cityEn": "yixian",
+  "cityZh": "\u9edf\u53bf"
+}, {
+  "id": "CN101221006",
+  "cityEn": "shexian",
+  "cityZh": "\u6b59\u53bf"
+}, {
+  "id": "CN101221007",
+  "cityEn": "xiuning",
+  "cityZh": "\u4f11\u5b81"
+}, {
+  "id": "CN101221009",
+  "cityEn": "huizhou",
+  "cityZh": "\u5fbd\u5dde"
+}, {
+  "id": "CN101221101",
+  "cityEn": "chuzhou",
+  "cityZh": "\u6ec1\u5dde"
+}, {
+  "id": "CN101221102",
+  "cityEn": "fengyang",
+  "cityZh": "\u51e4\u9633"
+}, {
+  "id": "CN101221103",
+  "cityEn": "mingguang",
+  "cityZh": "\u660e\u5149"
+}, {
+  "id": "CN101221104",
+  "cityEn": "dingyuan",
+  "cityZh": "\u5b9a\u8fdc"
+}, {
+  "id": "CN101221105",
+  "cityEn": "quanjiao",
+  "cityZh": "\u5168\u6912"
+}, {
+  "id": "CN101221106",
+  "cityEn": "laian",
+  "cityZh": "\u6765\u5b89"
+}, {
+  "id": "CN101221107",
+  "cityEn": "tianchang",
+  "cityZh": "\u5929\u957f"
+}, {
+  "id": "CN101221108",
+  "cityEn": "langya",
+  "cityZh": "\u7405\u740a"
+}, {
+  "id": "CN101221109",
+  "cityEn": "nanqiao",
+  "cityZh": "\u5357\u8c2f"
+}, {
+  "id": "CN101221201",
+  "cityEn": "huaibei",
+  "cityZh": "\u6dee\u5317"
+}, {
+  "id": "CN101221202",
+  "cityEn": "suixi",
+  "cityZh": "\u6fc9\u6eaa"
+}, {
+  "id": "CN101221203",
+  "cityEn": "duji",
+  "cityZh": "\u675c\u96c6"
+}, {
+  "id": "CN101221204",
+  "cityEn": "xiangshan",
+  "cityZh": "\u76f8\u5c71"
+}, {
+  "id": "CN101221205",
+  "cityEn": "lieshan",
+  "cityZh": "\u70c8\u5c71"
+}, {
+  "id": "CN101221301",
+  "cityEn": "tongling",
+  "cityZh": "\u94dc\u9675"
+}, {
+  "id": "CN101221302",
+  "cityEn": "tongguan",
+  "cityZh": "\u94dc\u5b98"
+}, {
+  "id": "CN101221303",
+  "cityEn": "yian",
+  "cityZh": "\u4e49\u5b89"
+}, {
+  "id": "CN101221304",
+  "cityEn": "jiaoqu",
+  "cityZh": "\u90ca\u533a"
+}, {
+  "id": "CN101221305",
+  "cityEn": "zongyang",
+  "cityZh": "\u679e\u9633"
+}, {
+  "id": "CN101221401",
+  "cityEn": "xuancheng",
+  "cityZh": "\u5ba3\u57ce"
+}, {
+  "id": "CN101221402",
+  "cityEn": "jingxian",
+  "cityZh": "\u6cfe\u53bf"
+}, {
+  "id": "CN101221403",
+  "cityEn": "jingde",
+  "cityZh": "\u65cc\u5fb7"
+}, {
+  "id": "CN101221404",
+  "cityEn": "ningguo",
+  "cityZh": "\u5b81\u56fd"
+}, {
+  "id": "CN101221405",
+  "cityEn": "jixi",
+  "cityZh": "\u7ee9\u6eaa"
+}, {
+  "id": "CN101221406",
+  "cityEn": "guangde",
+  "cityZh": "\u5e7f\u5fb7"
+}, {
+  "id": "CN101221407",
+  "cityEn": "langxi",
+  "cityZh": "\u90ce\u6eaa"
+}, {
+  "id": "CN101221408",
+  "cityEn": "xuanzhou",
+  "cityZh": "\u5ba3\u5dde"
+}, {
+  "id": "CN101221501",
+  "cityEn": "luan",
+  "cityZh": "\u516d\u5b89"
+}, {
+  "id": "CN101221502",
+  "cityEn": "huoqiu",
+  "cityZh": "\u970d\u90b1"
+}, {
+  "id": "CN101221504",
+  "cityEn": "jinan",
+  "cityZh": "\u91d1\u5b89"
+}, {
+  "id": "CN101221505",
+  "cityEn": "jinzhai",
+  "cityZh": "\u91d1\u5be8"
+}, {
+  "id": "CN101221506",
+  "cityEn": "huoshan",
+  "cityZh": "\u970d\u5c71"
+}, {
+  "id": "CN101221507",
+  "cityEn": "shucheng",
+  "cityZh": "\u8212\u57ce"
+}, {
+  "id": "CN101221508",
+  "cityEn": "yuan",
+  "cityZh": "\u88d5\u5b89"
+}, {
+  "id": "CN101221509",
+  "cityEn": "yeji",
+  "cityZh": "\u53f6\u96c6"
+}, {
+  "id": "CN101221701",
+  "cityEn": "chizhou",
+  "cityZh": "\u6c60\u5dde"
+}, {
+  "id": "CN101221702",
+  "cityEn": "dongzhi",
+  "cityZh": "\u4e1c\u81f3"
+}, {
+  "id": "CN101221703",
+  "cityEn": "qingyang",
+  "cityZh": "\u9752\u9633"
+}, {
+  "id": "CN101221704",
+  "cityEn": "jiuhuashan",
+  "cityZh": "\u4e5d\u534e\u5c71"
+}, {
+  "id": "CN101221705",
+  "cityEn": "shitai",
+  "cityZh": "\u77f3\u53f0"
+}, {
+  "id": "CN101221706",
+  "cityEn": "guichi",
+  "cityZh": "\u8d35\u6c60"
+}, {
+  "id": "CN101230101",
+  "cityEn": "fuzhou",
+  "cityZh": "\u798f\u5dde"
+}, {
+  "id": "CN101230102",
+  "cityEn": "minqing",
+  "cityZh": "\u95fd\u6e05"
+}, {
+  "id": "CN101230103",
+  "cityEn": "minhou",
+  "cityZh": "\u95fd\u4faf"
+}, {
+  "id": "CN101230104",
+  "cityEn": "luoyuan",
+  "cityZh": "\u7f57\u6e90"
+}, {
+  "id": "CN101230105",
+  "cityEn": "lianjiang",
+  "cityZh": "\u8fde\u6c5f"
+}, {
+  "id": "CN101230106",
+  "cityEn": "gulou",
+  "cityZh": "\u9f13\u697c"
+}, {
+  "id": "CN101230107",
+  "cityEn": "yongtai",
+  "cityZh": "\u6c38\u6cf0"
+}, {
+  "id": "CN101230108",
+  "cityEn": "pingtan",
+  "cityZh": "\u5e73\u6f6d"
+}, {
+  "id": "CN101230109",
+  "cityEn": "taijiang",
+  "cityZh": "\u53f0\u6c5f"
+}, {
+  "id": "CN101230110",
+  "cityEn": "changle",
+  "cityZh": "\u957f\u4e50"
+}, {
+  "id": "CN101230111",
+  "cityEn": "fuqing",
+  "cityZh": "\u798f\u6e05"
+}, {
+  "id": "CN101230112",
+  "cityEn": "cangshan",
+  "cityZh": "\u4ed3\u5c71"
+}, {
+  "id": "CN101230113",
+  "cityEn": "mawei",
+  "cityZh": "\u9a6c\u5c3e"
+}, {
+  "id": "CN101230114",
+  "cityEn": "jinan",
+  "cityZh": "\u664b\u5b89"
+}, {
+  "id": "CN101230201",
+  "cityEn": "xiamen",
+  "cityZh": "\u53a6\u95e8"
+}, {
+  "id": "CN101230202",
+  "cityEn": "tongan",
+  "cityZh": "\u540c\u5b89"
+}, {
+  "id": "CN101230203",
+  "cityEn": "siming",
+  "cityZh": "\u601d\u660e"
+}, {
+  "id": "CN101230204",
+  "cityEn": "haicang",
+  "cityZh": "\u6d77\u6ca7"
+}, {
+  "id": "CN101230205",
+  "cityEn": "huli",
+  "cityZh": "\u6e56\u91cc"
+}, {
+  "id": "CN101230206",
+  "cityEn": "jimei",
+  "cityZh": "\u96c6\u7f8e"
+}, {
+  "id": "CN101230207",
+  "cityEn": "xiangan",
+  "cityZh": "\u7fd4\u5b89"
+}, {
+  "id": "CN101230301",
+  "cityEn": "ningde",
+  "cityZh": "\u5b81\u5fb7"
+}, {
+  "id": "CN101230302",
+  "cityEn": "gutian",
+  "cityZh": "\u53e4\u7530"
+}, {
+  "id": "CN101230303",
+  "cityEn": "xiapu",
+  "cityZh": "\u971e\u6d66"
+}, {
+  "id": "CN101230304",
+  "cityEn": "shouning",
+  "cityZh": "\u5bff\u5b81"
+}, {
+  "id": "CN101230305",
+  "cityEn": "zhouning",
+  "cityZh": "\u5468\u5b81"
+}, {
+  "id": "CN101230306",
+  "cityEn": "fuan",
+  "cityZh": "\u798f\u5b89"
+}, {
+  "id": "CN101230307",
+  "cityEn": "zherong",
+  "cityZh": "\u67d8\u8363"
+}, {
+  "id": "CN101230308",
+  "cityEn": "fuding",
+  "cityZh": "\u798f\u9f0e"
+}, {
+  "id": "CN101230309",
+  "cityEn": "pingnan",
+  "cityZh": "\u5c4f\u5357"
+}, {
+  "id": "CN101230310",
+  "cityEn": "jiaocheng",
+  "cityZh": "\u8549\u57ce"
+}, {
+  "id": "CN101230401",
+  "cityEn": "putian",
+  "cityZh": "\u8386\u7530"
+}, {
+  "id": "CN101230402",
+  "cityEn": "xianyou",
+  "cityZh": "\u4ed9\u6e38"
+}, {
+  "id": "CN101230404",
+  "cityEn": "hanjiang",
+  "cityZh": "\u6db5\u6c5f"
+}, {
+  "id": "CN101230405",
+  "cityEn": "xiuyu",
+  "cityZh": "\u79c0\u5c7f"
+}, {
+  "id": "CN101230406",
+  "cityEn": "licheng",
+  "cityZh": "\u8354\u57ce"
+}, {
+  "id": "CN101230407",
+  "cityEn": "chengxiang",
+  "cityZh": "\u57ce\u53a2"
+}, {
+  "id": "CN101230501",
+  "cityEn": "quanzhou",
+  "cityZh": "\u6cc9\u5dde"
+}, {
+  "id": "CN101230502",
+  "cityEn": "anxi",
+  "cityZh": "\u5b89\u6eaa"
+}, {
+  "id": "CN101230503",
+  "cityEn": "jinmen",
+  "cityZh": "\u91d1\u95e8"
+}, {
+  "id": "CN101230504",
+  "cityEn": "yongchun",
+  "cityZh": "\u6c38\u6625"
+}, {
+  "id": "CN101230505",
+  "cityEn": "dehua",
+  "cityZh": "\u5fb7\u5316"
+}, {
+  "id": "CN101230506",
+  "cityEn": "nanan",
+  "cityZh": "\u5357\u5b89"
+}, {
+  "id": "CN101230508",
+  "cityEn": "huian",
+  "cityZh": "\u60e0\u5b89"
+}, {
+  "id": "CN101230509",
+  "cityEn": "jinjiang",
+  "cityZh": "\u664b\u6c5f"
+}, {
+  "id": "CN101230510",
+  "cityEn": "shishi",
+  "cityZh": "\u77f3\u72ee"
+}, {
+  "id": "CN101230511",
+  "cityEn": "licheng",
+  "cityZh": "\u9ca4\u57ce"
+}, {
+  "id": "CN101230512",
+  "cityEn": "fengze",
+  "cityZh": "\u4e30\u6cfd"
+}, {
+  "id": "CN101230513",
+  "cityEn": "luojiang",
+  "cityZh": "\u6d1b\u6c5f"
+}, {
+  "id": "CN101230514",
+  "cityEn": "quangang",
+  "cityZh": "\u6cc9\u6e2f"
+}, {
+  "id": "CN101230601",
+  "cityEn": "zhangzhou",
+  "cityZh": "\u6f33\u5dde"
+}, {
+  "id": "CN101230602",
+  "cityEn": "changtai",
+  "cityZh": "\u957f\u6cf0"
+}, {
+  "id": "CN101230603",
+  "cityEn": "nanjing",
+  "cityZh": "\u5357\u9756"
+}, {
+  "id": "CN101230604",
+  "cityEn": "pinghe",
+  "cityZh": "\u5e73\u548c"
+}, {
+  "id": "CN101230605",
+  "cityEn": "longhai",
+  "cityZh": "\u9f99\u6d77"
+}, {
+  "id": "CN101230606",
+  "cityEn": "zhangpu",
+  "cityZh": "\u6f33\u6d66"
+}, {
+  "id": "CN101230607",
+  "cityEn": "zhaoan",
+  "cityZh": "\u8bcf\u5b89"
+}, {
+  "id": "CN101230608",
+  "cityEn": "dongshan",
+  "cityZh": "\u4e1c\u5c71"
+}, {
+  "id": "CN101230609",
+  "cityEn": "yunxiao",
+  "cityZh": "\u4e91\u9704"
+}, {
+  "id": "CN101230610",
+  "cityEn": "huaan",
+  "cityZh": "\u534e\u5b89"
+}, {
+  "id": "CN101230611",
+  "cityEn": "xiangcheng",
+  "cityZh": "\u8297\u57ce"
+}, {
+  "id": "CN101230612",
+  "cityEn": "longwen",
+  "cityZh": "\u9f99\u6587"
+}, {
+  "id": "CN101230701",
+  "cityEn": "longyan",
+  "cityZh": "\u9f99\u5ca9"
+}, {
+  "id": "CN101230702",
+  "cityEn": "changting",
+  "cityZh": "\u957f\u6c40"
+}, {
+  "id": "CN101230703",
+  "cityEn": "liancheng",
+  "cityZh": "\u8fde\u57ce"
+}, {
+  "id": "CN101230704",
+  "cityEn": "wuping",
+  "cityZh": "\u6b66\u5e73"
+}, {
+  "id": "CN101230705",
+  "cityEn": "shanghang",
+  "cityZh": "\u4e0a\u676d"
+}, {
+  "id": "CN101230706",
+  "cityEn": "yongding",
+  "cityZh": "\u6c38\u5b9a"
+}, {
+  "id": "CN101230707",
+  "cityEn": "zhangping",
+  "cityZh": "\u6f33\u5e73"
+}, {
+  "id": "CN101230708",
+  "cityEn": "xinluo",
+  "cityZh": "\u65b0\u7f57"
+}, {
+  "id": "CN101230801",
+  "cityEn": "sanming",
+  "cityZh": "\u4e09\u660e"
+}, {
+  "id": "CN101230802",
+  "cityEn": "ninghua",
+  "cityZh": "\u5b81\u5316"
+}, {
+  "id": "CN101230803",
+  "cityEn": "qingliu",
+  "cityZh": "\u6e05\u6d41"
+}, {
+  "id": "CN101230804",
+  "cityEn": "taining",
+  "cityZh": "\u6cf0\u5b81"
+}, {
+  "id": "CN101230805",
+  "cityEn": "jiangle",
+  "cityZh": "\u5c06\u4e50"
+}, {
+  "id": "CN101230806",
+  "cityEn": "jianning",
+  "cityZh": "\u5efa\u5b81"
+}, {
+  "id": "CN101230807",
+  "cityEn": "mingxi",
+  "cityZh": "\u660e\u6eaa"
+}, {
+  "id": "CN101230808",
+  "cityEn": "shaxian",
+  "cityZh": "\u6c99\u53bf"
+}, {
+  "id": "CN101230809",
+  "cityEn": "youxi",
+  "cityZh": "\u5c24\u6eaa"
+}, {
+  "id": "CN101230810",
+  "cityEn": "yongan",
+  "cityZh": "\u6c38\u5b89"
+}, {
+  "id": "CN101230811",
+  "cityEn": "datian",
+  "cityZh": "\u5927\u7530"
+}, {
+  "id": "CN101230812",
+  "cityEn": "meilie",
+  "cityZh": "\u6885\u5217"
+}, {
+  "id": "CN101230813",
+  "cityEn": "sanyuan",
+  "cityZh": "\u4e09\u5143"
+}, {
+  "id": "CN101230901",
+  "cityEn": "nanping",
+  "cityZh": "\u5357\u5e73"
+}, {
+  "id": "CN101230902",
+  "cityEn": "shunchang",
+  "cityZh": "\u987a\u660c"
+}, {
+  "id": "CN101230903",
+  "cityEn": "guangze",
+  "cityZh": "\u5149\u6cfd"
+}, {
+  "id": "CN101230904",
+  "cityEn": "shaowu",
+  "cityZh": "\u90b5\u6b66"
+}, {
+  "id": "CN101230905",
+  "cityEn": "wuyishan",
+  "cityZh": "\u6b66\u5937\u5c71"
+}, {
+  "id": "CN101230906",
+  "cityEn": "pucheng",
+  "cityZh": "\u6d66\u57ce"
+}, {
+  "id": "CN101230907",
+  "cityEn": "jianyang",
+  "cityZh": "\u5efa\u9633"
+}, {
+  "id": "CN101230908",
+  "cityEn": "songxi",
+  "cityZh": "\u677e\u6eaa"
+}, {
+  "id": "CN101230909",
+  "cityEn": "zhenghe",
+  "cityZh": "\u653f\u548c"
+}, {
+  "id": "CN101230910",
+  "cityEn": "jianou",
+  "cityZh": "\u5efa\u74ef"
+}, {
+  "id": "CN101230911",
+  "cityEn": "yanping",
+  "cityZh": "\u5ef6\u5e73"
+}, {
+  "id": "CN101231001",
+  "cityEn": "diaoyudao",
+  "cityZh": "\u9493\u9c7c\u5c9b"
+}, {
+  "id": "CN101240101",
+  "cityEn": "nanchang",
+  "cityZh": "\u5357\u660c"
+}, {
+  "id": "CN101240102",
+  "cityEn": "xinjian",
+  "cityZh": "\u65b0\u5efa"
+}, {
+  "id": "CN101240103",
+  "cityEn": "nanchangxian",
+  "cityZh": "\u5357\u660c\u53bf"
+}, {
+  "id": "CN101240104",
+  "cityEn": "anyi",
+  "cityZh": "\u5b89\u4e49"
+}, {
+  "id": "CN101240105",
+  "cityEn": "jinxian",
+  "cityZh": "\u8fdb\u8d24"
+}, {
+  "id": "CN101240106",
+  "cityEn": "donghu",
+  "cityZh": "\u4e1c\u6e56"
+}, {
+  "id": "CN101240107",
+  "cityEn": "xihu",
+  "cityZh": "\u897f\u6e56"
+}, {
+  "id": "CN101240108",
+  "cityEn": "qingyunpu",
+  "cityZh": "\u9752\u4e91\u8c31"
+}, {
+  "id": "CN101240109",
+  "cityEn": "wanli",
+  "cityZh": "\u6e7e\u91cc"
+}, {
+  "id": "CN101240110",
+  "cityEn": "qingshanhu",
+  "cityZh": "\u9752\u5c71\u6e56"
+}, {
+  "id": "CN101240201",
+  "cityEn": "jiujiang",
+  "cityZh": "\u4e5d\u6c5f"
+}, {
+  "id": "CN101240202",
+  "cityEn": "ruichang",
+  "cityZh": "\u745e\u660c"
+}, {
+  "id": "CN101240203",
+  "cityEn": "lushan",
+  "cityZh": "\u5e90\u5c71"
+}, {
+  "id": "CN101240204",
+  "cityEn": "wuning",
+  "cityZh": "\u6b66\u5b81"
+}, {
+  "id": "CN101240205",
+  "cityEn": "dean",
+  "cityZh": "\u5fb7\u5b89"
+}, {
+  "id": "CN101240206",
+  "cityEn": "yongxiu",
+  "cityZh": "\u6c38\u4fee"
+}, {
+  "id": "CN101240207",
+  "cityEn": "hukou",
+  "cityZh": "\u6e56\u53e3"
+}, {
+  "id": "CN101240208",
+  "cityEn": "pengze",
+  "cityZh": "\u5f6d\u6cfd"
+}, {
+  "id": "CN101240209",
+  "cityEn": "xingzi",
+  "cityZh": "\u661f\u5b50"
+}, {
+  "id": "CN101240210",
+  "cityEn": "duchang",
+  "cityZh": "\u90fd\u660c"
+}, {
+  "id": "CN101240211",
+  "cityEn": "xunyang",
+  "cityZh": "\u6d54\u9633"
+}, {
+  "id": "CN101240212",
+  "cityEn": "xiushui",
+  "cityZh": "\u4fee\u6c34"
+}, {
+  "id": "CN101240213",
+  "cityEn": "gongqingcheng",
+  "cityZh": "\u5171\u9752\u57ce"
+}, {
+  "id": "CN101240301",
+  "cityEn": "shangrao",
+  "cityZh": "\u4e0a\u9976"
+}, {
+  "id": "CN101240302",
+  "cityEn": "poyang",
+  "cityZh": "\u9131\u9633"
+}, {
+  "id": "CN101240303",
+  "cityEn": "wuyuan",
+  "cityZh": "\u5a7a\u6e90"
+}, {
+  "id": "CN101240304",
+  "cityEn": "xinzhou",
+  "cityZh": "\u4fe1\u5dde"
+}, {
+  "id": "CN101240305",
+  "cityEn": "yugan",
+  "cityZh": "\u4f59\u5e72"
+}, {
+  "id": "CN101240306",
+  "cityEn": "wannian",
+  "cityZh": "\u4e07\u5e74"
+}, {
+  "id": "CN101240307",
+  "cityEn": "dexing",
+  "cityZh": "\u5fb7\u5174"
+}, {
+  "id": "CN101240308",
+  "cityEn": "shangraoxian",
+  "cityZh": "\u4e0a\u9976\u53bf"
+}, {
+  "id": "CN101240309",
+  "cityEn": "yiyang",
+  "cityZh": "\u5f0b\u9633"
+}, {
+  "id": "CN101240310",
+  "cityEn": "hengfeng",
+  "cityZh": "\u6a2a\u5cf0"
+}, {
+  "id": "CN101240311",
+  "cityEn": "yanshan",
+  "cityZh": "\u94c5\u5c71"
+}, {
+  "id": "CN101240312",
+  "cityEn": "yushan",
+  "cityZh": "\u7389\u5c71"
+}, {
+  "id": "CN101240313",
+  "cityEn": "guangfeng",
+  "cityZh": "\u5e7f\u4e30"
+}, {
+  "id": "CN101240401",
+  "cityEn": "fuzhou",
+  "cityZh": "\u629a\u5dde"
+}, {
+  "id": "CN101240402",
+  "cityEn": "guangchang",
+  "cityZh": "\u5e7f\u660c"
+}, {
+  "id": "CN101240403",
+  "cityEn": "anle",
+  "cityZh": "\u4e50\u5b89"
+}, {
+  "id": "CN101240404",
+  "cityEn": "chongren",
+  "cityZh": "\u5d07\u4ec1"
+}, {
+  "id": "CN101240405",
+  "cityEn": "jinxi",
+  "cityZh": "\u91d1\u6eaa"
+}, {
+  "id": "CN101240406",
+  "cityEn": "zixi",
+  "cityZh": "\u8d44\u6eaa"
+}, {
+  "id": "CN101240407",
+  "cityEn": "yihuang",
+  "cityZh": "\u5b9c\u9ec4"
+}, {
+  "id": "CN101240408",
+  "cityEn": "nancheng",
+  "cityZh": "\u5357\u57ce"
+}, {
+  "id": "CN101240409",
+  "cityEn": "nanfeng",
+  "cityZh": "\u5357\u4e30"
+}, {
+  "id": "CN101240410",
+  "cityEn": "lichuan",
+  "cityZh": "\u9ece\u5ddd"
+}, {
+  "id": "CN101240411",
+  "cityEn": "dongxiang",
+  "cityZh": "\u4e1c\u4e61"
+}, {
+  "id": "CN101240412",
+  "cityEn": "linchuan",
+  "cityZh": "\u4e34\u5ddd"
+}, {
+  "id": "CN101240501",
+  "cityEn": "yichun",
+  "cityZh": "\u5b9c\u6625"
+}, {
+  "id": "CN101240502",
+  "cityEn": "tonggu",
+  "cityZh": "\u94dc\u9f13"
+}, {
+  "id": "CN101240503",
+  "cityEn": "yifeng",
+  "cityZh": "\u5b9c\u4e30"
+}, {
+  "id": "CN101240504",
+  "cityEn": "wanzai",
+  "cityZh": "\u4e07\u8f7d"
+}, {
+  "id": "CN101240505",
+  "cityEn": "shanggao",
+  "cityZh": "\u4e0a\u9ad8"
+}, {
+  "id": "CN101240506",
+  "cityEn": "jingan",
+  "cityZh": "\u9756\u5b89"
+}, {
+  "id": "CN101240507",
+  "cityEn": "fengxin",
+  "cityZh": "\u5949\u65b0"
+}, {
+  "id": "CN101240508",
+  "cityEn": "gaoan",
+  "cityZh": "\u9ad8\u5b89"
+}, {
+  "id": "CN101240509",
+  "cityEn": "zhangshu",
+  "cityZh": "\u6a1f\u6811"
+}, {
+  "id": "CN101240510",
+  "cityEn": "fengcheng",
+  "cityZh": "\u4e30\u57ce"
+}, {
+  "id": "CN101240511",
+  "cityEn": "yuanzhou",
+  "cityZh": "\u8881\u5dde"
+}, {
+  "id": "CN101240601",
+  "cityEn": "jian",
+  "cityZh": "\u5409\u5b89"
+}, {
+  "id": "CN101240602",
+  "cityEn": "jianxian",
+  "cityZh": "\u5409\u5b89\u53bf"
+}, {
+  "id": "CN101240603",
+  "cityEn": "jishui",
+  "cityZh": "\u5409\u6c34"
+}, {
+  "id": "CN101240604",
+  "cityEn": "xingan",
+  "cityZh": "\u65b0\u5e72"
+}, {
+  "id": "CN101240605",
+  "cityEn": "xiajiang",
+  "cityZh": "\u5ce1\u6c5f"
+}, {
+  "id": "CN101240606",
+  "cityEn": "yongfeng",
+  "cityZh": "\u6c38\u4e30"
+}, {
+  "id": "CN101240607",
+  "cityEn": "yongxin",
+  "cityZh": "\u6c38\u65b0"
+}, {
+  "id": "CN101240608",
+  "cityEn": "jinggangshan",
+  "cityZh": "\u4e95\u5188\u5c71"
+}, {
+  "id": "CN101240609",
+  "cityEn": "wanan",
+  "cityZh": "\u4e07\u5b89"
+}, {
+  "id": "CN101240610",
+  "cityEn": "suichuan",
+  "cityZh": "\u9042\u5ddd"
+}, {
+  "id": "CN101240611",
+  "cityEn": "taihe",
+  "cityZh": "\u6cf0\u548c"
+}, {
+  "id": "CN101240612",
+  "cityEn": "anfu",
+  "cityZh": "\u5b89\u798f"
+}, {
+  "id": "CN101240614",
+  "cityEn": "jizhou",
+  "cityZh": "\u5409\u5dde"
+}, {
+  "id": "CN101240615",
+  "cityEn": "qingyuan",
+  "cityZh": "\u9752\u539f"
+}, {
+  "id": "CN101240701",
+  "cityEn": "ganzhou",
+  "cityZh": "\u8d63\u5dde"
+}, {
+  "id": "CN101240702",
+  "cityEn": "chongyi",
+  "cityZh": "\u5d07\u4e49"
+}, {
+  "id": "CN101240703",
+  "cityEn": "shangyou",
+  "cityZh": "\u4e0a\u72b9"
+}, {
+  "id": "CN101240704",
+  "cityEn": "nankang",
+  "cityZh": "\u5357\u5eb7"
+}, {
+  "id": "CN101240705",
+  "cityEn": "dayu",
+  "cityZh": "\u5927\u4f59"
+}, {
+  "id": "CN101240706",
+  "cityEn": "xinfeng",
+  "cityZh": "\u4fe1\u4e30"
+}, {
+  "id": "CN101240707",
+  "cityEn": "ningdu",
+  "cityZh": "\u5b81\u90fd"
+}, {
+  "id": "CN101240708",
+  "cityEn": "shicheng",
+  "cityZh": "\u77f3\u57ce"
+}, {
+  "id": "CN101240709",
+  "cityEn": "ruijin",
+  "cityZh": "\u745e\u91d1"
+}, {
+  "id": "CN101240710",
+  "cityEn": "yudu",
+  "cityZh": "\u4e8e\u90fd"
+}, {
+  "id": "CN101240711",
+  "cityEn": "huichang",
+  "cityZh": "\u4f1a\u660c"
+}, {
+  "id": "CN101240712",
+  "cityEn": "anyuan",
+  "cityZh": "\u5b89\u8fdc"
+}, {
+  "id": "CN101240713",
+  "cityEn": "quannan",
+  "cityZh": "\u5168\u5357"
+}, {
+  "id": "CN101240714",
+  "cityEn": "longnan",
+  "cityZh": "\u9f99\u5357"
+}, {
+  "id": "CN101240715",
+  "cityEn": "dingnan",
+  "cityZh": "\u5b9a\u5357"
+}, {
+  "id": "CN101240716",
+  "cityEn": "xunwu",
+  "cityZh": "\u5bfb\u4e4c"
+}, {
+  "id": "CN101240717",
+  "cityEn": "xingguo",
+  "cityZh": "\u5174\u56fd"
+}, {
+  "id": "CN101240718",
+  "cityEn": "ganxian",
+  "cityZh": "\u8d63\u53bf"
+}, {
+  "id": "CN101240719",
+  "cityEn": "zhanggong",
+  "cityZh": "\u7ae0\u8d21"
+}, {
+  "id": "CN101240801",
+  "cityEn": "jingdezhen",
+  "cityZh": "\u666f\u5fb7\u9547"
+}, {
+  "id": "CN101240802",
+  "cityEn": "leping",
+  "cityZh": "\u4e50\u5e73"
+}, {
+  "id": "CN101240803",
+  "cityEn": "fuliang",
+  "cityZh": "\u6d6e\u6881"
+}, {
+  "id": "CN101240804",
+  "cityEn": "changjiang",
+  "cityZh": "\u660c\u6c5f"
+}, {
+  "id": "CN101240805",
+  "cityEn": "zhushan",
+  "cityZh": "\u73e0\u5c71"
+}, {
+  "id": "CN101240901",
+  "cityEn": "pingxiang",
+  "cityZh": "\u840d\u4e61"
+}, {
+  "id": "CN101240902",
+  "cityEn": "lianhua",
+  "cityZh": "\u83b2\u82b1"
+}, {
+  "id": "CN101240903",
+  "cityEn": "shangli",
+  "cityZh": "\u4e0a\u6817"
+}, {
+  "id": "CN101240904",
+  "cityEn": "anyuan",
+  "cityZh": "\u5b89\u6e90"
+}, {
+  "id": "CN101240905",
+  "cityEn": "luxi",
+  "cityZh": "\u82a6\u6eaa"
+}, {
+  "id": "CN101240906",
+  "cityEn": "xiangdong",
+  "cityZh": "\u6e58\u4e1c"
+}, {
+  "id": "CN101241001",
+  "cityEn": "xinyu",
+  "cityZh": "\u65b0\u4f59"
+}, {
+  "id": "CN101241002",
+  "cityEn": "fenyi",
+  "cityZh": "\u5206\u5b9c"
+}, {
+  "id": "CN101241003",
+  "cityEn": "yushui",
+  "cityZh": "\u6e1d\u6c34"
+}, {
+  "id": "CN101241101",
+  "cityEn": "yingtan",
+  "cityZh": "\u9e70\u6f6d"
+}, {
+  "id": "CN101241102",
+  "cityEn": "yujiang",
+  "cityZh": "\u4f59\u6c5f"
+}, {
+  "id": "CN101241103",
+  "cityEn": "guixi",
+  "cityZh": "\u8d35\u6eaa"
+}, {
+  "id": "CN101241104",
+  "cityEn": "yuehu",
+  "cityZh": "\u6708\u6e56"
+}, {
+  "id": "CN101250101",
+  "cityEn": "changsha",
+  "cityZh": "\u957f\u6c99"
+}, {
+  "id": "CN101250102",
+  "cityEn": "ningxiang",
+  "cityZh": "\u5b81\u4e61"
+}, {
+  "id": "CN101250103",
+  "cityEn": "liuyang",
+  "cityZh": "\u6d4f\u9633"
+}, {
+  "id": "CN101250104",
+  "cityEn": "xiangjiangxinqu",
+  "cityZh": "\u6e58\u6c5f\u65b0\u533a"
+}, {
+  "id": "CN101250105",
+  "cityEn": "wangcheng",
+  "cityZh": "\u671b\u57ce"
+}, {
+  "id": "CN101250106",
+  "cityEn": "changshaxian",
+  "cityZh": "\u957f\u6c99\u53bf"
+}, {
+  "id": "CN101250107",
+  "cityEn": "furong",
+  "cityZh": "\u8299\u84c9"
+}, {
+  "id": "CN101250108",
+  "cityEn": "tianxin",
+  "cityZh": "\u5929\u5fc3"
+}, {
+  "id": "CN101250109",
+  "cityEn": "yuelu",
+  "cityZh": "\u5cb3\u9e93"
+}, {
+  "id": "CN101250110",
+  "cityEn": "kaifu",
+  "cityZh": "\u5f00\u798f"
+}, {
+  "id": "CN101250111",
+  "cityEn": "yuhua",
+  "cityZh": "\u96e8\u82b1"
+}, {
+  "id": "CN101250201",
+  "cityEn": "xiangtan",
+  "cityZh": "\u6e58\u6f6d"
+}, {
+  "id": "CN101250202",
+  "cityEn": "shaoshan",
+  "cityZh": "\u97f6\u5c71"
+}, {
+  "id": "CN101250203",
+  "cityEn": "xiangxiang",
+  "cityZh": "\u6e58\u4e61"
+}, {
+  "id": "CN101250204",
+  "cityEn": "yuhu",
+  "cityZh": "\u96e8\u6e56"
+}, {
+  "id": "CN101250205",
+  "cityEn": "yuetang",
+  "cityZh": "\u5cb3\u5858"
+}, {
+  "id": "CN101250301",
+  "cityEn": "zhuzhou",
+  "cityZh": "\u682a\u6d32"
+}, {
+  "id": "CN101250302",
+  "cityEn": "youxian",
+  "cityZh": "\u6538\u53bf"
+}, {
+  "id": "CN101250303",
+  "cityEn": "liling",
+  "cityZh": "\u91b4\u9675"
+}, {
+  "id": "CN101250304",
+  "cityEn": "hetang",
+  "cityZh": "\u8377\u5858"
+}, {
+  "id": "CN101250305",
+  "cityEn": "chaling",
+  "cityZh": "\u8336\u9675"
+}, {
+  "id": "CN101250306",
+  "cityEn": "yanling",
+  "cityZh": "\u708e\u9675"
+}, {
+  "id": "CN101250307",
+  "cityEn": "lusong",
+  "cityZh": "\u82a6\u6dde"
+}, {
+  "id": "CN101250308",
+  "cityEn": "shifeng",
+  "cityZh": "\u77f3\u5cf0"
+}, {
+  "id": "CN101250309",
+  "cityEn": "tianyuan",
+  "cityZh": "\u5929\u5143"
+}, {
+  "id": "CN101250401",
+  "cityEn": "hengyang",
+  "cityZh": "\u8861\u9633"
+}, {
+  "id": "CN101250402",
+  "cityEn": "hengshan",
+  "cityZh": "\u8861\u5c71"
+}, {
+  "id": "CN101250403",
+  "cityEn": "hengdong",
+  "cityZh": "\u8861\u4e1c"
+}, {
+  "id": "CN101250404",
+  "cityEn": "qidong",
+  "cityZh": "\u7941\u4e1c"
+}, {
+  "id": "CN101250405",
+  "cityEn": "hengyangxian",
+  "cityZh": "\u8861\u9633\u53bf"
+}, {
+  "id": "CN101250406",
+  "cityEn": "changning",
+  "cityZh": "\u5e38\u5b81"
+}, {
+  "id": "CN101250407",
+  "cityEn": "hengnan",
+  "cityZh": "\u8861\u5357"
+}, {
+  "id": "CN101250408",
+  "cityEn": "leiyang",
+  "cityZh": "\u8012\u9633"
+}, {
+  "id": "CN101250409",
+  "cityEn": "nanyue",
+  "cityZh": "\u5357\u5cb3"
+}, {
+  "id": "CN101250410",
+  "cityEn": "zhuhui",
+  "cityZh": "\u73e0\u6656"
+}, {
+  "id": "CN101250411",
+  "cityEn": "yanfeng",
+  "cityZh": "\u96c1\u5cf0"
+}, {
+  "id": "CN101250412",
+  "cityEn": "shigu",
+  "cityZh": "\u77f3\u9f13"
+}, {
+  "id": "CN101250413",
+  "cityEn": "zhengxiang",
+  "cityZh": "\u84b8\u6e58"
+}, {
+  "id": "CN101250501",
+  "cityEn": "chenzhou",
+  "cityZh": "\u90f4\u5dde"
+}, {
+  "id": "CN101250502",
+  "cityEn": "guiyang",
+  "cityZh": "\u6842\u9633"
+}, {
+  "id": "CN101250503",
+  "cityEn": "jiahe",
+  "cityZh": "\u5609\u79be"
+}, {
+  "id": "CN101250504",
+  "cityEn": "yizhang",
+  "cityZh": "\u5b9c\u7ae0"
+}, {
+  "id": "CN101250505",
+  "cityEn": "linwu",
+  "cityZh": "\u4e34\u6b66"
+}, {
+  "id": "CN101250506",
+  "cityEn": "beihu",
+  "cityZh": "\u5317\u6e56"
+}, {
+  "id": "CN101250507",
+  "cityEn": "zixing",
+  "cityZh": "\u8d44\u5174"
+}, {
+  "id": "CN101250508",
+  "cityEn": "rucheng",
+  "cityZh": "\u6c5d\u57ce"
+}, {
+  "id": "CN101250509",
+  "cityEn": "anren",
+  "cityZh": "\u5b89\u4ec1"
+}, {
+  "id": "CN101250510",
+  "cityEn": "yongxing",
+  "cityZh": "\u6c38\u5174"
+}, {
+  "id": "CN101250511",
+  "cityEn": "guidong",
+  "cityZh": "\u6842\u4e1c"
+}, {
+  "id": "CN101250512",
+  "cityEn": "suxian",
+  "cityZh": "\u82cf\u4ed9"
+}, {
+  "id": "CN101250601",
+  "cityEn": "changde",
+  "cityZh": "\u5e38\u5fb7"
+}, {
+  "id": "CN101250602",
+  "cityEn": "anxiang",
+  "cityZh": "\u5b89\u4e61"
+}, {
+  "id": "CN101250603",
+  "cityEn": "taoyuan",
+  "cityZh": "\u6843\u6e90"
+}, {
+  "id": "CN101250604",
+  "cityEn": "hanshou",
+  "cityZh": "\u6c49\u5bff"
+}, {
+  "id": "CN101250605",
+  "cityEn": "lixian",
+  "cityZh": "\u6fa7\u53bf"
+}, {
+  "id": "CN101250606",
+  "cityEn": "linli",
+  "cityZh": "\u4e34\u6fa7"
+}, {
+  "id": "CN101250607",
+  "cityEn": "shimen",
+  "cityZh": "\u77f3\u95e8"
+}, {
+  "id": "CN101250608",
+  "cityEn": "jinshi",
+  "cityZh": "\u6d25\u5e02"
+}, {
+  "id": "CN101250609",
+  "cityEn": "wuling",
+  "cityZh": "\u6b66\u9675"
+}, {
+  "id": "CN101250610",
+  "cityEn": "dingcheng",
+  "cityZh": "\u9f0e\u57ce"
+}, {
+  "id": "CN101250700",
+  "cityEn": "yiyang",
+  "cityZh": "\u76ca\u9633"
+}, {
+  "id": "CN101250701",
+  "cityEn": "heshanqu",
+  "cityZh": "\u8d6b\u5c71\u533a"
+}, {
+  "id": "CN101250702",
+  "cityEn": "nanxian",
+  "cityZh": "\u5357\u53bf"
+}, {
+  "id": "CN101250703",
+  "cityEn": "taojiang",
+  "cityZh": "\u6843\u6c5f"
+}, {
+  "id": "CN101250704",
+  "cityEn": "anhua",
+  "cityZh": "\u5b89\u5316"
+}, {
+  "id": "CN101250705",
+  "cityEn": "yuanjiang",
+  "cityZh": "\u6c85\u6c5f"
+}, {
+  "id": "CN101250706",
+  "cityEn": "ziyang",
+  "cityZh": "\u8d44\u9633"
+}, {
+  "id": "CN101250801",
+  "cityEn": "loudi",
+  "cityZh": "\u5a04\u5e95"
+}, {
+  "id": "CN101250802",
+  "cityEn": "shuangfeng",
+  "cityZh": "\u53cc\u5cf0"
+}, {
+  "id": "CN101250803",
+  "cityEn": "lengshuijiang",
+  "cityZh": "\u51b7\u6c34\u6c5f"
+}, {
+  "id": "CN101250804",
+  "cityEn": "louxing",
+  "cityZh": "\u5a04\u661f"
+}, {
+  "id": "CN101250805",
+  "cityEn": "xinhua",
+  "cityZh": "\u65b0\u5316"
+}, {
+  "id": "CN101250806",
+  "cityEn": "lianyuan",
+  "cityZh": "\u6d9f\u6e90"
+}, {
+  "id": "CN101250901",
+  "cityEn": "shaoyang",
+  "cityZh": "\u90b5\u9633"
+}, {
+  "id": "CN101250902",
+  "cityEn": "longhui",
+  "cityZh": "\u9686\u56de"
+}, {
+  "id": "CN101250903",
+  "cityEn": "dongkou",
+  "cityZh": "\u6d1e\u53e3"
+}, {
+  "id": "CN101250904",
+  "cityEn": "xinshao",
+  "cityZh": "\u65b0\u90b5"
+}, {
+  "id": "CN101250905",
+  "cityEn": "shaodong",
+  "cityZh": "\u90b5\u4e1c"
+}, {
+  "id": "CN101250906",
+  "cityEn": "suining",
+  "cityZh": "\u7ee5\u5b81"
+}, {
+  "id": "CN101250907",
+  "cityEn": "xinning",
+  "cityZh": "\u65b0\u5b81"
+}, {
+  "id": "CN101250908",
+  "cityEn": "wugang",
+  "cityZh": "\u6b66\u5188"
+}, {
+  "id": "CN101250909",
+  "cityEn": "chengbu",
+  "cityZh": "\u57ce\u6b65"
+}, {
+  "id": "CN101250910",
+  "cityEn": "shaoyangxian",
+  "cityZh": "\u90b5\u9633\u53bf"
+}, {
+  "id": "CN101250911",
+  "cityEn": "shuangqing",
+  "cityZh": "\u53cc\u6e05"
+}, {
+  "id": "CN101250912",
+  "cityEn": "daxiang",
+  "cityZh": "\u5927\u7965"
+}, {
+  "id": "CN101250913",
+  "cityEn": "beita",
+  "cityZh": "\u5317\u5854"
+}, {
+  "id": "CN101251001",
+  "cityEn": "yueyang",
+  "cityZh": "\u5cb3\u9633"
+}, {
+  "id": "CN101251002",
+  "cityEn": "huarong",
+  "cityZh": "\u534e\u5bb9"
+}, {
+  "id": "CN101251003",
+  "cityEn": "xiangyin",
+  "cityZh": "\u6e58\u9634"
+}, {
+  "id": "CN101251004",
+  "cityEn": "miluo",
+  "cityZh": "\u6c68\u7f57"
+}, {
+  "id": "CN101251005",
+  "cityEn": "pingjiang",
+  "cityZh": "\u5e73\u6c5f"
+}, {
+  "id": "CN101251006",
+  "cityEn": "linxiang",
+  "cityZh": "\u4e34\u6e58"
+}, {
+  "id": "CN101251007",
+  "cityEn": "yueyanglouqu",
+  "cityZh": "\u5cb3\u9633\u697c\u533a"
+}, {
+  "id": "CN101251008",
+  "cityEn": "yunxi",
+  "cityZh": "\u4e91\u6eaa"
+}, {
+  "id": "CN101251009",
+  "cityEn": "junshan",
+  "cityZh": "\u541b\u5c71"
+}, {
+  "id": "CN101251101",
+  "cityEn": "zhangjiajie",
+  "cityZh": "\u5f20\u5bb6\u754c"
+}, {
+  "id": "CN101251102",
+  "cityEn": "sangzhi",
+  "cityZh": "\u6851\u690d"
+}, {
+  "id": "CN101251103",
+  "cityEn": "cili",
+  "cityZh": "\u6148\u5229"
+}, {
+  "id": "CN101251104",
+  "cityEn": "wulingyuan",
+  "cityZh": "\u6b66\u9675\u6e90"
+}, {
+  "id": "CN101251105",
+  "cityEn": "yongding",
+  "cityZh": "\u6c38\u5b9a"
+}, {
+  "id": "CN101251201",
+  "cityEn": "huaihua",
+  "cityZh": "\u6000\u5316"
+}, {
+  "id": "CN101251202",
+  "cityEn": "hecheng",
+  "cityZh": "\u9e64\u57ce"
+}, {
+  "id": "CN101251203",
+  "cityEn": "yuanling",
+  "cityZh": "\u6c85\u9675"
+}, {
+  "id": "CN101251204",
+  "cityEn": "chenxi",
+  "cityZh": "\u8fb0\u6eaa"
+}, {
+  "id": "CN101251205",
+  "cityEn": "jingzhou",
+  "cityZh": "\u9756\u5dde"
+}, {
+  "id": "CN101251206",
+  "cityEn": "huitong",
+  "cityZh": "\u4f1a\u540c"
+}, {
+  "id": "CN101251207",
+  "cityEn": "tongdao",
+  "cityZh": "\u901a\u9053"
+}, {
+  "id": "CN101251208",
+  "cityEn": "mayang",
+  "cityZh": "\u9ebb\u9633"
+}, {
+  "id": "CN101251209",
+  "cityEn": "xinhuang",
+  "cityZh": "\u65b0\u6643"
+}, {
+  "id": "CN101251210",
+  "cityEn": "zhijiang",
+  "cityZh": "\u82b7\u6c5f"
+}, {
+  "id": "CN101251211",
+  "cityEn": "xupu",
+  "cityZh": "\u6e86\u6d66"
+}, {
+  "id": "CN101251212",
+  "cityEn": "zhongfang",
+  "cityZh": "\u4e2d\u65b9"
+}, {
+  "id": "CN101251213",
+  "cityEn": "hongjiang",
+  "cityZh": "\u6d2a\u6c5f"
+}, {
+  "id": "CN101251401",
+  "cityEn": "yongzhou",
+  "cityZh": "\u6c38\u5dde"
+}, {
+  "id": "CN101251402",
+  "cityEn": "qiyang",
+  "cityZh": "\u7941\u9633"
+}, {
+  "id": "CN101251403",
+  "cityEn": "dongan",
+  "cityZh": "\u4e1c\u5b89"
+}, {
+  "id": "CN101251404",
+  "cityEn": "shuangpai",
+  "cityZh": "\u53cc\u724c"
+}, {
+  "id": "CN101251405",
+  "cityEn": "daoxian",
+  "cityZh": "\u9053\u53bf"
+}, {
+  "id": "CN101251406",
+  "cityEn": "ningyuan",
+  "cityZh": "\u5b81\u8fdc"
+}, {
+  "id": "CN101251407",
+  "cityEn": "jiangyong",
+  "cityZh": "\u6c5f\u6c38"
+}, {
+  "id": "CN101251408",
+  "cityEn": "lanshan",
+  "cityZh": "\u84dd\u5c71"
+}, {
+  "id": "CN101251409",
+  "cityEn": "xintian",
+  "cityZh": "\u65b0\u7530"
+}, {
+  "id": "CN101251410",
+  "cityEn": "jianghua",
+  "cityZh": "\u6c5f\u534e"
+}, {
+  "id": "CN101251411",
+  "cityEn": "lengshuitan",
+  "cityZh": "\u51b7\u6c34\u6ee9"
+}, {
+  "id": "CN101251412",
+  "cityEn": "lingling",
+  "cityZh": "\u96f6\u9675"
+}, {
+  "id": "CN101251501",
+  "cityEn": "jishou",
+  "cityZh": "\u5409\u9996"
+}, {
+  "id": "CN101251502",
+  "cityEn": "baojing",
+  "cityZh": "\u4fdd\u9756"
+}, {
+  "id": "CN101251503",
+  "cityEn": "yongshun",
+  "cityZh": "\u6c38\u987a"
+}, {
+  "id": "CN101251504",
+  "cityEn": "guzhang",
+  "cityZh": "\u53e4\u4e08"
+}, {
+  "id": "CN101251505",
+  "cityEn": "fenghuang",
+  "cityZh": "\u51e4\u51f0"
+}, {
+  "id": "CN101251506",
+  "cityEn": "luxi",
+  "cityZh": "\u6cf8\u6eaa"
+}, {
+  "id": "CN101251507",
+  "cityEn": "longshan",
+  "cityZh": "\u9f99\u5c71"
+}, {
+  "id": "CN101251508",
+  "cityEn": "huayuan",
+  "cityZh": "\u82b1\u57a3"
+}, {
+  "id": "CN101251509",
+  "cityEn": "xiangxi",
+  "cityZh": "\u6e58\u897f"
+}, {
+  "id": "CN101260101",
+  "cityEn": "guiyang",
+  "cityZh": "\u8d35\u9633"
+}, {
+  "id": "CN101260102",
+  "cityEn": "baiyun",
+  "cityZh": "\u767d\u4e91"
+}, {
+  "id": "CN101260103",
+  "cityEn": "huaxi",
+  "cityZh": "\u82b1\u6eaa"
+}, {
+  "id": "CN101260104",
+  "cityEn": "wudang",
+  "cityZh": "\u4e4c\u5f53"
+}, {
+  "id": "CN101260105",
+  "cityEn": "xifeng",
+  "cityZh": "\u606f\u70fd"
+}, {
+  "id": "CN101260106",
+  "cityEn": "kaiyang",
+  "cityZh": "\u5f00\u9633"
+}, {
+  "id": "CN101260107",
+  "cityEn": "xiuwen",
+  "cityZh": "\u4fee\u6587"
+}, {
+  "id": "CN101260108",
+  "cityEn": "qingzhen",
+  "cityZh": "\u6e05\u9547"
+}, {
+  "id": "CN101260110",
+  "cityEn": "yunyan",
+  "cityZh": "\u4e91\u5ca9"
+}, {
+  "id": "CN101260111",
+  "cityEn": "nanming",
+  "cityZh": "\u5357\u660e"
+}, {
+  "id": "CN101260112",
+  "cityEn": "guanshanhu",
+  "cityZh": "\u89c2\u5c71\u6e56"
+}, {
+  "id": "CN101260201",
+  "cityEn": "zunyi",
+  "cityZh": "\u9075\u4e49"
+}, {
+  "id": "CN101260202",
+  "cityEn": "zunyixian",
+  "cityZh": "\u9075\u4e49\u53bf"
+}, {
+  "id": "CN101260203",
+  "cityEn": "renhuai",
+  "cityZh": "\u4ec1\u6000"
+}, {
+  "id": "CN101260204",
+  "cityEn": "suiyang",
+  "cityZh": "\u7ee5\u9633"
+}, {
+  "id": "CN101260205",
+  "cityEn": "meitan",
+  "cityZh": "\u6e44\u6f6d"
+}, {
+  "id": "CN101260206",
+  "cityEn": "fenggang",
+  "cityZh": "\u51e4\u5188"
+}, {
+  "id": "CN101260207",
+  "cityEn": "tongzi",
+  "cityZh": "\u6850\u6893"
+}, {
+  "id": "CN101260208",
+  "cityEn": "chishui",
+  "cityZh": "\u8d64\u6c34"
+}, {
+  "id": "CN101260209",
+  "cityEn": "xishui",
+  "cityZh": "\u4e60\u6c34"
+}, {
+  "id": "CN101260210",
+  "cityEn": "daozhen",
+  "cityZh": "\u9053\u771f"
+}, {
+  "id": "CN101260211",
+  "cityEn": "zhengan",
+  "cityZh": "\u6b63\u5b89"
+}, {
+  "id": "CN101260212",
+  "cityEn": "wuchuan",
+  "cityZh": "\u52a1\u5ddd"
+}, {
+  "id": "CN101260213",
+  "cityEn": "yuqing",
+  "cityZh": "\u4f59\u5e86"
+}, {
+  "id": "CN101260214",
+  "cityEn": "huichuan",
+  "cityZh": "\u6c47\u5ddd"
+}, {
+  "id": "CN101260215",
+  "cityEn": "honghuagang",
+  "cityZh": "\u7ea2\u82b1\u5c97"
+}, {
+  "id": "CN101260216",
+  "cityEn": "bozhou",
+  "cityZh": "\u64ad\u5dde"
+}, {
+  "id": "CN101260301",
+  "cityEn": "anshun",
+  "cityZh": "\u5b89\u987a"
+}, {
+  "id": "CN101260302",
+  "cityEn": "puding",
+  "cityZh": "\u666e\u5b9a"
+}, {
+  "id": "CN101260303",
+  "cityEn": "zhenning",
+  "cityZh": "\u9547\u5b81"
+}, {
+  "id": "CN101260304",
+  "cityEn": "pingba",
+  "cityZh": "\u5e73\u575d"
+}, {
+  "id": "CN101260305",
+  "cityEn": "ziyun",
+  "cityZh": "\u7d2b\u4e91"
+}, {
+  "id": "CN101260306",
+  "cityEn": "guanling",
+  "cityZh": "\u5173\u5cad"
+}, {
+  "id": "CN101260307",
+  "cityEn": "xixiu",
+  "cityZh": "\u897f\u79c0"
+}, {
+  "id": "CN101260401",
+  "cityEn": "duyun",
+  "cityZh": "\u90fd\u5300"
+}, {
+  "id": "CN101260402",
+  "cityEn": "guiding",
+  "cityZh": "\u8d35\u5b9a"
+}, {
+  "id": "CN101260403",
+  "cityEn": "wengan",
+  "cityZh": "\u74ee\u5b89"
+}, {
+  "id": "CN101260404",
+  "cityEn": "changshun",
+  "cityZh": "\u957f\u987a"
+}, {
+  "id": "CN101260405",
+  "cityEn": "fuquan",
+  "cityZh": "\u798f\u6cc9"
+}, {
+  "id": "CN101260406",
+  "cityEn": "huishui",
+  "cityZh": "\u60e0\u6c34"
+}, {
+  "id": "CN101260407",
+  "cityEn": "longli",
+  "cityZh": "\u9f99\u91cc"
+}, {
+  "id": "CN101260408",
+  "cityEn": "luodian",
+  "cityZh": "\u7f57\u7538"
+}, {
+  "id": "CN101260409",
+  "cityEn": "pingtang",
+  "cityZh": "\u5e73\u5858"
+}, {
+  "id": "CN101260410",
+  "cityEn": "dushan",
+  "cityZh": "\u72ec\u5c71"
+}, {
+  "id": "CN101260411",
+  "cityEn": "sandu",
+  "cityZh": "\u4e09\u90fd"
+}, {
+  "id": "CN101260412",
+  "cityEn": "libo",
+  "cityZh": "\u8354\u6ce2"
+}, {
+  "id": "CN101260413",
+  "cityEn": "qiannan",
+  "cityZh": "\u9ed4\u5357"
+}, {
+  "id": "CN101260501",
+  "cityEn": "kaili",
+  "cityZh": "\u51ef\u91cc"
+}, {
+  "id": "CN101260502",
+  "cityEn": "cengong",
+  "cityZh": "\u5c91\u5de9"
+}, {
+  "id": "CN101260503",
+  "cityEn": "shibing",
+  "cityZh": "\u65bd\u79c9"
+}, {
+  "id": "CN101260504",
+  "cityEn": "zhenyuan",
+  "cityZh": "\u9547\u8fdc"
+}, {
+  "id": "CN101260505",
+  "cityEn": "huangping",
+  "cityZh": "\u9ec4\u5e73"
+}, {
+  "id": "CN101260506",
+  "cityEn": "qiandongnan",
+  "cityZh": "\u9ed4\u4e1c\u5357"
+}, {
+  "id": "CN101260507",
+  "cityEn": "majiang",
+  "cityZh": "\u9ebb\u6c5f"
+}, {
+  "id": "CN101260508",
+  "cityEn": "danzhai",
+  "cityZh": "\u4e39\u5be8"
+}, {
+  "id": "CN101260509",
+  "cityEn": "sansui",
+  "cityZh": "\u4e09\u7a57"
+}, {
+  "id": "CN101260510",
+  "cityEn": "taijiang",
+  "cityZh": "\u53f0\u6c5f"
+}, {
+  "id": "CN101260511",
+  "cityEn": "jianhe",
+  "cityZh": "\u5251\u6cb3"
+}, {
+  "id": "CN101260512",
+  "cityEn": "leishan",
+  "cityZh": "\u96f7\u5c71"
+}, {
+  "id": "CN101260513",
+  "cityEn": "liping",
+  "cityZh": "\u9ece\u5e73"
+}, {
+  "id": "CN101260514",
+  "cityEn": "tianzhu",
+  "cityZh": "\u5929\u67f1"
+}, {
+  "id": "CN101260515",
+  "cityEn": "jinping",
+  "cityZh": "\u9526\u5c4f"
+}, {
+  "id": "CN101260516",
+  "cityEn": "rongjiang",
+  "cityZh": "\u6995\u6c5f"
+}, {
+  "id": "CN101260517",
+  "cityEn": "congjiang",
+  "cityZh": "\u4ece\u6c5f"
+}, {
+  "id": "CN101260601",
+  "cityEn": "tongren",
+  "cityZh": "\u94dc\u4ec1"
+}, {
+  "id": "CN101260602",
+  "cityEn": "jiangkou",
+  "cityZh": "\u6c5f\u53e3"
+}, {
+  "id": "CN101260603",
+  "cityEn": "yuping",
+  "cityZh": "\u7389\u5c4f"
+}, {
+  "id": "CN101260604",
+  "cityEn": "wanshan",
+  "cityZh": "\u4e07\u5c71"
+}, {
+  "id": "CN101260605",
+  "cityEn": "sinan",
+  "cityZh": "\u601d\u5357"
+}, {
+  "id": "CN101260606",
+  "cityEn": "bijiang",
+  "cityZh": "\u78a7\u6c5f"
+}, {
+  "id": "CN101260607",
+  "cityEn": "yinjiang",
+  "cityZh": "\u5370\u6c5f"
+}, {
+  "id": "CN101260608",
+  "cityEn": "shiqian",
+  "cityZh": "\u77f3\u9621"
+}, {
+  "id": "CN101260609",
+  "cityEn": "yanhe",
+  "cityZh": "\u6cbf\u6cb3"
+}, {
+  "id": "CN101260610",
+  "cityEn": "dejiang",
+  "cityZh": "\u5fb7\u6c5f"
+}, {
+  "id": "CN101260611",
+  "cityEn": "songtao",
+  "cityZh": "\u677e\u6843"
+}, {
+  "id": "CN101260701",
+  "cityEn": "bijie",
+  "cityZh": "\u6bd5\u8282"
+}, {
+  "id": "CN101260702",
+  "cityEn": "hezhang",
+  "cityZh": "\u8d6b\u7ae0"
+}, {
+  "id": "CN101260703",
+  "cityEn": "jinsha",
+  "cityZh": "\u91d1\u6c99"
+}, {
+  "id": "CN101260704",
+  "cityEn": "weining",
+  "cityZh": "\u5a01\u5b81"
+}, {
+  "id": "CN101260705",
+  "cityEn": "dafang",
+  "cityZh": "\u5927\u65b9"
+}, {
+  "id": "CN101260706",
+  "cityEn": "nayong",
+  "cityZh": "\u7eb3\u96cd"
+}, {
+  "id": "CN101260707",
+  "cityEn": "zhijin",
+  "cityZh": "\u7ec7\u91d1"
+}, {
+  "id": "CN101260708",
+  "cityEn": "qianxi",
+  "cityZh": "\u9ed4\u897f"
+}, {
+  "id": "CN101260709",
+  "cityEn": "qixingguan",
+  "cityZh": "\u4e03\u661f\u5173"
+}, {
+  "id": "CN101260801",
+  "cityEn": "shuicheng",
+  "cityZh": "\u6c34\u57ce"
+}, {
+  "id": "CN101260802",
+  "cityEn": "liuzhi",
+  "cityZh": "\u516d\u679d"
+}, {
+  "id": "CN101260803",
+  "cityEn": "liupanshui",
+  "cityZh": "\u516d\u76d8\u6c34"
+}, {
+  "id": "CN101260804",
+  "cityEn": "panxian",
+  "cityZh": "\u76d8\u53bf"
+}, {
+  "id": "CN101260805",
+  "cityEn": "zhongshan",
+  "cityZh": "\u949f\u5c71"
+}, {
+  "id": "CN101260901",
+  "cityEn": "xingyi",
+  "cityZh": "\u5174\u4e49"
+}, {
+  "id": "CN101260902",
+  "cityEn": "qinglong",
+  "cityZh": "\u6674\u9686"
+}, {
+  "id": "CN101260903",
+  "cityEn": "xingren",
+  "cityZh": "\u5174\u4ec1"
+}, {
+  "id": "CN101260904",
+  "cityEn": "zhenfeng",
+  "cityZh": "\u8d1e\u4e30"
+}, {
+  "id": "CN101260905",
+  "cityEn": "wangmo",
+  "cityZh": "\u671b\u8c1f"
+}, {
+  "id": "CN101260906",
+  "cityEn": "qianxinan",
+  "cityZh": "\u9ed4\u897f\u5357"
+}, {
+  "id": "CN101260907",
+  "cityEn": "anlong",
+  "cityZh": "\u5b89\u9f99"
+}, {
+  "id": "CN101260908",
+  "cityEn": "ceheng",
+  "cityZh": "\u518c\u4ea8"
+}, {
+  "id": "CN101260909",
+  "cityEn": "puan",
+  "cityZh": "\u666e\u5b89"
+}, {
+  "id": "CN101270101",
+  "cityEn": "chengdu",
+  "cityZh": "\u6210\u90fd"
+}, {
+  "id": "CN101270102",
+  "cityEn": "longquanyi",
+  "cityZh": "\u9f99\u6cc9\u9a7f"
+}, {
+  "id": "CN101270103",
+  "cityEn": "xindu",
+  "cityZh": "\u65b0\u90fd"
+}, {
+  "id": "CN101270104",
+  "cityEn": "wenjiang",
+  "cityZh": "\u6e29\u6c5f"
+}, {
+  "id": "CN101270105",
+  "cityEn": "jintang",
+  "cityZh": "\u91d1\u5802"
+}, {
+  "id": "CN101270106",
+  "cityEn": "shuangliu",
+  "cityZh": "\u53cc\u6d41"
+}, {
+  "id": "CN101270107",
+  "cityEn": "pixian",
+  "cityZh": "\u90eb\u53bf"
+}, {
+  "id": "CN101270108",
+  "cityEn": "dayi",
+  "cityZh": "\u5927\u9091"
+}, {
+  "id": "CN101270109",
+  "cityEn": "pujiang",
+  "cityZh": "\u84b2\u6c5f"
+}, {
+  "id": "CN101270110",
+  "cityEn": "xinjin",
+  "cityZh": "\u65b0\u6d25"
+}, {
+  "id": "CN101270111",
+  "cityEn": "dujiangyan",
+  "cityZh": "\u90fd\u6c5f\u5830"
+}, {
+  "id": "CN101270112",
+  "cityEn": "pengzhou",
+  "cityZh": "\u5f6d\u5dde"
+}, {
+  "id": "CN101270113",
+  "cityEn": "qionglai",
+  "cityZh": "\u909b\u5d03"
+}, {
+  "id": "CN101270114",
+  "cityEn": "chongzhou",
+  "cityZh": "\u5d07\u5dde"
+}, {
+  "id": "CN101270115",
+  "cityEn": "qingbaijiang",
+  "cityZh": "\u9752\u767d\u6c5f"
+}, {
+  "id": "CN101270116",
+  "cityEn": "jinjiang",
+  "cityZh": "\u9526\u6c5f"
+}, {
+  "id": "CN101270117",
+  "cityEn": "qingyang",
+  "cityZh": "\u9752\u7f8a"
+}, {
+  "id": "CN101270118",
+  "cityEn": "jinniu",
+  "cityZh": "\u91d1\u725b"
+}, {
+  "id": "CN101270119",
+  "cityEn": "wuhou",
+  "cityZh": "\u6b66\u4faf"
+}, {
+  "id": "CN101270120",
+  "cityEn": "chenghua",
+  "cityZh": "\u6210\u534e"
+}, {
+  "id": "CN101270121",
+  "cityEn": "jianyang",
+  "cityZh": "\u7b80\u9633"
+}, {
+  "id": "CN101270201",
+  "cityEn": "panzhihua",
+  "cityZh": "\u6500\u679d\u82b1"
+}, {
+  "id": "CN101270202",
+  "cityEn": "renhe",
+  "cityZh": "\u4ec1\u548c"
+}, {
+  "id": "CN101270203",
+  "cityEn": "miyi",
+  "cityZh": "\u7c73\u6613"
+}, {
+  "id": "CN101270204",
+  "cityEn": "yanbian",
+  "cityZh": "\u76d0\u8fb9"
+}, {
+  "id": "CN101270205",
+  "cityEn": "dongqu",
+  "cityZh": "\u4e1c\u533a"
+}, {
+  "id": "CN101270206",
+  "cityEn": "xiqu",
+  "cityZh": "\u897f\u533a"
+}, {
+  "id": "CN101270301",
+  "cityEn": "zigong",
+  "cityZh": "\u81ea\u8d21"
+}, {
+  "id": "CN101270302",
+  "cityEn": "fushun",
+  "cityZh": "\u5bcc\u987a"
+}, {
+  "id": "CN101270303",
+  "cityEn": "rongxian",
+  "cityZh": "\u8363\u53bf"
+}, {
+  "id": "CN101270304",
+  "cityEn": "ziliujing",
+  "cityZh": "\u81ea\u6d41\u4e95"
+}, {
+  "id": "CN101270305",
+  "cityEn": "gongjing",
+  "cityZh": "\u8d21\u4e95"
+}, {
+  "id": "CN101270306",
+  "cityEn": "daan",
+  "cityZh": "\u5927\u5b89"
+}, {
+  "id": "CN101270307",
+  "cityEn": "yantan",
+  "cityZh": "\u6cbf\u6ee9"
+}, {
+  "id": "CN101270401",
+  "cityEn": "mianyang",
+  "cityZh": "\u7ef5\u9633"
+}, {
+  "id": "CN101270402",
+  "cityEn": "santai",
+  "cityZh": "\u4e09\u53f0"
+}, {
+  "id": "CN101270403",
+  "cityEn": "yanting",
+  "cityZh": "\u76d0\u4ead"
+}, {
+  "id": "CN101270404",
+  "cityEn": "anxian",
+  "cityZh": "\u5b89\u53bf"
+}, {
+  "id": "CN101270405",
+  "cityEn": "zitong",
+  "cityZh": "\u6893\u6f7c"
+}, {
+  "id": "CN101270406",
+  "cityEn": "beichuan",
+  "cityZh": "\u5317\u5ddd"
+}, {
+  "id": "CN101270407",
+  "cityEn": "pingwu",
+  "cityZh": "\u5e73\u6b66"
+}, {
+  "id": "CN101270408",
+  "cityEn": "jiangyou",
+  "cityZh": "\u6c5f\u6cb9"
+}, {
+  "id": "CN101270409",
+  "cityEn": "fucheng",
+  "cityZh": "\u6daa\u57ce"
+}, {
+  "id": "CN101270410",
+  "cityEn": "youxian",
+  "cityZh": "\u6e38\u4ed9"
+}, {
+  "id": "CN101270411",
+  "cityEn": "anzhou",
+  "cityZh": "\u5b89\u5dde"
+}, {
+  "id": "CN101270501",
+  "cityEn": "nanchong",
+  "cityZh": "\u5357\u5145"
+}, {
+  "id": "CN101270502",
+  "cityEn": "nanbu",
+  "cityZh": "\u5357\u90e8"
+}, {
+  "id": "CN101270503",
+  "cityEn": "yingshan",
+  "cityZh": "\u8425\u5c71"
+}, {
+  "id": "CN101270504",
+  "cityEn": "pengan",
+  "cityZh": "\u84ec\u5b89"
+}, {
+  "id": "CN101270505",
+  "cityEn": "yilong",
+  "cityZh": "\u4eea\u9647"
+}, {
+  "id": "CN101270506",
+  "cityEn": "xichong",
+  "cityZh": "\u897f\u5145"
+}, {
+  "id": "CN101270507",
+  "cityEn": "langzhong",
+  "cityZh": "\u9606\u4e2d"
+}, {
+  "id": "CN101270508",
+  "cityEn": "shunqing",
+  "cityZh": "\u987a\u5e86"
+}, {
+  "id": "CN101270509",
+  "cityEn": "gaoping",
+  "cityZh": "\u9ad8\u576a"
+}, {
+  "id": "CN101270510",
+  "cityEn": "jialing",
+  "cityZh": "\u5609\u9675"
+}, {
+  "id": "CN101270601",
+  "cityEn": "dazhou",
+  "cityZh": "\u8fbe\u5dde"
+}, {
+  "id": "CN101270602",
+  "cityEn": "xuanhan",
+  "cityZh": "\u5ba3\u6c49"
+}, {
+  "id": "CN101270603",
+  "cityEn": "kaijiang",
+  "cityZh": "\u5f00\u6c5f"
+}, {
+  "id": "CN101270604",
+  "cityEn": "dazhu",
+  "cityZh": "\u5927\u7af9"
+}, {
+  "id": "CN101270605",
+  "cityEn": "quxian",
+  "cityZh": "\u6e20\u53bf"
+}, {
+  "id": "CN101270606",
+  "cityEn": "wanyuan",
+  "cityZh": "\u4e07\u6e90"
+}, {
+  "id": "CN101270607",
+  "cityEn": "tongchuan",
+  "cityZh": "\u901a\u5ddd"
+}, {
+  "id": "CN101270608",
+  "cityEn": "dachuan",
+  "cityZh": "\u8fbe\u5ddd"
+}, {
+  "id": "CN101270701",
+  "cityEn": "suining",
+  "cityZh": "\u9042\u5b81"
+}, {
+  "id": "CN101270702",
+  "cityEn": "pengxi",
+  "cityZh": "\u84ec\u6eaa"
+}, {
+  "id": "CN101270703",
+  "cityEn": "shehong",
+  "cityZh": "\u5c04\u6d2a"
+}, {
+  "id": "CN101270704",
+  "cityEn": "chuanshan",
+  "cityZh": "\u8239\u5c71"
+}, {
+  "id": "CN101270705",
+  "cityEn": "anju",
+  "cityZh": "\u5b89\u5c45"
+}, {
+  "id": "CN101270706",
+  "cityEn": "daying",
+  "cityZh": "\u5927\u82f1"
+}, {
+  "id": "CN101270801",
+  "cityEn": "guangan",
+  "cityZh": "\u5e7f\u5b89"
+}, {
+  "id": "CN101270802",
+  "cityEn": "yuechi",
+  "cityZh": "\u5cb3\u6c60"
+}, {
+  "id": "CN101270803",
+  "cityEn": "wusheng",
+  "cityZh": "\u6b66\u80dc"
+}, {
+  "id": "CN101270804",
+  "cityEn": "linshui",
+  "cityZh": "\u90bb\u6c34"
+}, {
+  "id": "CN101270805",
+  "cityEn": "huaying",
+  "cityZh": "\u534e\u84e5"
+}, {
+  "id": "CN101270806",
+  "cityEn": "qianfeng",
+  "cityZh": "\u524d\u950b"
+}, {
+  "id": "CN101270901",
+  "cityEn": "bazhong",
+  "cityZh": "\u5df4\u4e2d"
+}, {
+  "id": "CN101270902",
+  "cityEn": "tongjiang",
+  "cityZh": "\u901a\u6c5f"
+}, {
+  "id": "CN101270903",
+  "cityEn": "nanjiang",
+  "cityZh": "\u5357\u6c5f"
+}, {
+  "id": "CN101270904",
+  "cityEn": "pingchang",
+  "cityZh": "\u5e73\u660c"
+}, {
+  "id": "CN101270905",
+  "cityEn": "bazhou",
+  "cityZh": "\u5df4\u5dde"
+}, {
+  "id": "CN101270906",
+  "cityEn": "enyang",
+  "cityZh": "\u6069\u9633"
+}, {
+  "id": "CN101271001",
+  "cityEn": "luzhou",
+  "cityZh": "\u6cf8\u5dde"
+}, {
+  "id": "CN101271002",
+  "cityEn": "jiangyang",
+  "cityZh": "\u6c5f\u9633"
+}, {
+  "id": "CN101271003",
+  "cityEn": "luxian",
+  "cityZh": "\u6cf8\u53bf"
+}, {
+  "id": "CN101271004",
+  "cityEn": "hejiang",
+  "cityZh": "\u5408\u6c5f"
+}, {
+  "id": "CN101271005",
+  "cityEn": "xuyong",
+  "cityZh": "\u53d9\u6c38"
+}, {
+  "id": "CN101271006",
+  "cityEn": "gulin",
+  "cityZh": "\u53e4\u853a"
+}, {
+  "id": "CN101271007",
+  "cityEn": "naxi",
+  "cityZh": "\u7eb3\u6eaa"
+}, {
+  "id": "CN101271008",
+  "cityEn": "longmatan",
+  "cityZh": "\u9f99\u9a6c\u6f6d"
+}, {
+  "id": "CN101271101",
+  "cityEn": "yibin",
+  "cityZh": "\u5b9c\u5bbe"
+}, {
+  "id": "CN101271102",
+  "cityEn": "cuiping",
+  "cityZh": "\u7fe0\u5c4f"
+}, {
+  "id": "CN101271103",
+  "cityEn": "yibinxian",
+  "cityZh": "\u5b9c\u5bbe\u53bf"
+}, {
+  "id": "CN101271104",
+  "cityEn": "nanxi",
+  "cityZh": "\u5357\u6eaa"
+}, {
+  "id": "CN101271105",
+  "cityEn": "jiangan",
+  "cityZh": "\u6c5f\u5b89"
+}, {
+  "id": "CN101271106",
+  "cityEn": "changning",
+  "cityZh": "\u957f\u5b81"
+}, {
+  "id": "CN101271107",
+  "cityEn": "gaoxian",
+  "cityZh": "\u9ad8\u53bf"
+}, {
+  "id": "CN101271108",
+  "cityEn": "gongxian",
+  "cityZh": "\u73d9\u53bf"
+}, {
+  "id": "CN101271109",
+  "cityEn": "junlian",
+  "cityZh": "\u7b60\u8fde"
+}, {
+  "id": "CN101271110",
+  "cityEn": "xingwen",
+  "cityZh": "\u5174\u6587"
+}, {
+  "id": "CN101271111",
+  "cityEn": "pingshan",
+  "cityZh": "\u5c4f\u5c71"
+}, {
+  "id": "CN101271201",
+  "cityEn": "neijiang",
+  "cityZh": "\u5185\u6c5f"
+}, {
+  "id": "CN101271202",
+  "cityEn": "dongxing",
+  "cityZh": "\u4e1c\u5174"
+}, {
+  "id": "CN101271203",
+  "cityEn": "weiyuan",
+  "cityZh": "\u5a01\u8fdc"
+}, {
+  "id": "CN101271204",
+  "cityEn": "zizhong",
+  "cityZh": "\u8d44\u4e2d"
+}, {
+  "id": "CN101271205",
+  "cityEn": "longchang",
+  "cityZh": "\u9686\u660c"
+}, {
+  "id": "CN101271206",
+  "cityEn": "shizhong",
+  "cityZh": "\u5e02\u4e2d"
+}, {
+  "id": "CN101271301",
+  "cityEn": "ziyang",
+  "cityZh": "\u8d44\u9633"
+}, {
+  "id": "CN101271302",
+  "cityEn": "anyue",
+  "cityZh": "\u5b89\u5cb3"
+}, {
+  "id": "CN101271303",
+  "cityEn": "lezhi",
+  "cityZh": "\u4e50\u81f3"
+}, {
+  "id": "CN101271305",
+  "cityEn": "yanjiang",
+  "cityZh": "\u96c1\u6c5f"
+}, {
+  "id": "CN101271401",
+  "cityEn": "leshan",
+  "cityZh": "\u4e50\u5c71"
+}, {
+  "id": "CN101271402",
+  "cityEn": "qianwei",
+  "cityZh": "\u728d\u4e3a"
+}, {
+  "id": "CN101271403",
+  "cityEn": "jingyan",
+  "cityZh": "\u4e95\u7814"
+}, {
+  "id": "CN101271404",
+  "cityEn": "jiajiang",
+  "cityZh": "\u5939\u6c5f"
+}, {
+  "id": "CN101271405",
+  "cityEn": "muchuan",
+  "cityZh": "\u6c90\u5ddd"
+}, {
+  "id": "CN101271406",
+  "cityEn": "ebian",
+  "cityZh": "\u5ce8\u8fb9"
+}, {
+  "id": "CN101271407",
+  "cityEn": "mabian",
+  "cityZh": "\u9a6c\u8fb9"
+}, {
+  "id": "CN101271409",
+  "cityEn": "emeishan",
+  "cityZh": "\u5ce8\u7709\u5c71"
+}, {
+  "id": "CN101271410",
+  "cityEn": "shizhong",
+  "cityZh": "\u5e02\u4e2d"
+}, {
+  "id": "CN101271411",
+  "cityEn": "shawan",
+  "cityZh": "\u6c99\u6e7e"
+}, {
+  "id": "CN101271412",
+  "cityEn": "wutongqiao",
+  "cityZh": "\u4e94\u901a\u6865"
+}, {
+  "id": "CN101271413",
+  "cityEn": "jinkouhe",
+  "cityZh": "\u91d1\u53e3\u6cb3"
+}, {
+  "id": "CN101271501",
+  "cityEn": "meishan",
+  "cityZh": "\u7709\u5c71"
+}, {
+  "id": "CN101271502",
+  "cityEn": "renshou",
+  "cityZh": "\u4ec1\u5bff"
+}, {
+  "id": "CN101271503",
+  "cityEn": "pengshan",
+  "cityZh": "\u5f6d\u5c71"
+}, {
+  "id": "CN101271504",
+  "cityEn": "hongya",
+  "cityZh": "\u6d2a\u96c5"
+}, {
+  "id": "CN101271505",
+  "cityEn": "danleng",
+  "cityZh": "\u4e39\u68f1"
+}, {
+  "id": "CN101271506",
+  "cityEn": "qingshen",
+  "cityZh": "\u9752\u795e"
+}, {
+  "id": "CN101271507",
+  "cityEn": "dongpo",
+  "cityZh": "\u4e1c\u5761"
+}, {
+  "id": "CN101271601",
+  "cityEn": "liangshan",
+  "cityZh": "\u51c9\u5c71"
+}, {
+  "id": "CN101271603",
+  "cityEn": "muli",
+  "cityZh": "\u6728\u91cc"
+}, {
+  "id": "CN101271604",
+  "cityEn": "yanyuan",
+  "cityZh": "\u76d0\u6e90"
+}, {
+  "id": "CN101271605",
+  "cityEn": "dechang",
+  "cityZh": "\u5fb7\u660c"
+}, {
+  "id": "CN101271606",
+  "cityEn": "huili",
+  "cityZh": "\u4f1a\u7406"
+}, {
+  "id": "CN101271607",
+  "cityEn": "huidong",
+  "cityZh": "\u4f1a\u4e1c"
+}, {
+  "id": "CN101271608",
+  "cityEn": "ningnan",
+  "cityZh": "\u5b81\u5357"
+}, {
+  "id": "CN101271609",
+  "cityEn": "puge",
+  "cityZh": "\u666e\u683c"
+}, {
+  "id": "CN101271610",
+  "cityEn": "xichang",
+  "cityZh": "\u897f\u660c"
+}, {
+  "id": "CN101271611",
+  "cityEn": "jinyang",
+  "cityZh": "\u91d1\u9633"
+}, {
+  "id": "CN101271612",
+  "cityEn": "zhaojue",
+  "cityZh": "\u662d\u89c9"
+}, {
+  "id": "CN101271613",
+  "cityEn": "xide",
+  "cityZh": "\u559c\u5fb7"
+}, {
+  "id": "CN101271614",
+  "cityEn": "mianning",
+  "cityZh": "\u5195\u5b81"
+}, {
+  "id": "CN101271615",
+  "cityEn": "yuexi",
+  "cityZh": "\u8d8a\u897f"
+}, {
+  "id": "CN101271616",
+  "cityEn": "ganluo",
+  "cityZh": "\u7518\u6d1b"
+}, {
+  "id": "CN101271617",
+  "cityEn": "leibo",
+  "cityZh": "\u96f7\u6ce2"
+}, {
+  "id": "CN101271618",
+  "cityEn": "meigu",
+  "cityZh": "\u7f8e\u59d1"
+}, {
+  "id": "CN101271619",
+  "cityEn": "butuo",
+  "cityZh": "\u5e03\u62d6"
+}, {
+  "id": "CN101271701",
+  "cityEn": "yaan",
+  "cityZh": "\u96c5\u5b89"
+}, {
+  "id": "CN101271702",
+  "cityEn": "mingshan",
+  "cityZh": "\u540d\u5c71"
+}, {
+  "id": "CN101271703",
+  "cityEn": "yingjing",
+  "cityZh": "\u8365\u7ecf"
+}, {
+  "id": "CN101271704",
+  "cityEn": "hanyuan",
+  "cityZh": "\u6c49\u6e90"
+}, {
+  "id": "CN101271705",
+  "cityEn": "shimian",
+  "cityZh": "\u77f3\u68c9"
+}, {
+  "id": "CN101271706",
+  "cityEn": "tianquan",
+  "cityZh": "\u5929\u5168"
+}, {
+  "id": "CN101271707",
+  "cityEn": "lushan",
+  "cityZh": "\u82a6\u5c71"
+}, {
+  "id": "CN101271708",
+  "cityEn": "baoxing",
+  "cityZh": "\u5b9d\u5174"
+}, {
+  "id": "CN101271709",
+  "cityEn": "yucheng",
+  "cityZh": "\u96e8\u57ce"
+}, {
+  "id": "CN101271801",
+  "cityEn": "ganzi",
+  "cityZh": "\u7518\u5b5c"
+}, {
+  "id": "CN101271802",
+  "cityEn": "kangding",
+  "cityZh": "\u5eb7\u5b9a"
+}, {
+  "id": "CN101271803",
+  "cityEn": "luding",
+  "cityZh": "\u6cf8\u5b9a"
+}, {
+  "id": "CN101271804",
+  "cityEn": "danba",
+  "cityZh": "\u4e39\u5df4"
+}, {
+  "id": "CN101271805",
+  "cityEn": "jiulong",
+  "cityZh": "\u4e5d\u9f99"
+}, {
+  "id": "CN101271806",
+  "cityEn": "yajiang",
+  "cityZh": "\u96c5\u6c5f"
+}, {
+  "id": "CN101271807",
+  "cityEn": "daofu",
+  "cityZh": "\u9053\u5b5a"
+}, {
+  "id": "CN101271808",
+  "cityEn": "luhuo",
+  "cityZh": "\u7089\u970d"
+}, {
+  "id": "CN101271809",
+  "cityEn": "xinlong",
+  "cityZh": "\u65b0\u9f99"
+}, {
+  "id": "CN101271810",
+  "cityEn": "dege",
+  "cityZh": "\u5fb7\u683c"
+}, {
+  "id": "CN101271811",
+  "cityEn": "baiyu",
+  "cityZh": "\u767d\u7389"
+}, {
+  "id": "CN101271812",
+  "cityEn": "shiqu",
+  "cityZh": "\u77f3\u6e20"
+}, {
+  "id": "CN101271813",
+  "cityEn": "seda",
+  "cityZh": "\u8272\u8fbe"
+}, {
+  "id": "CN101271814",
+  "cityEn": "litang",
+  "cityZh": "\u7406\u5858"
+}, {
+  "id": "CN101271815",
+  "cityEn": "batang",
+  "cityZh": "\u5df4\u5858"
+}, {
+  "id": "CN101271816",
+  "cityEn": "xiangcheng",
+  "cityZh": "\u4e61\u57ce"
+}, {
+  "id": "CN101271817",
+  "cityEn": "daocheng",
+  "cityZh": "\u7a3b\u57ce"
+}, {
+  "id": "CN101271818",
+  "cityEn": "derong",
+  "cityZh": "\u5f97\u8363"
+}, {
+  "id": "CN101271901",
+  "cityEn": "aba",
+  "cityZh": "\u963f\u575d"
+}, {
+  "id": "CN101271902",
+  "cityEn": "wenchuan",
+  "cityZh": "\u6c76\u5ddd"
+}, {
+  "id": "CN101271903",
+  "cityEn": "lixian",
+  "cityZh": "\u7406\u53bf"
+}, {
+  "id": "CN101271904",
+  "cityEn": "maoxian",
+  "cityZh": "\u8302\u53bf"
+}, {
+  "id": "CN101271905",
+  "cityEn": "songfan",
+  "cityZh": "\u677e\u6f58"
+}, {
+  "id": "CN101271906",
+  "cityEn": "jiuzhaigou",
+  "cityZh": "\u4e5d\u5be8\u6c9f"
+}, {
+  "id": "CN101271907",
+  "cityEn": "jinchuan",
+  "cityZh": "\u91d1\u5ddd"
+}, {
+  "id": "CN101271908",
+  "cityEn": "xiaojin",
+  "cityZh": "\u5c0f\u91d1"
+}, {
+  "id": "CN101271909",
+  "cityEn": "heishui",
+  "cityZh": "\u9ed1\u6c34"
+}, {
+  "id": "CN101271910",
+  "cityEn": "maerkang",
+  "cityZh": "\u9a6c\u5c14\u5eb7"
+}, {
+  "id": "CN101271911",
+  "cityEn": "rangtang",
+  "cityZh": "\u58e4\u5858"
+}, {
+  "id": "CN101271912",
+  "cityEn": "nuoergai",
+  "cityZh": "\u82e5\u5c14\u76d6"
+}, {
+  "id": "CN101271913",
+  "cityEn": "hongyuan",
+  "cityZh": "\u7ea2\u539f"
+}, {
+  "id": "CN101272001",
+  "cityEn": "deyang",
+  "cityZh": "\u5fb7\u9633"
+}, {
+  "id": "CN101272002",
+  "cityEn": "zhongjiang",
+  "cityZh": "\u4e2d\u6c5f"
+}, {
+  "id": "CN101272003",
+  "cityEn": "guanghan",
+  "cityZh": "\u5e7f\u6c49"
+}, {
+  "id": "CN101272004",
+  "cityEn": "shifang",
+  "cityZh": "\u4ec0\u90a1"
+}, {
+  "id": "CN101272005",
+  "cityEn": "mianzhu",
+  "cityZh": "\u7ef5\u7af9"
+}, {
+  "id": "CN101272006",
+  "cityEn": "luojiang",
+  "cityZh": "\u7f57\u6c5f"
+}, {
+  "id": "CN101272007",
+  "cityEn": "jingyang",
+  "cityZh": "\u65cc\u9633"
+}, {
+  "id": "CN101272101",
+  "cityEn": "guangyuan",
+  "cityZh": "\u5e7f\u5143"
+}, {
+  "id": "CN101272102",
+  "cityEn": "wangcang",
+  "cityZh": "\u65fa\u82cd"
+}, {
+  "id": "CN101272103",
+  "cityEn": "qingchuan",
+  "cityZh": "\u9752\u5ddd"
+}, {
+  "id": "CN101272104",
+  "cityEn": "jiange",
+  "cityZh": "\u5251\u9601"
+}, {
+  "id": "CN101272105",
+  "cityEn": "cangxi",
+  "cityZh": "\u82cd\u6eaa"
+}, {
+  "id": "CN101272106",
+  "cityEn": "lizhou",
+  "cityZh": "\u5229\u5dde"
+}, {
+  "id": "CN101272107",
+  "cityEn": "zhaohua",
+  "cityZh": "\u662d\u5316"
+}, {
+  "id": "CN101272108",
+  "cityEn": "chaotian",
+  "cityZh": "\u671d\u5929"
+}, {
+  "id": "CN101280101",
+  "cityEn": "guangzhou",
+  "cityZh": "\u5e7f\u5dde"
+}, {
+  "id": "CN101280102",
+  "cityEn": "panyu",
+  "cityZh": "\u756a\u79ba"
+}, {
+  "id": "CN101280103",
+  "cityEn": "conghua",
+  "cityZh": "\u4ece\u5316"
+}, {
+  "id": "CN101280104",
+  "cityEn": "zengcheng",
+  "cityZh": "\u589e\u57ce"
+}, {
+  "id": "CN101280105",
+  "cityEn": "huadu",
+  "cityZh": "\u82b1\u90fd"
+}, {
+  "id": "CN101280106",
+  "cityEn": "liwan",
+  "cityZh": "\u8354\u6e7e"
+}, {
+  "id": "CN101280107",
+  "cityEn": "yuexiu",
+  "cityZh": "\u8d8a\u79c0"
+}, {
+  "id": "CN101280108",
+  "cityEn": "haizhu",
+  "cityZh": "\u6d77\u73e0"
+}, {
+  "id": "CN101280109",
+  "cityEn": "tianhe",
+  "cityZh": "\u5929\u6cb3"
+}, {
+  "id": "CN101280110",
+  "cityEn": "baiyun",
+  "cityZh": "\u767d\u4e91"
+}, {
+  "id": "CN101280111",
+  "cityEn": "huangpu",
+  "cityZh": "\u9ec4\u57d4"
+}, {
+  "id": "CN101280112",
+  "cityEn": "nansha",
+  "cityZh": "\u5357\u6c99"
+}, {
+  "id": "CN101280201",
+  "cityEn": "shaoguan",
+  "cityZh": "\u97f6\u5173"
+}, {
+  "id": "CN101280202",
+  "cityEn": "ruyuan",
+  "cityZh": "\u4e73\u6e90"
+}, {
+  "id": "CN101280203",
+  "cityEn": "shixing",
+  "cityZh": "\u59cb\u5174"
+}, {
+  "id": "CN101280204",
+  "cityEn": "wengyuan",
+  "cityZh": "\u7fc1\u6e90"
+}, {
+  "id": "CN101280205",
+  "cityEn": "lechang",
+  "cityZh": "\u4e50\u660c"
+}, {
+  "id": "CN101280206",
+  "cityEn": "renhua",
+  "cityZh": "\u4ec1\u5316"
+}, {
+  "id": "CN101280207",
+  "cityEn": "nanxiong",
+  "cityZh": "\u5357\u96c4"
+}, {
+  "id": "CN101280208",
+  "cityEn": "xinfeng",
+  "cityZh": "\u65b0\u4e30"
+}, {
+  "id": "CN101280209",
+  "cityEn": "qujiang",
+  "cityZh": "\u66f2\u6c5f"
+}, {
+  "id": "CN101280210",
+  "cityEn": "zhenjiang",
+  "cityZh": "\u6d48\u6c5f"
+}, {
+  "id": "CN101280211",
+  "cityEn": "wujiang",
+  "cityZh": "\u6b66\u6c5f"
+}, {
+  "id": "CN101280301",
+  "cityEn": "huizhou",
+  "cityZh": "\u60e0\u5dde"
+}, {
+  "id": "CN101280302",
+  "cityEn": "boluo",
+  "cityZh": "\u535a\u7f57"
+}, {
+  "id": "CN101280303",
+  "cityEn": "huiyang",
+  "cityZh": "\u60e0\u9633"
+}, {
+  "id": "CN101280304",
+  "cityEn": "huidong",
+  "cityZh": "\u60e0\u4e1c"
+}, {
+  "id": "CN101280305",
+  "cityEn": "longmen",
+  "cityZh": "\u9f99\u95e8"
+}, {
+  "id": "CN101280306",
+  "cityEn": "huicheng",
+  "cityZh": "\u60e0\u57ce"
+}, {
+  "id": "CN101280401",
+  "cityEn": "meizhou",
+  "cityZh": "\u6885\u5dde"
+}, {
+  "id": "CN101280402",
+  "cityEn": "xingning",
+  "cityZh": "\u5174\u5b81"
+}, {
+  "id": "CN101280403",
+  "cityEn": "jiaoling",
+  "cityZh": "\u8549\u5cad"
+}, {
+  "id": "CN101280404",
+  "cityEn": "dabu",
+  "cityZh": "\u5927\u57d4"
+}, {
+  "id": "CN101280405",
+  "cityEn": "meijiang",
+  "cityZh": "\u6885\u6c5f"
+}, {
+  "id": "CN101280406",
+  "cityEn": "fengshun",
+  "cityZh": "\u4e30\u987a"
+}, {
+  "id": "CN101280407",
+  "cityEn": "pingyuan",
+  "cityZh": "\u5e73\u8fdc"
+}, {
+  "id": "CN101280408",
+  "cityEn": "wuhua",
+  "cityZh": "\u4e94\u534e"
+}, {
+  "id": "CN101280409",
+  "cityEn": "meixian",
+  "cityZh": "\u6885\u53bf"
+}, {
+  "id": "CN101280501",
+  "cityEn": "shantou",
+  "cityZh": "\u6c55\u5934"
+}, {
+  "id": "CN101280502",
+  "cityEn": "chaoyang",
+  "cityZh": "\u6f6e\u9633"
+}, {
+  "id": "CN101280503",
+  "cityEn": "chenghai",
+  "cityZh": "\u6f84\u6d77"
+}, {
+  "id": "CN101280504",
+  "cityEn": "nanao",
+  "cityZh": "\u5357\u6fb3"
+}, {
+  "id": "CN101280505",
+  "cityEn": "longhu",
+  "cityZh": "\u9f99\u6e56"
+}, {
+  "id": "CN101280506",
+  "cityEn": "jinping",
+  "cityZh": "\u91d1\u5e73"
+}, {
+  "id": "CN101280507",
+  "cityEn": "haojiang",
+  "cityZh": "\u6fe0\u6c5f"
+}, {
+  "id": "CN101280508",
+  "cityEn": "chaonan",
+  "cityZh": "\u6f6e\u5357"
+}, {
+  "id": "CN101280601",
+  "cityEn": "shenzhen",
+  "cityZh": "\u6df1\u5733"
+}, {
+  "id": "CN101280602",
+  "cityEn": "luohu",
+  "cityZh": "\u7f57\u6e56"
+}, {
+  "id": "CN101280603",
+  "cityEn": "futian",
+  "cityZh": "\u798f\u7530"
+}, {
+  "id": "CN101280604",
+  "cityEn": "nanshan",
+  "cityZh": "\u5357\u5c71"
+}, {
+  "id": "CN101280605",
+  "cityEn": "baoan",
+  "cityZh": "\u5b9d\u5b89"
+}, {
+  "id": "CN101280606",
+  "cityEn": "longgang",
+  "cityZh": "\u9f99\u5c97"
+}, {
+  "id": "CN101280607",
+  "cityEn": "yantian",
+  "cityZh": "\u76d0\u7530"
+}, {
+  "id": "CN101280701",
+  "cityEn": "zhuhai",
+  "cityZh": "\u73e0\u6d77"
+}, {
+  "id": "CN101280702",
+  "cityEn": "doumen",
+  "cityZh": "\u6597\u95e8"
+}, {
+  "id": "CN101280703",
+  "cityEn": "jinwan",
+  "cityZh": "\u91d1\u6e7e"
+}, {
+  "id": "CN101280704",
+  "cityEn": "xiangzhou",
+  "cityZh": "\u9999\u6d32"
+}, {
+  "id": "CN101280800",
+  "cityEn": "foshan",
+  "cityZh": "\u4f5b\u5c71"
+}, {
+  "id": "CN101280801",
+  "cityEn": "shunde",
+  "cityZh": "\u987a\u5fb7"
+}, {
+  "id": "CN101280802",
+  "cityEn": "sanshui",
+  "cityZh": "\u4e09\u6c34"
+}, {
+  "id": "CN101280803",
+  "cityEn": "nanhai",
+  "cityZh": "\u5357\u6d77"
+}, {
+  "id": "CN101280804",
+  "cityEn": "gaoming",
+  "cityZh": "\u9ad8\u660e"
+}, {
+  "id": "CN101280805",
+  "cityEn": "chancheng",
+  "cityZh": "\u7985\u57ce"
+}, {
+  "id": "CN101280901",
+  "cityEn": "zhaoqing",
+  "cityZh": "\u8087\u5e86"
+}, {
+  "id": "CN101280902",
+  "cityEn": "guangning",
+  "cityZh": "\u5e7f\u5b81"
+}, {
+  "id": "CN101280903",
+  "cityEn": "sihui",
+  "cityZh": "\u56db\u4f1a"
+}, {
+  "id": "CN101280904",
+  "cityEn": "duanzhou",
+  "cityZh": "\u7aef\u5dde"
+}, {
+  "id": "CN101280905",
+  "cityEn": "deqing",
+  "cityZh": "\u5fb7\u5e86"
+}, {
+  "id": "CN101280906",
+  "cityEn": "huaiji",
+  "cityZh": "\u6000\u96c6"
+}, {
+  "id": "CN101280907",
+  "cityEn": "fengkai",
+  "cityZh": "\u5c01\u5f00"
+}, {
+  "id": "CN101280908",
+  "cityEn": "gaoyao",
+  "cityZh": "\u9ad8\u8981"
+}, {
+  "id": "CN101280909",
+  "cityEn": "dinghu",
+  "cityZh": "\u9f0e\u6e56"
+}, {
+  "id": "CN101281001",
+  "cityEn": "zhanjiang",
+  "cityZh": "\u6e5b\u6c5f"
+}, {
+  "id": "CN101281002",
+  "cityEn": "wuchuan",
+  "cityZh": "\u5434\u5ddd"
+}, {
+  "id": "CN101281003",
+  "cityEn": "leizhou",
+  "cityZh": "\u96f7\u5dde"
+}, {
+  "id": "CN101281004",
+  "cityEn": "xuwen",
+  "cityZh": "\u5f90\u95fb"
+}, {
+  "id": "CN101281005",
+  "cityEn": "lianjiang",
+  "cityZh": "\u5ec9\u6c5f"
+}, {
+  "id": "CN101281006",
+  "cityEn": "chikan",
+  "cityZh": "\u8d64\u574e"
+}, {
+  "id": "CN101281007",
+  "cityEn": "suixi",
+  "cityZh": "\u9042\u6eaa"
+}, {
+  "id": "CN101281008",
+  "cityEn": "potou",
+  "cityZh": "\u5761\u5934"
+}, {
+  "id": "CN101281009",
+  "cityEn": "xiashan",
+  "cityZh": "\u971e\u5c71"
+}, {
+  "id": "CN101281010",
+  "cityEn": "mazhang",
+  "cityZh": "\u9ebb\u7ae0"
+}, {
+  "id": "CN101281101",
+  "cityEn": "jiangmen",
+  "cityZh": "\u6c5f\u95e8"
+}, {
+  "id": "CN101281103",
+  "cityEn": "kaiping",
+  "cityZh": "\u5f00\u5e73"
+}, {
+  "id": "CN101281104",
+  "cityEn": "xinhui",
+  "cityZh": "\u65b0\u4f1a"
+}, {
+  "id": "CN101281105",
+  "cityEn": "enping",
+  "cityZh": "\u6069\u5e73"
+}, {
+  "id": "CN101281106",
+  "cityEn": "taishan",
+  "cityZh": "\u53f0\u5c71"
+}, {
+  "id": "CN101281107",
+  "cityEn": "pengjiang",
+  "cityZh": "\u84ec\u6c5f"
+}, {
+  "id": "CN101281108",
+  "cityEn": "heshan",
+  "cityZh": "\u9e64\u5c71"
+}, {
+  "id": "CN101281109",
+  "cityEn": "jianghai",
+  "cityZh": "\u6c5f\u6d77"
+}, {
+  "id": "CN101281201",
+  "cityEn": "heyuan",
+  "cityZh": "\u6cb3\u6e90"
+}, {
+  "id": "CN101281202",
+  "cityEn": "zijin",
+  "cityZh": "\u7d2b\u91d1"
+}, {
+  "id": "CN101281203",
+  "cityEn": "lianping",
+  "cityZh": "\u8fde\u5e73"
+}, {
+  "id": "CN101281204",
+  "cityEn": "heping",
+  "cityZh": "\u548c\u5e73"
+}, {
+  "id": "CN101281205",
+  "cityEn": "longchuan",
+  "cityZh": "\u9f99\u5ddd"
+}, {
+  "id": "CN101281206",
+  "cityEn": "dongyuan",
+  "cityZh": "\u4e1c\u6e90"
+}, {
+  "id": "CN101281207",
+  "cityEn": "yuancheng",
+  "cityZh": "\u6e90\u57ce"
+}, {
+  "id": "CN101281301",
+  "cityEn": "qingyuan",
+  "cityZh": "\u6e05\u8fdc"
+}, {
+  "id": "CN101281302",
+  "cityEn": "liannan",
+  "cityZh": "\u8fde\u5357"
+}, {
+  "id": "CN101281303",
+  "cityEn": "lianzhou",
+  "cityZh": "\u8fde\u5dde"
+}, {
+  "id": "CN101281304",
+  "cityEn": "lianshan",
+  "cityZh": "\u8fde\u5c71"
+}, {
+  "id": "CN101281305",
+  "cityEn": "yangshan",
+  "cityZh": "\u9633\u5c71"
+}, {
+  "id": "CN101281306",
+  "cityEn": "fogang",
+  "cityZh": "\u4f5b\u5188"
+}, {
+  "id": "CN101281307",
+  "cityEn": "yingde",
+  "cityZh": "\u82f1\u5fb7"
+}, {
+  "id": "CN101281308",
+  "cityEn": "qingxin",
+  "cityZh": "\u6e05\u65b0"
+}, {
+  "id": "CN101281309",
+  "cityEn": "qingcheng",
+  "cityZh": "\u6e05\u57ce"
+}, {
+  "id": "CN101281401",
+  "cityEn": "yunfu",
+  "cityZh": "\u4e91\u6d6e"
+}, {
+  "id": "CN101281402",
+  "cityEn": "luoding",
+  "cityZh": "\u7f57\u5b9a"
+}, {
+  "id": "CN101281403",
+  "cityEn": "xinxing",
+  "cityZh": "\u65b0\u5174"
+}, {
+  "id": "CN101281404",
+  "cityEn": "yunan",
+  "cityZh": "\u90c1\u5357"
+}, {
+  "id": "CN101281405",
+  "cityEn": "yuncheng",
+  "cityZh": "\u4e91\u57ce"
+}, {
+  "id": "CN101281406",
+  "cityEn": "yunan",
+  "cityZh": "\u4e91\u5b89"
+}, {
+  "id": "CN101281501",
+  "cityEn": "chaozhou",
+  "cityZh": "\u6f6e\u5dde"
+}, {
+  "id": "CN101281502",
+  "cityEn": "raoping",
+  "cityZh": "\u9976\u5e73"
+}, {
+  "id": "CN101281503",
+  "cityEn": "chaoan",
+  "cityZh": "\u6f6e\u5b89"
+}, {
+  "id": "CN101281504",
+  "cityEn": "xiangqiao",
+  "cityZh": "\u6e58\u6865"
+}, {
+  "id": "CN101281601",
+  "cityEn": "dongguan",
+  "cityZh": "\u4e1c\u839e"
+}, {
+  "id": "CN101281701",
+  "cityEn": "zhongshan",
+  "cityZh": "\u4e2d\u5c71"
+}, {
+  "id": "CN101281801",
+  "cityEn": "yangjiang",
+  "cityZh": "\u9633\u6c5f"
+}, {
+  "id": "CN101281802",
+  "cityEn": "yangchun",
+  "cityZh": "\u9633\u6625"
+}, {
+  "id": "CN101281803",
+  "cityEn": "yangdong",
+  "cityZh": "\u9633\u4e1c"
+}, {
+  "id": "CN101281804",
+  "cityEn": "yangxi",
+  "cityZh": "\u9633\u897f"
+}, {
+  "id": "CN101281805",
+  "cityEn": "jiangcheng",
+  "cityZh": "\u6c5f\u57ce"
+}, {
+  "id": "CN101281901",
+  "cityEn": "jieyang",
+  "cityZh": "\u63ed\u9633"
+}, {
+  "id": "CN101281902",
+  "cityEn": "jiexi",
+  "cityZh": "\u63ed\u897f"
+}, {
+  "id": "CN101281903",
+  "cityEn": "puning",
+  "cityZh": "\u666e\u5b81"
+}, {
+  "id": "CN101281904",
+  "cityEn": "huilai",
+  "cityZh": "\u60e0\u6765"
+}, {
+  "id": "CN101281905",
+  "cityEn": "jiedong",
+  "cityZh": "\u63ed\u4e1c"
+}, {
+  "id": "CN101281906",
+  "cityEn": "rongcheng",
+  "cityZh": "\u6995\u57ce"
+}, {
+  "id": "CN101282001",
+  "cityEn": "maoming",
+  "cityZh": "\u8302\u540d"
+}, {
+  "id": "CN101282002",
+  "cityEn": "gaozhou",
+  "cityZh": "\u9ad8\u5dde"
+}, {
+  "id": "CN101282003",
+  "cityEn": "huazhou",
+  "cityZh": "\u5316\u5dde"
+}, {
+  "id": "CN101282004",
+  "cityEn": "dianbai",
+  "cityZh": "\u7535\u767d"
+}, {
+  "id": "CN101282005",
+  "cityEn": "xinyi",
+  "cityZh": "\u4fe1\u5b9c"
+}, {
+  "id": "CN101282007",
+  "cityEn": "maonan",
+  "cityZh": "\u8302\u5357"
+}, {
+  "id": "CN101282101",
+  "cityEn": "shanwei",
+  "cityZh": "\u6c55\u5c3e"
+}, {
+  "id": "CN101282102",
+  "cityEn": "haifeng",
+  "cityZh": "\u6d77\u4e30"
+}, {
+  "id": "CN101282103",
+  "cityEn": "lufeng",
+  "cityZh": "\u9646\u4e30"
+}, {
+  "id": "CN101282104",
+  "cityEn": "luhe",
+  "cityZh": "\u9646\u6cb3"
+}, {
+  "id": "CN101290101",
+  "cityEn": "kunming",
+  "cityZh": "\u6606\u660e"
+}, {
+  "id": "CN101290102",
+  "cityEn": "wuhua",
+  "cityZh": "\u4e94\u534e"
+}, {
+  "id": "CN101290103",
+  "cityEn": "dongchuan",
+  "cityZh": "\u4e1c\u5ddd"
+}, {
+  "id": "CN101290104",
+  "cityEn": "xundian",
+  "cityZh": "\u5bfb\u7538"
+}, {
+  "id": "CN101290105",
+  "cityEn": "jinning",
+  "cityZh": "\u664b\u5b81"
+}, {
+  "id": "CN101290106",
+  "cityEn": "yiliang",
+  "cityZh": "\u5b9c\u826f"
+}, {
+  "id": "CN101290107",
+  "cityEn": "shilin",
+  "cityZh": "\u77f3\u6797"
+}, {
+  "id": "CN101290108",
+  "cityEn": "chenggong",
+  "cityZh": "\u5448\u8d21"
+}, {
+  "id": "CN101290109",
+  "cityEn": "fumin",
+  "cityZh": "\u5bcc\u6c11"
+}, {
+  "id": "CN101290110",
+  "cityEn": "songming",
+  "cityZh": "\u5d69\u660e"
+}, {
+  "id": "CN101290111",
+  "cityEn": "luquan",
+  "cityZh": "\u7984\u529d"
+}, {
+  "id": "CN101290112",
+  "cityEn": "anning",
+  "cityZh": "\u5b89\u5b81"
+}, {
+  "id": "CN101290114",
+  "cityEn": "panlong",
+  "cityZh": "\u76d8\u9f99"
+}, {
+  "id": "CN101290115",
+  "cityEn": "guandu",
+  "cityZh": "\u5b98\u6e21"
+}, {
+  "id": "CN101290116",
+  "cityEn": "xishan",
+  "cityZh": "\u897f\u5c71"
+}, {
+  "id": "CN101290201",
+  "cityEn": "dali",
+  "cityZh": "\u5927\u7406"
+}, {
+  "id": "CN101290202",
+  "cityEn": "yunlong",
+  "cityZh": "\u4e91\u9f99"
+}, {
+  "id": "CN101290203",
+  "cityEn": "yangbi",
+  "cityZh": "\u6f3e\u6fde"
+}, {
+  "id": "CN101290204",
+  "cityEn": "yongping",
+  "cityZh": "\u6c38\u5e73"
+}, {
+  "id": "CN101290205",
+  "cityEn": "binchuan",
+  "cityZh": "\u5bbe\u5ddd"
+}, {
+  "id": "CN101290206",
+  "cityEn": "midu",
+  "cityZh": "\u5f25\u6e21"
+}, {
+  "id": "CN101290207",
+  "cityEn": "xiangyun",
+  "cityZh": "\u7965\u4e91"
+}, {
+  "id": "CN101290208",
+  "cityEn": "weishan",
+  "cityZh": "\u5dcd\u5c71"
+}, {
+  "id": "CN101290209",
+  "cityEn": "jianchuan",
+  "cityZh": "\u5251\u5ddd"
+}, {
+  "id": "CN101290210",
+  "cityEn": "eryuan",
+  "cityZh": "\u6d31\u6e90"
+}, {
+  "id": "CN101290211",
+  "cityEn": "heqing",
+  "cityZh": "\u9e64\u5e86"
+}, {
+  "id": "CN101290212",
+  "cityEn": "nanjian",
+  "cityZh": "\u5357\u6da7"
+}, {
+  "id": "CN101290301",
+  "cityEn": "honghe",
+  "cityZh": "\u7ea2\u6cb3"
+}, {
+  "id": "CN101290302",
+  "cityEn": "shiping",
+  "cityZh": "\u77f3\u5c4f"
+}, {
+  "id": "CN101290303",
+  "cityEn": "jianshui",
+  "cityZh": "\u5efa\u6c34"
+}, {
+  "id": "CN101290304",
+  "cityEn": "mile",
+  "cityZh": "\u5f25\u52d2"
+}, {
+  "id": "CN101290305",
+  "cityEn": "yuanyang",
+  "cityZh": "\u5143\u9633"
+}, {
+  "id": "CN101290306",
+  "cityEn": "lvchun",
+  "cityZh": "\u7eff\u6625"
+}, {
+  "id": "CN101290307",
+  "cityEn": "kaiyuan",
+  "cityZh": "\u5f00\u8fdc"
+}, {
+  "id": "CN101290308",
+  "cityEn": "gejiu",
+  "cityZh": "\u4e2a\u65e7"
+}, {
+  "id": "CN101290309",
+  "cityEn": "mengzi",
+  "cityZh": "\u8499\u81ea"
+}, {
+  "id": "CN101290310",
+  "cityEn": "pingbian",
+  "cityZh": "\u5c4f\u8fb9"
+}, {
+  "id": "CN101290311",
+  "cityEn": "luxi",
+  "cityZh": "\u6cf8\u897f"
+}, {
+  "id": "CN101290312",
+  "cityEn": "jinping",
+  "cityZh": "\u91d1\u5e73"
+}, {
+  "id": "CN101290313",
+  "cityEn": "hekou",
+  "cityZh": "\u6cb3\u53e3"
+}, {
+  "id": "CN101290401",
+  "cityEn": "qujing",
+  "cityZh": "\u66f2\u9756"
+}, {
+  "id": "CN101290402",
+  "cityEn": "zhanyi",
+  "cityZh": "\u6cbe\u76ca"
+}, {
+  "id": "CN101290403",
+  "cityEn": "luliang",
+  "cityZh": "\u9646\u826f"
+}, {
+  "id": "CN101290404",
+  "cityEn": "fuyuan",
+  "cityZh": "\u5bcc\u6e90"
+}, {
+  "id": "CN101290405",
+  "cityEn": "malong",
+  "cityZh": "\u9a6c\u9f99"
+}, {
+  "id": "CN101290406",
+  "cityEn": "shizong",
+  "cityZh": "\u5e08\u5b97"
+}, {
+  "id": "CN101290407",
+  "cityEn": "luoping",
+  "cityZh": "\u7f57\u5e73"
+}, {
+  "id": "CN101290408",
+  "cityEn": "huize",
+  "cityZh": "\u4f1a\u6cfd"
+}, {
+  "id": "CN101290409",
+  "cityEn": "xuanwei",
+  "cityZh": "\u5ba3\u5a01"
+}, {
+  "id": "CN101290410",
+  "cityEn": "qilin",
+  "cityZh": "\u9e92\u9e9f"
+}, {
+  "id": "CN101290501",
+  "cityEn": "baoshan",
+  "cityZh": "\u4fdd\u5c71"
+}, {
+  "id": "CN101290502",
+  "cityEn": "longyang",
+  "cityZh": "\u9686\u9633"
+}, {
+  "id": "CN101290503",
+  "cityEn": "longling",
+  "cityZh": "\u9f99\u9675"
+}, {
+  "id": "CN101290504",
+  "cityEn": "sidian",
+  "cityZh": "\u65bd\u7538"
+}, {
+  "id": "CN101290505",
+  "cityEn": "changning",
+  "cityZh": "\u660c\u5b81"
+}, {
+  "id": "CN101290506",
+  "cityEn": "tengchong",
+  "cityZh": "\u817e\u51b2"
+}, {
+  "id": "CN101290601",
+  "cityEn": "wenshan",
+  "cityZh": "\u6587\u5c71"
+}, {
+  "id": "CN101290602",
+  "cityEn": "xichou",
+  "cityZh": "\u897f\u7574"
+}, {
+  "id": "CN101290603",
+  "cityEn": "maguan",
+  "cityZh": "\u9a6c\u5173"
+}, {
+  "id": "CN101290604",
+  "cityEn": "malipo",
+  "cityZh": "\u9ebb\u6817\u5761"
+}, {
+  "id": "CN101290605",
+  "cityEn": "yanshan",
+  "cityZh": "\u781a\u5c71"
+}, {
+  "id": "CN101290606",
+  "cityEn": "qiubei",
+  "cityZh": "\u4e18\u5317"
+}, {
+  "id": "CN101290607",
+  "cityEn": "guangnan",
+  "cityZh": "\u5e7f\u5357"
+}, {
+  "id": "CN101290608",
+  "cityEn": "funing",
+  "cityZh": "\u5bcc\u5b81"
+}, {
+  "id": "CN101290701",
+  "cityEn": "yuxi",
+  "cityZh": "\u7389\u6eaa"
+}, {
+  "id": "CN101290702",
+  "cityEn": "chengjiang",
+  "cityZh": "\u6f84\u6c5f"
+}, {
+  "id": "CN101290703",
+  "cityEn": "jiangchuan",
+  "cityZh": "\u6c5f\u5ddd"
+}, {
+  "id": "CN101290704",
+  "cityEn": "tonghai",
+  "cityZh": "\u901a\u6d77"
+}, {
+  "id": "CN101290705",
+  "cityEn": "huaning",
+  "cityZh": "\u534e\u5b81"
+}, {
+  "id": "CN101290706",
+  "cityEn": "xinping",
+  "cityZh": "\u65b0\u5e73"
+}, {
+  "id": "CN101290707",
+  "cityEn": "yimen",
+  "cityZh": "\u6613\u95e8"
+}, {
+  "id": "CN101290708",
+  "cityEn": "eshan",
+  "cityZh": "\u5ce8\u5c71"
+}, {
+  "id": "CN101290709",
+  "cityEn": "yuanjiang",
+  "cityZh": "\u5143\u6c5f"
+}, {
+  "id": "CN101290710",
+  "cityEn": "hongta",
+  "cityZh": "\u7ea2\u5854"
+}, {
+  "id": "CN101290801",
+  "cityEn": "chuxiong",
+  "cityZh": "\u695a\u96c4"
+}, {
+  "id": "CN101290802",
+  "cityEn": "dayao",
+  "cityZh": "\u5927\u59da"
+}, {
+  "id": "CN101290803",
+  "cityEn": "yuanmou",
+  "cityZh": "\u5143\u8c0b"
+}, {
+  "id": "CN101290804",
+  "cityEn": "yaoan",
+  "cityZh": "\u59da\u5b89"
+}, {
+  "id": "CN101290805",
+  "cityEn": "mouding",
+  "cityZh": "\u725f\u5b9a"
+}, {
+  "id": "CN101290806",
+  "cityEn": "nanhua",
+  "cityZh": "\u5357\u534e"
+}, {
+  "id": "CN101290807",
+  "cityEn": "wuding",
+  "cityZh": "\u6b66\u5b9a"
+}, {
+  "id": "CN101290808",
+  "cityEn": "lufeng",
+  "cityZh": "\u7984\u4e30"
+}, {
+  "id": "CN101290809",
+  "cityEn": "shuangbai",
+  "cityZh": "\u53cc\u67cf"
+}, {
+  "id": "CN101290810",
+  "cityEn": "yongren",
+  "cityZh": "\u6c38\u4ec1"
+}, {
+  "id": "CN101290901",
+  "cityEn": "puer",
+  "cityZh": "\u666e\u6d31"
+}, {
+  "id": "CN101290902",
+  "cityEn": "jinggu",
+  "cityZh": "\u666f\u8c37"
+}, {
+  "id": "CN101290903",
+  "cityEn": "jingdong",
+  "cityZh": "\u666f\u4e1c"
+}, {
+  "id": "CN101290904",
+  "cityEn": "lancang",
+  "cityZh": "\u6f9c\u6ca7"
+}, {
+  "id": "CN101290905",
+  "cityEn": "simao",
+  "cityZh": "\u601d\u8305"
+}, {
+  "id": "CN101290906",
+  "cityEn": "mojiang",
+  "cityZh": "\u58a8\u6c5f"
+}, {
+  "id": "CN101290907",
+  "cityEn": "jiangcheng",
+  "cityZh": "\u6c5f\u57ce"
+}, {
+  "id": "CN101290908",
+  "cityEn": "menglian",
+  "cityZh": "\u5b5f\u8fde"
+}, {
+  "id": "CN101290909",
+  "cityEn": "ximeng",
+  "cityZh": "\u897f\u76df"
+}, {
+  "id": "CN101290911",
+  "cityEn": "zhenyuan",
+  "cityZh": "\u9547\u6c85"
+}, {
+  "id": "CN101290912",
+  "cityEn": "ninger",
+  "cityZh": "\u5b81\u6d31"
+}, {
+  "id": "CN101291001",
+  "cityEn": "zhaotong",
+  "cityZh": "\u662d\u901a"
+}, {
+  "id": "CN101291002",
+  "cityEn": "ludian",
+  "cityZh": "\u9c81\u7538"
+}, {
+  "id": "CN101291003",
+  "cityEn": "yiliang",
+  "cityZh": "\u5f5d\u826f"
+}, {
+  "id": "CN101291004",
+  "cityEn": "zhenxiong",
+  "cityZh": "\u9547\u96c4"
+}, {
+  "id": "CN101291005",
+  "cityEn": "weixin",
+  "cityZh": "\u5a01\u4fe1"
+}, {
+  "id": "CN101291006",
+  "cityEn": "qiaojia",
+  "cityZh": "\u5de7\u5bb6"
+}, {
+  "id": "CN101291007",
+  "cityEn": "suijiang",
+  "cityZh": "\u7ee5\u6c5f"
+}, {
+  "id": "CN101291008",
+  "cityEn": "yongshan",
+  "cityZh": "\u6c38\u5584"
+}, {
+  "id": "CN101291009",
+  "cityEn": "yanjin",
+  "cityZh": "\u76d0\u6d25"
+}, {
+  "id": "CN101291010",
+  "cityEn": "daguan",
+  "cityZh": "\u5927\u5173"
+}, {
+  "id": "CN101291011",
+  "cityEn": "shuifu",
+  "cityZh": "\u6c34\u5bcc"
+}, {
+  "id": "CN101291012",
+  "cityEn": "zhaoyang",
+  "cityZh": "\u662d\u9633"
+}, {
+  "id": "CN101291101",
+  "cityEn": "lincang",
+  "cityZh": "\u4e34\u6ca7"
+}, {
+  "id": "CN101291102",
+  "cityEn": "cangyuan",
+  "cityZh": "\u6ca7\u6e90"
+}, {
+  "id": "CN101291103",
+  "cityEn": "gengma",
+  "cityZh": "\u803f\u9a6c"
+}, {
+  "id": "CN101291104",
+  "cityEn": "shuangjiang",
+  "cityZh": "\u53cc\u6c5f"
+}, {
+  "id": "CN101291105",
+  "cityEn": "fengqing",
+  "cityZh": "\u51e4\u5e86"
+}, {
+  "id": "CN101291106",
+  "cityEn": "yongde",
+  "cityZh": "\u6c38\u5fb7"
+}, {
+  "id": "CN101291107",
+  "cityEn": "yunxian",
+  "cityZh": "\u4e91\u53bf"
+}, {
+  "id": "CN101291108",
+  "cityEn": "zhenkang",
+  "cityZh": "\u9547\u5eb7"
+}, {
+  "id": "CN101291109",
+  "cityEn": "linxiang",
+  "cityZh": "\u4e34\u7fd4"
+}, {
+  "id": "CN101291201",
+  "cityEn": "nujiang",
+  "cityZh": "\u6012\u6c5f"
+}, {
+  "id": "CN101291203",
+  "cityEn": "fugong",
+  "cityZh": "\u798f\u8d21"
+}, {
+  "id": "CN101291204",
+  "cityEn": "lanping",
+  "cityZh": "\u5170\u576a"
+}, {
+  "id": "CN101291205",
+  "cityEn": "lushui",
+  "cityZh": "\u6cf8\u6c34"
+}, {
+  "id": "CN101291207",
+  "cityEn": "gongshan",
+  "cityZh": "\u8d21\u5c71"
+}, {
+  "id": "CN101291301",
+  "cityEn": "xianggelila",
+  "cityZh": "\u9999\u683c\u91cc\u62c9"
+}, {
+  "id": "CN101291302",
+  "cityEn": "deqin",
+  "cityZh": "\u5fb7\u94a6"
+}, {
+  "id": "CN101291303",
+  "cityEn": "weixi",
+  "cityZh": "\u7ef4\u897f"
+}, {
+  "id": "CN101291305",
+  "cityEn": "diqing",
+  "cityZh": "\u8fea\u5e86"
+}, {
+  "id": "CN101291401",
+  "cityEn": "lijiang",
+  "cityZh": "\u4e3d\u6c5f"
+}, {
+  "id": "CN101291402",
+  "cityEn": "yongsheng",
+  "cityZh": "\u6c38\u80dc"
+}, {
+  "id": "CN101291403",
+  "cityEn": "huaping",
+  "cityZh": "\u534e\u576a"
+}, {
+  "id": "CN101291404",
+  "cityEn": "ninglang",
+  "cityZh": "\u5b81\u8497"
+}, {
+  "id": "CN101291405",
+  "cityEn": "gucheng",
+  "cityZh": "\u53e4\u57ce"
+}, {
+  "id": "CN101291406",
+  "cityEn": "yulong",
+  "cityZh": "\u7389\u9f99"
+}, {
+  "id": "CN101291501",
+  "cityEn": "dehong",
+  "cityZh": "\u5fb7\u5b8f"
+}, {
+  "id": "CN101291503",
+  "cityEn": "longchuan",
+  "cityZh": "\u9647\u5ddd"
+}, {
+  "id": "CN101291504",
+  "cityEn": "yingjiang",
+  "cityZh": "\u76c8\u6c5f"
+}, {
+  "id": "CN101291506",
+  "cityEn": "ruili",
+  "cityZh": "\u745e\u4e3d"
+}, {
+  "id": "CN101291507",
+  "cityEn": "lianghe",
+  "cityZh": "\u6881\u6cb3"
+}, {
+  "id": "CN101291508",
+  "cityEn": "mangshi",
+  "cityZh": "\u8292\u5e02"
+}, {
+  "id": "CN101291601",
+  "cityEn": "jinghong",
+  "cityZh": "\u666f\u6d2a"
+}, {
+  "id": "CN101291602",
+  "cityEn": "xishuangbanna",
+  "cityZh": "\u897f\u53cc\u7248\u7eb3"
+}, {
+  "id": "CN101291603",
+  "cityEn": "menghai",
+  "cityZh": "\u52d0\u6d77"
+}, {
+  "id": "CN101291605",
+  "cityEn": "mengla",
+  "cityZh": "\u52d0\u814a"
+}, {
+  "id": "CN101300101",
+  "cityEn": "nanning",
+  "cityZh": "\u5357\u5b81"
+}, {
+  "id": "CN101300102",
+  "cityEn": "xingning",
+  "cityZh": "\u5174\u5b81"
+}, {
+  "id": "CN101300103",
+  "cityEn": "yongning",
+  "cityZh": "\u9095\u5b81"
+}, {
+  "id": "CN101300104",
+  "cityEn": "hengxian",
+  "cityZh": "\u6a2a\u53bf"
+}, {
+  "id": "CN101300105",
+  "cityEn": "longan",
+  "cityZh": "\u9686\u5b89"
+}, {
+  "id": "CN101300106",
+  "cityEn": "mashan",
+  "cityZh": "\u9a6c\u5c71"
+}, {
+  "id": "CN101300107",
+  "cityEn": "shanglin",
+  "cityZh": "\u4e0a\u6797"
+}, {
+  "id": "CN101300108",
+  "cityEn": "wuming",
+  "cityZh": "\u6b66\u9e23"
+}, {
+  "id": "CN101300109",
+  "cityEn": "binyang",
+  "cityZh": "\u5bbe\u9633"
+}, {
+  "id": "CN101300110",
+  "cityEn": "qingxiu",
+  "cityZh": "\u9752\u79c0"
+}, {
+  "id": "CN101300111",
+  "cityEn": "jiangnan",
+  "cityZh": "\u6c5f\u5357"
+}, {
+  "id": "CN101300112",
+  "cityEn": "xixiangtang",
+  "cityZh": "\u897f\u4e61\u5858"
+}, {
+  "id": "CN101300113",
+  "cityEn": "liangqing",
+  "cityZh": "\u826f\u5e86"
+}, {
+  "id": "CN101300201",
+  "cityEn": "chongzuo",
+  "cityZh": "\u5d07\u5de6"
+}, {
+  "id": "CN101300202",
+  "cityEn": "tiandeng",
+  "cityZh": "\u5929\u7b49"
+}, {
+  "id": "CN101300203",
+  "cityEn": "longzhou",
+  "cityZh": "\u9f99\u5dde"
+}, {
+  "id": "CN101300204",
+  "cityEn": "pingxiang",
+  "cityZh": "\u51ed\u7965"
+}, {
+  "id": "CN101300205",
+  "cityEn": "daxin",
+  "cityZh": "\u5927\u65b0"
+}, {
+  "id": "CN101300206",
+  "cityEn": "fusui",
+  "cityZh": "\u6276\u7ee5"
+}, {
+  "id": "CN101300207",
+  "cityEn": "ningming",
+  "cityZh": "\u5b81\u660e"
+}, {
+  "id": "CN101300208",
+  "cityEn": "jiangzhou",
+  "cityZh": "\u6c5f\u5dde"
+}, {
+  "id": "CN101300301",
+  "cityEn": "liuzhou",
+  "cityZh": "\u67f3\u5dde"
+}, {
+  "id": "CN101300302",
+  "cityEn": "liucheng",
+  "cityZh": "\u67f3\u57ce"
+}, {
+  "id": "CN101300303",
+  "cityEn": "chengzhong",
+  "cityZh": "\u57ce\u4e2d"
+}, {
+  "id": "CN101300304",
+  "cityEn": "luzhai",
+  "cityZh": "\u9e7f\u5be8"
+}, {
+  "id": "CN101300305",
+  "cityEn": "liujiang",
+  "cityZh": "\u67f3\u6c5f"
+}, {
+  "id": "CN101300306",
+  "cityEn": "rongan",
+  "cityZh": "\u878d\u5b89"
+}, {
+  "id": "CN101300307",
+  "cityEn": "rongshui",
+  "cityZh": "\u878d\u6c34"
+}, {
+  "id": "CN101300308",
+  "cityEn": "sanjiang",
+  "cityZh": "\u4e09\u6c5f"
+}, {
+  "id": "CN101300309",
+  "cityEn": "yufeng",
+  "cityZh": "\u9c7c\u5cf0"
+}, {
+  "id": "CN101300310",
+  "cityEn": "liunan",
+  "cityZh": "\u67f3\u5357"
+}, {
+  "id": "CN101300311",
+  "cityEn": "liubei",
+  "cityZh": "\u67f3\u5317"
+}, {
+  "id": "CN101300401",
+  "cityEn": "laibin",
+  "cityZh": "\u6765\u5bbe"
+}, {
+  "id": "CN101300402",
+  "cityEn": "xicheng",
+  "cityZh": "\u5ffb\u57ce"
+}, {
+  "id": "CN101300403",
+  "cityEn": "jinxiu",
+  "cityZh": "\u91d1\u79c0"
+}, {
+  "id": "CN101300404",
+  "cityEn": "xiangzhou",
+  "cityZh": "\u8c61\u5dde"
+}, {
+  "id": "CN101300405",
+  "cityEn": "wuxuan",
+  "cityZh": "\u6b66\u5ba3"
+}, {
+  "id": "CN101300406",
+  "cityEn": "heshan",
+  "cityZh": "\u5408\u5c71"
+}, {
+  "id": "CN101300407",
+  "cityEn": "xingbin",
+  "cityZh": "\u5174\u5bbe"
+}, {
+  "id": "CN101300501",
+  "cityEn": "guilin",
+  "cityZh": "\u6842\u6797"
+}, {
+  "id": "CN101300502",
+  "cityEn": "xiufeng",
+  "cityZh": "\u79c0\u5cf0"
+}, {
+  "id": "CN101300503",
+  "cityEn": "longsheng",
+  "cityZh": "\u9f99\u80dc"
+}, {
+  "id": "CN101300504",
+  "cityEn": "yongfu",
+  "cityZh": "\u6c38\u798f"
+}, {
+  "id": "CN101300505",
+  "cityEn": "lingui",
+  "cityZh": "\u4e34\u6842"
+}, {
+  "id": "CN101300506",
+  "cityEn": "xingan",
+  "cityZh": "\u5174\u5b89"
+}, {
+  "id": "CN101300507",
+  "cityEn": "lingchuan",
+  "cityZh": "\u7075\u5ddd"
+}, {
+  "id": "CN101300508",
+  "cityEn": "quanzhou",
+  "cityZh": "\u5168\u5dde"
+}, {
+  "id": "CN101300509",
+  "cityEn": "guanyang",
+  "cityZh": "\u704c\u9633"
+}, {
+  "id": "CN101300510",
+  "cityEn": "yangshuo",
+  "cityZh": "\u9633\u6714"
+}, {
+  "id": "CN101300511",
+  "cityEn": "gongcheng",
+  "cityZh": "\u606d\u57ce"
+}, {
+  "id": "CN101300512",
+  "cityEn": "pingle",
+  "cityZh": "\u5e73\u4e50"
+}, {
+  "id": "CN101300513",
+  "cityEn": "lipu",
+  "cityZh": "\u8354\u6d66"
+}, {
+  "id": "CN101300514",
+  "cityEn": "ziyuan",
+  "cityZh": "\u8d44\u6e90"
+}, {
+  "id": "CN101300515",
+  "cityEn": "diecai",
+  "cityZh": "\u53e0\u5f69"
+}, {
+  "id": "CN101300516",
+  "cityEn": "xiangshan",
+  "cityZh": "\u8c61\u5c71"
+}, {
+  "id": "CN101300517",
+  "cityEn": "qixing",
+  "cityZh": "\u4e03\u661f"
+}, {
+  "id": "CN101300518",
+  "cityEn": "yanshan",
+  "cityZh": "\u96c1\u5c71"
+}, {
+  "id": "CN101300601",
+  "cityEn": "wuzhou",
+  "cityZh": "\u68a7\u5dde"
+}, {
+  "id": "CN101300602",
+  "cityEn": "tengxian",
+  "cityZh": "\u85e4\u53bf"
+}, {
+  "id": "CN101300603",
+  "cityEn": "wanxiu",
+  "cityZh": "\u4e07\u79c0"
+}, {
+  "id": "CN101300604",
+  "cityEn": "cangwu",
+  "cityZh": "\u82cd\u68a7"
+}, {
+  "id": "CN101300605",
+  "cityEn": "mengshan",
+  "cityZh": "\u8499\u5c71"
+}, {
+  "id": "CN101300606",
+  "cityEn": "cenxi",
+  "cityZh": "\u5c91\u6eaa"
+}, {
+  "id": "CN101300607",
+  "cityEn": "changzhou",
+  "cityZh": "\u957f\u6d32"
+}, {
+  "id": "CN101300608",
+  "cityEn": "longwei",
+  "cityZh": "\u9f99\u5729"
+}, {
+  "id": "CN101300701",
+  "cityEn": "hezhou",
+  "cityZh": "\u8d3a\u5dde"
+}, {
+  "id": "CN101300702",
+  "cityEn": "zhaoping",
+  "cityZh": "\u662d\u5e73"
+}, {
+  "id": "CN101300703",
+  "cityEn": "fuchuan",
+  "cityZh": "\u5bcc\u5ddd"
+}, {
+  "id": "CN101300704",
+  "cityEn": "zhongshan",
+  "cityZh": "\u949f\u5c71"
+}, {
+  "id": "CN101300705",
+  "cityEn": "babu",
+  "cityZh": "\u516b\u6b65"
+}, {
+  "id": "CN101300706",
+  "cityEn": "pinggui",
+  "cityZh": "\u5e73\u6842"
+}, {
+  "id": "CN101300801",
+  "cityEn": "guigang",
+  "cityZh": "\u8d35\u6e2f"
+}, {
+  "id": "CN101300802",
+  "cityEn": "guiping",
+  "cityZh": "\u6842\u5e73"
+}, {
+  "id": "CN101300803",
+  "cityEn": "pingnan",
+  "cityZh": "\u5e73\u5357"
+}, {
+  "id": "CN101300804",
+  "cityEn": "gangbei",
+  "cityZh": "\u6e2f\u5317"
+}, {
+  "id": "CN101300805",
+  "cityEn": "gangnan",
+  "cityZh": "\u6e2f\u5357"
+}, {
+  "id": "CN101300806",
+  "cityEn": "tantang",
+  "cityZh": "\u8983\u5858"
+}, {
+  "id": "CN101300901",
+  "cityEn": "yulin",
+  "cityZh": "\u7389\u6797"
+}, {
+  "id": "CN101300902",
+  "cityEn": "bobai",
+  "cityZh": "\u535a\u767d"
+}, {
+  "id": "CN101300903",
+  "cityEn": "beiliu",
+  "cityZh": "\u5317\u6d41"
+}, {
+  "id": "CN101300904",
+  "cityEn": "rongxian",
+  "cityZh": "\u5bb9\u53bf"
+}, {
+  "id": "CN101300905",
+  "cityEn": "luchuan",
+  "cityZh": "\u9646\u5ddd"
+}, {
+  "id": "CN101300906",
+  "cityEn": "xingye",
+  "cityZh": "\u5174\u4e1a"
+}, {
+  "id": "CN101300907",
+  "cityEn": "yuzhou",
+  "cityZh": "\u7389\u5dde"
+}, {
+  "id": "CN101300908",
+  "cityEn": "fumian",
+  "cityZh": "\u798f\u7ef5"
+}, {
+  "id": "CN101301001",
+  "cityEn": "baise",
+  "cityZh": "\u767e\u8272"
+}, {
+  "id": "CN101301002",
+  "cityEn": "napo",
+  "cityZh": "\u90a3\u5761"
+}, {
+  "id": "CN101301003",
+  "cityEn": "tianyang",
+  "cityZh": "\u7530\u9633"
+}, {
+  "id": "CN101301004",
+  "cityEn": "debao",
+  "cityZh": "\u5fb7\u4fdd"
+}, {
+  "id": "CN101301005",
+  "cityEn": "jingxi",
+  "cityZh": "\u9756\u897f"
+}, {
+  "id": "CN101301006",
+  "cityEn": "tiandong",
+  "cityZh": "\u7530\u4e1c"
+}, {
+  "id": "CN101301007",
+  "cityEn": "pingguo",
+  "cityZh": "\u5e73\u679c"
+}, {
+  "id": "CN101301008",
+  "cityEn": "longlin",
+  "cityZh": "\u9686\u6797"
+}, {
+  "id": "CN101301009",
+  "cityEn": "xilin",
+  "cityZh": "\u897f\u6797"
+}, {
+  "id": "CN101301010",
+  "cityEn": "leye",
+  "cityZh": "\u4e50\u4e1a"
+}, {
+  "id": "CN101301011",
+  "cityEn": "lingyun",
+  "cityZh": "\u51cc\u4e91"
+}, {
+  "id": "CN101301012",
+  "cityEn": "tianlin",
+  "cityZh": "\u7530\u6797"
+}, {
+  "id": "CN101301013",
+  "cityEn": "youjiang",
+  "cityZh": "\u53f3\u6c5f"
+}, {
+  "id": "CN101301101",
+  "cityEn": "qinzhou",
+  "cityZh": "\u94a6\u5dde"
+}, {
+  "id": "CN101301102",
+  "cityEn": "pubei",
+  "cityZh": "\u6d66\u5317"
+}, {
+  "id": "CN101301103",
+  "cityEn": "lingshan",
+  "cityZh": "\u7075\u5c71"
+}, {
+  "id": "CN101301104",
+  "cityEn": "qinnan",
+  "cityZh": "\u94a6\u5357"
+}, {
+  "id": "CN101301105",
+  "cityEn": "qinbei",
+  "cityZh": "\u94a6\u5317"
+}, {
+  "id": "CN101301201",
+  "cityEn": "hechi",
+  "cityZh": "\u6cb3\u6c60"
+}, {
+  "id": "CN101301202",
+  "cityEn": "tiane",
+  "cityZh": "\u5929\u5ce8"
+}, {
+  "id": "CN101301203",
+  "cityEn": "donglan",
+  "cityZh": "\u4e1c\u5170"
+}, {
+  "id": "CN101301204",
+  "cityEn": "bama",
+  "cityZh": "\u5df4\u9a6c"
+}, {
+  "id": "CN101301205",
+  "cityEn": "huanjiang",
+  "cityZh": "\u73af\u6c5f"
+}, {
+  "id": "CN101301206",
+  "cityEn": "luocheng",
+  "cityZh": "\u7f57\u57ce"
+}, {
+  "id": "CN101301207",
+  "cityEn": "yizhou",
+  "cityZh": "\u5b9c\u5dde"
+}, {
+  "id": "CN101301208",
+  "cityEn": "fengshan",
+  "cityZh": "\u51e4\u5c71"
+}, {
+  "id": "CN101301209",
+  "cityEn": "nandan",
+  "cityZh": "\u5357\u4e39"
+}, {
+  "id": "CN101301210",
+  "cityEn": "andu",
+  "cityZh": "\u90fd\u5b89"
+}, {
+  "id": "CN101301211",
+  "cityEn": "dahua",
+  "cityZh": "\u5927\u5316"
+}, {
+  "id": "CN101301212",
+  "cityEn": "jinchengjiang",
+  "cityZh": "\u91d1\u57ce\u6c5f"
+}, {
+  "id": "CN101301301",
+  "cityEn": "beihai",
+  "cityZh": "\u5317\u6d77"
+}, {
+  "id": "CN101301302",
+  "cityEn": "hepu",
+  "cityZh": "\u5408\u6d66"
+}, {
+  "id": "CN101301304",
+  "cityEn": "haicheng",
+  "cityZh": "\u6d77\u57ce"
+}, {
+  "id": "CN101301305",
+  "cityEn": "yinhai",
+  "cityZh": "\u94f6\u6d77"
+}, {
+  "id": "CN101301306",
+  "cityEn": "tieshangang",
+  "cityZh": "\u94c1\u5c71\u6e2f"
+}, {
+  "id": "CN101301401",
+  "cityEn": "fangchenggang",
+  "cityZh": "\u9632\u57ce\u6e2f"
+}, {
+  "id": "CN101301402",
+  "cityEn": "shangsi",
+  "cityZh": "\u4e0a\u601d"
+}, {
+  "id": "CN101301403",
+  "cityEn": "dongxing",
+  "cityZh": "\u4e1c\u5174"
+}, {
+  "id": "CN101301404",
+  "cityEn": "gangkou",
+  "cityZh": "\u6e2f\u53e3"
+}, {
+  "id": "CN101301405",
+  "cityEn": "fangcheng",
+  "cityZh": "\u9632\u57ce"
+}, {
+  "id": "CN101310101",
+  "cityEn": "haikou",
+  "cityZh": "\u6d77\u53e3"
+}, {
+  "id": "CN101310102",
+  "cityEn": "xiuying",
+  "cityZh": "\u79c0\u82f1"
+}, {
+  "id": "CN101310103",
+  "cityEn": "longhua",
+  "cityZh": "\u9f99\u534e"
+}, {
+  "id": "CN101310104",
+  "cityEn": "qiongshan",
+  "cityZh": "\u743c\u5c71"
+}, {
+  "id": "CN101310105",
+  "cityEn": "meilan",
+  "cityZh": "\u7f8e\u5170"
+}, {
+  "id": "CN101310201",
+  "cityEn": "sanya",
+  "cityZh": "\u4e09\u4e9a"
+}, {
+  "id": "CN101310202",
+  "cityEn": "dongfang",
+  "cityZh": "\u4e1c\u65b9"
+}, {
+  "id": "CN101310203",
+  "cityEn": "lingao",
+  "cityZh": "\u4e34\u9ad8"
+}, {
+  "id": "CN101310204",
+  "cityEn": "chengmai",
+  "cityZh": "\u6f84\u8fc8"
+}, {
+  "id": "CN101310205",
+  "cityEn": "danzhou",
+  "cityZh": "\u510b\u5dde"
+}, {
+  "id": "CN101310206",
+  "cityEn": "changjiang",
+  "cityZh": "\u660c\u6c5f"
+}, {
+  "id": "CN101310207",
+  "cityEn": "baisha",
+  "cityZh": "\u767d\u6c99"
+}, {
+  "id": "CN101310208",
+  "cityEn": "qiongzhong",
+  "cityZh": "\u743c\u4e2d"
+}, {
+  "id": "CN101310209",
+  "cityEn": "dingan",
+  "cityZh": "\u5b9a\u5b89"
+}, {
+  "id": "CN101310210",
+  "cityEn": "tunchang",
+  "cityZh": "\u5c6f\u660c"
+}, {
+  "id": "CN101310211",
+  "cityEn": "qionghai",
+  "cityZh": "\u743c\u6d77"
+}, {
+  "id": "CN101310212",
+  "cityEn": "wenchang",
+  "cityZh": "\u6587\u660c"
+}, {
+  "id": "CN101310213",
+  "cityEn": "haitang",
+  "cityZh": "\u6d77\u68e0"
+}, {
+  "id": "CN101310214",
+  "cityEn": "baoting",
+  "cityZh": "\u4fdd\u4ead"
+}, {
+  "id": "CN101310215",
+  "cityEn": "wanning",
+  "cityZh": "\u4e07\u5b81"
+}, {
+  "id": "CN101310216",
+  "cityEn": "lingshui",
+  "cityZh": "\u9675\u6c34"
+}, {
+  "id": "CN101310218",
+  "cityEn": "jiyang",
+  "cityZh": "\u5409\u9633"
+}, {
+  "id": "CN101310219",
+  "cityEn": "tianya",
+  "cityZh": "\u5929\u6daf"
+}, {
+  "id": "CN101310221",
+  "cityEn": "ledong",
+  "cityZh": "\u4e50\u4e1c"
+}, {
+  "id": "CN101310222",
+  "cityEn": "wuzhishan",
+  "cityZh": "\u4e94\u6307\u5c71"
+}, {
+  "id": "CN101310223",
+  "cityEn": "yazhou",
+  "cityZh": "\u5d16\u5dde"
+}, {
+  "id": "CN101310301",
+  "cityEn": "sansha",
+  "cityZh": "\u4e09\u6c99"
+}, {
+  "id": "CN101310302",
+  "cityEn": "xisha",
+  "cityZh": "\u897f\u6c99"
+}, {
+  "id": "CN101310303",
+  "cityEn": "zhongsha",
+  "cityZh": "\u4e2d\u6c99"
+}, {
+  "id": "CN101310304",
+  "cityEn": "nansha",
+  "cityZh": "\u5357\u6c99"
+}, {
+  "id": "CN101320101",
+  "cityEn": "hongkong",
+  "cityZh": "\u9999\u6e2f"
+}, {
+  "id": "CN101320102",
+  "cityEn": "jiulong",
+  "cityZh": "\u4e5d\u9f99"
+}, {
+  "id": "CN101320103",
+  "cityEn": "xinjie",
+  "cityZh": "\u65b0\u754c"
+}, {
+  "id": "CN101330101",
+  "cityEn": "macao",
+  "cityZh": "\u6fb3\u95e8"
+}, {
+  "id": "CN101330102",
+  "cityEn": "dangzidao",
+  "cityZh": "\u6c39\u4ed4\u5c9b"
+}, {
+  "id": "CN101330103",
+  "cityEn": "luhuandao",
+  "cityZh": "\u8def\u73af\u5c9b"
+}, {
+  "id": "CN101340101",
+  "cityEn": "taibeixian",
+  "cityZh": "\u53f0\u5317"
+}, {
+  "id": "CN101340102",
+  "cityEn": "taoyuan",
+  "cityZh": "\u6843\u56ed"
+}, {
+  "id": "CN101340103",
+  "cityEn": "xinzhu",
+  "cityZh": "\u65b0\u7af9"
+}, {
+  "id": "CN101340104",
+  "cityEn": "yilan",
+  "cityZh": "\u5b9c\u5170"
+}, {
+  "id": "CN101340201",
+  "cityEn": "gaoxiong",
+  "cityZh": "\u9ad8\u96c4"
+}, {
+  "id": "CN101340202",
+  "cityEn": "jiayi",
+  "cityZh": "\u5609\u4e49"
+}, {
+  "id": "CN101340203",
+  "cityEn": "tainan",
+  "cityZh": "\u53f0\u5357"
+}, {
+  "id": "CN101340204",
+  "cityEn": "taidong",
+  "cityZh": "\u53f0\u4e1c"
+}, {
+  "id": "CN101340205",
+  "cityEn": "pingdong",
+  "cityZh": "\u5c4f\u4e1c"
+}, {
+  "id": "CN101340401",
+  "cityEn": "taizhong",
+  "cityZh": "\u53f0\u4e2d"
+}, {
+  "id": "CN101340402",
+  "cityEn": "miaoli",
+  "cityZh": "\u82d7\u6817"
+}, {
+  "id": "CN101340403",
+  "cityEn": "zhanghua",
+  "cityZh": "\u5f70\u5316"
+}, {
+  "id": "CN101340404",
+  "cityEn": "nantou",
+  "cityZh": "\u5357\u6295"
+}, {
+  "id": "CN101340405",
+  "cityEn": "hualian",
+  "cityZh": "\u82b1\u83b2"
+}, {
+  "id": "CN101340406",
+  "cityEn": "yunlin",
+  "cityZh": "\u4e91\u6797"
+}]
