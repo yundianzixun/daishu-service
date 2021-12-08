@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+<appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+    <encoder>
+        <pattern>
+            <![CDATA[%n[%d{yyyy-MM-dd HH:mm:ss.SSS}] [level: %p] [Thread: %t] [ Class:%c >> Method: %M:%L ]%n%p:%m%n]]></pattern>
+    </encoder>
+</appender>
+<appender name="LOG_FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
+    <encoder>
+        <pattern>
+            <![CDATA[%n[%d{yyyy-MM-dd HH:mm:ss.SSS}] [level: %p] [Thread: %t] [ Class:%c >> Method: %M:%L ]%n%p:%m%n]]></pattern>
+    </encoder>
+    <file>logs/WeatherService.log</file>
+    <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+        <fileNamePattern>logs/WeatherService/WeatherService.-%d{yyyyMMdd}.%i.log</fileNamePattern>
+        <!-- 每天一个日志文件，当天的日志文件超过10MB时，生成新的日志文件，当天的日志文件数量超过totalSizeCap/maxFileSize，日志文件就会被回滚覆盖。 -->
+        <maxFileSize>10MB</maxFileSize>
+        <maxHistory>30</maxHistory>
+        <totalSizeCap>10GB</totalSizeCap>
+    </rollingPolicy>
+</appender>
+<logger name="com.itunion.weather" level="DEBUG" additivity="false">
+    <appender-ref ref="STDOUT"/>
+    <appender-ref ref="LOG_FILE"/>
+</logger>
+<root level="INFO">
+    <appender-ref ref="STDOUT"/>
+    <appender-ref ref="LOG_FILE"/>
+</root>
+</configuration>
+

@@ -1,0 +1,12 @@
+swagger:
+  enable: true
+tianqi:
+  url: https://www.tianqiapi.com
+  appid: xxxx
+  appsecret: xxxx
+weather:
+  d7_url: http://d7.weather.com.cn
+  d1_url: http://d1.weather.com.cn
+ws:
+  key: xxxx
+  url: https://apis.map.qq.com

@@ -1,0 +1,17 @@
+server:
+  port: 9002
+  servlet:
+    context-path: /weather
+
+
+spring:
+  application:
+    name: weather-service
+  profiles:
+    active: prod
+  servlet:
+    multipart:
+      max-file-size: -1
+      max-request-size: -1
+  jackson:
+    time-zone: GMT+8
