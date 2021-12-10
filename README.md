@@ -45,8 +45,8 @@
 * 远程调用 OpenFeign
 * 缓存 CacheBuilder
 * API在线接口文档 Swagger
-* 地理位置服务 腾讯地图
-* 天气API服务（https://www.tianqiapi.com/）
+* 地理位置服务 腾讯地图 （个人开发需独立申请：https://lbs.qq.com）
+* 天气API服务（个人开发需独立申请：https://www.tianqiapi.com/）
 
 API访问地址：http://127.0.0.1:9002/weather/swagger-ui.html
 
