@@ -35,12 +35,12 @@
 ```
 ## 视图展示
 ##### 首页
-![首页](/gif/home.gif)
+![首页](https://github.com/yundianzixun/daishu-service/blob/main/daishu-weather/gif/home.gif)
 
 
 ##### 搜索✌️
-![搜索✌️](/gif/search.gif)
+![搜索✌️](https://github.com/yundianzixun/daishu-service/blob/main/daishu-weather/gif/search.gif)
 
 
 ##### 关键字搜索✌️
-![关键字搜索✌️](/gif/search2.gif)
+![关键字搜索✌️](https://github.com/yundianzixun/daishu-service/blob/main/daishu-weather/gif/search2.gif)
