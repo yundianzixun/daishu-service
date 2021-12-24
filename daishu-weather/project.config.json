@@ -41,7 +41,7 @@
   "compileType": "miniprogram",
   "libVersion": "2.4.3",
   "appid": "wxfe787cb85726de69",
-  "projectname": "weather",
+  "projectname": "WeatherService",
   "isGameTourist": false,
   "condition": {
     "search": {

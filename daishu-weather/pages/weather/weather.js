@@ -177,9 +177,7 @@ Page({
     console.log(citycode)
     const data = {
       version: 'v1',
-      cityid: citycode,
-      appid: 18327832,
-      appsecret: 'c8AY0oB5'
+      cityid: citycode
     }
     Request({
       url: Type.TianQiApi,
