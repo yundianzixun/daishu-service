@@ -550,8 +550,8 @@ Page({
         win: i.win,
         speed,
         width: width + 'px',
-        src: [`../../images/weather/${queryWeather(wea[0], 'd').image}.png`,
-          `../../images/weather/${queryWeather(wea[1], 'n').image}.png`
+        src: [`${Type.WeatherImg}/weather/${queryWeather(wea[0], 'd').image}.png`,
+          `${Type.WeatherImg}/weather/${queryWeather(wea[1], 'n').image}.png`
         ],
       }
     })
