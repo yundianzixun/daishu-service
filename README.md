@@ -3,7 +3,7 @@
    <img src="https://img.shields.io/badge/Spring%20Cloud%20Alibaba-2.2.2.RELEAS-blue.svg" alt="Coverage Status">
    <img src="https://img.shields.io/badge/Spring%20Cloud-Hoxton.SR1-blue.svg" alt="Coverage Status">
    <img src="https://img.shields.io/badge/SpringBoot-2.3.7.RELEASE-brightgreen" alt="Coverage Status">
-   <img src="https://img.shields.io/badge/Swagger-2.10.5-brightgreen" alt="Coverage Status">
+   <img src="https://img.shields.io/badge/Swagger-3.0-brightgreen" alt="Coverage Status">
  </p> 
  
 > 启动小程序端项目时，还需要启动另一个项目[WeatherService](https://github.com/yundianzixun/daishu-service/tree/main/WeatherService) 作为天气业务的数据服务
